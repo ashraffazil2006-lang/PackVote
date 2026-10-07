@@ -1,0 +1,21 @@
+Name,State,Type,BestTimeToVisit,DestinationID,Popularity,Description,Avg_Rating,Review_Count,Popularity_Norm,Rating_Norm,Planning_City,Cost_Min,Cost_Max,Cost_Average
+Ajanta Ellora Caves,Maharashtra,Historical,Oct-Mar,7,8.788346,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments",4.424827586206897,725,0.5694501666942431,0.8849655172413794,Aurangabad,199.0,23626.0,7092.055555555556
+Andaman Islands,Andaman & Nicobar,Beach,Oct-Apr,3,8.697996,"Crystal-clear waters, coral reefs and exotic marine life",4.447103274559194,794,0.5048199076185591,0.8894206549118389,Port Blair,271.0,38131.0,9142.25
+Coorg,Karnataka,Nature,Oct-Mar,10,8.500803999999999,"Scotland of India with coffee plantations, waterfalls and forests",4.240384615384615,728,0.3637621317729339,0.848076923076923,Coorg,261.0,29488.0,7658.571428571428
+Goa Beaches,Goa,Beach,Nov-Mar,1,9.111752000000001,Pristine beaches with vibrant nightlife and Portuguese heritage,4.221914008321775,721,0.800792873574492,0.8443828016643551,Goa,308.0,45362.0,10790.125
+Hampi Ruins,Karnataka,Historical,Oct-Mar,6,8.6012,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape,4.271653543307087,762,0.4355786175522634,0.8543307086614174,Bangalore,319.0,34651.0,9298.7
+Jaipur City,Rajasthan,City,Oct-Mar,17,9.202096000000001,"Pink City with grand forts, palaces and vibrant bazaars",4.282152230971128,762,0.8654188406573204,0.8564304461942257,Jaipur,235.0,35386.0,9466.55
+Kaziranga,Assam,Nature,Nov-Apr,12,8.099346,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses,4.190039318479686,763,0.07658632050557816,0.8380078636959372,Kaziranga,263.0,28869.0,7793.0
+Kerala Backwaters,Kerala,Nature,Sep-Feb,9,8.897573999999999,"Serene network of canals, lagoons and lakes through lush greenery",4.284980744544288,779,0.6475844659562091,0.8569961489088576,Kerala,204.0,24609.0,6043.111111111111
+Khajuraho Temples,Madhya Pradesh,Historical,Oct-Mar,8,8.312982,"Medieval temples with intricate erotic sculptures, UNESCO listed",4.198910081743869,734,0.22940701810261918,0.8397820163487738,Khajuraho,204.0,25717.0,5579.125
+Kolkata,West Bengal,City,Oct-Mar,20,8.510854,"Cultural capital with colonial architecture, art and street food",4.147327249022164,767,0.37095121980514983,0.8294654498044329,Kolkata,292.0,28583.0,7438.875
+Kovalam Beach,Kerala,Beach,Oct-Mar,2,8.401156,Crescent-shaped beaches with lighthouse and Ayurvedic resorts,4.027777777777778,756,0.29248071443620344,0.8055555555555556,Trivandrum,189.0,34107.0,6127.4
+Leh Ladakh,Jammu & Kashmir,Adventure,May-Sep,13,8.992308000000001,"High-altitude desert with monasteries, passes and starry skies",4.337365591397849,744,0.7153507411446536,0.8674731182795699,Leh Ladakh,326.0,42950.0,10629.3125
+Manali,Himachal Pradesh,Adventure,Mar-Oct,15,8.925664,"Gateway to Rohtang Pass with skiing, trekking and river sports",4.205766710353866,763,0.6676781458392859,0.8411533420707732,Manali,256.0,36120.0,8441.875
+Munnar,Kerala,Nature,Sep-Feb,11,8.688977999999999,Rolling tea gardens and misty mountains at 1600m altitude,4.365205843293492,753,0.49836904235741264,0.8730411686586985,Munnar,262.0,35406.0,9238.722222222223
+Mysore,Karnataka,City,Sep-Feb,19,8.708662,City of palaces with grand Dasara celebrations and sandalwood,4.228646517739816,761,0.51244964025056,0.8457293035479632,Mysore,256.0,32217.0,6861.333333333333
+Radhanagar Beach,Andaman & Nicobar,Beach,Oct-Feb,4,8.212532,Asia's best beach with dense forest backdrop,4.098337950138504,722,0.15755190438759512,0.8196675900277007,Port Blair,271.0,38131.0,9142.25
+Rishikesh,Uttarakhand,Adventure,Feb-Nov,14,8.809262,Yoga capital of the world and white-water rafting on the Ganges,4.356449375866852,721,0.58441205378696,0.8712898751733704,Rishikesh,191.0,24194.0,6639.038461538462
+Spiti Valley,Himachal Pradesh,Adventure,May-Sep,16,7.992282,Cold desert mountain valley between India and Tibet,4.354881266490765,758,0.0,0.8709762532981531,Manali,256.0,36120.0,8441.875
+Taj Mahal,Uttar Pradesh,Historical,Oct-Mar,5,9.390234,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site",4.52544704264099,727,0.9999999992846678,0.905089408528198,Agra,236.0,35428.0,8417.1
+Varanasi,Uttar Pradesh,City,Oct-Mar,18,8.994624,"Oldest living city on earth, spiritual capital on the Ganges",4.467105263157895,760,0.7170074503867033,0.8934210526315789,Varanasi,209.0,34661.0,7780.928571428572

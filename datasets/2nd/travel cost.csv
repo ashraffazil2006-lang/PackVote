@@ -1,0 +1,451 @@
+City,Accomadation_Type,Accomdation_Cost
+Goa,Hostel,308 - 2126
+Goa,GuestHouse,747 - 5552
+Goa,Homestay,783 - 4449
+Goa,Hotel,1901 - 11063
+Goa,Boutique Hotel,3758 - 20701
+Goa,Resort,6262 - 31386
+Goa,Luxury Camps,4325 - 28543
+Mumbai,Hostel,358 - 2513
+Mumbai,GuestHouse,937 - 6365
+Mumbai,Homestay,1027 - 5899
+Mumbai,Hotel,2455 - 12904
+Mumbai,Boutique Hotel,4123 - 29527
+Mumbai,Resort,7881 - 39560
+Mumbai,Luxury Camps,5014 - 31160
+Delhi,Hostel,374 - 2590
+Delhi,GuestHouse,1076 - 6891
+Delhi,Homestay,970 - 6723
+Delhi,Hotel,1964 - 11899
+Delhi,Boutique Hotel,4254 - 26494
+Delhi,Resort,5897 - 41985
+Delhi,Luxury Camps,5321 - 30765
+Jaipur,Hostel,235 - 1802
+Jaipur,GuestHouse,698 - 5330
+Jaipur,Homestay,634 - 3925
+Jaipur,Hotel,1544 - 9016
+Jaipur,Boutique Hotel,3439 - 19807
+Jaipur,Resort,4655 - 28027
+Jaipur,Luxury Camps,4126 - 23073
+Agra,Hostel,261 - 2033
+Agra,GuestHouse,650 - 5201
+Agra,Homestay,658 - 3941
+Agra,Hotel,1539 - 11448
+Agra,Boutique Hotel,3394 - 18088
+Agra,Resort,5074 - 35428
+Agra,Luxury Camps,4328 - 25117
+Kerala,Hostel,204 - 1498
+Kerala,GuestHouse,693 - 3706
+Kerala,Homestay,476 - 3699
+Kerala,Hotel,1131 - 9017
+Kerala,Boutique Hotel,2330 - 16069
+Kerala,Resort,4565 - 24609
+Kerala,Luxury Camps,3004 - 18044
+Leh Ladakh,Hostel,326 - 2516
+Leh Ladakh,GuestHouse,980 - 5719
+Leh Ladakh,Homestay,757 - 4993
+Leh Ladakh,Hotel,1538 - 12628
+Leh Ladakh,Boutique Hotel,3280 - 24301
+Leh Ladakh,Resort,5926 - 42950
+Leh Ladakh,Luxury Camps,4600 - 24326
+Manali,Hostel,256 - 2155
+Manali,GuestHouse,724 - 4869
+Manali,Homestay,720 - 4742
+Manali,Hotel,1578 - 11640
+Manali,Boutique Hotel,3093 - 17856
+Manali,Resort,5663 - 36120
+Manali,Luxury Camps,4067 - 20086
+Rishikesh,Hostel,191 - 1667
+Rishikesh,GuestHouse,668 - 4217
+Rishikesh,Homestay,623 - 3658
+Rishikesh,Hotel,1221 - 9821
+Rishikesh,Boutique Hotel,3017 - 17669
+Rishikesh,Resort,4690 - 23554
+Rishikesh,Luxury Camps,3152 - 20015
+Mysore,Hostel,256 - 1945
+Mysore,GuestHouse,793 - 4046
+Mysore,Homestay,625 - 4534
+Mysore,Hotel,1440 - 9863
+Mysore,Boutique Hotel,2914 - 16481
+Mysore,Resort,5291 - 32217
+Mysore,Luxury Camps,3656 - 18565
+Kolkata,Hostel,292 - 2122
+Kolkata,GuestHouse,766 - 5151
+Kolkata,Homestay,658 - 4833
+Kolkata,Hotel,1789 - 11867
+Kolkata,Boutique Hotel,2862 - 18167
+Kolkata,Resort,5623 - 28583
+Kolkata,Luxury Camps,4334 - 24572
+Varanasi,Hostel,209 - 1655
+Varanasi,GuestHouse,744 - 5474
+Varanasi,Homestay,660 - 3700
+Varanasi,Hotel,1575 - 10947
+Varanasi,Boutique Hotel,2695 - 17939
+Varanasi,Resort,5273 - 34661
+Varanasi,Luxury Camps,3186 - 20215
+Coorg,Hostel,261 - 1640
+Coorg,GuestHouse,800 - 4959
+Coorg,Homestay,588 - 3886
+Coorg,Hotel,1603 - 10468
+Coorg,Boutique Hotel,3024 - 20132
+Coorg,Resort,4925 - 29488
+Coorg,Luxury Camps,4012 - 21434
+Munnar,Hostel,262 - 1899
+Munnar,GuestHouse,686 - 4606
+Munnar,Homestay,573 - 3627
+Munnar,Hotel,1387 - 10631
+Munnar,Boutique Hotel,2929 - 17602
+Munnar,Resort,4954 - 26611
+Munnar,Luxury Camps,3318 - 19160
+Bangalore,Hostel,319 - 2377
+Bangalore,GuestHouse,1066 - 5444
+Bangalore,Homestay,792 - 5901
+Bangalore,Hotel,1781 - 12736
+Bangalore,Boutique Hotel,3942 - 22590
+Bangalore,Resort,6915 - 34651
+Bangalore,Luxury Camps,4794 - 26678
+Chennai,Hostel,340 - 2569
+Chennai,GuestHouse,902 - 5112
+Chennai,Homestay,671 - 4532
+Chennai,Hotel,1791 - 12906
+Chennai,Boutique Hotel,3762 - 22245
+Chennai,Resort,6060 - 38345
+Chennai,Luxury Camps,3943 - 30820
+Hyderabad,Hostel,339 - 2461
+Hyderabad,GuestHouse,818 - 6717
+Hyderabad,Homestay,827 - 4519
+Hyderabad,Hotel,1594 - 11958
+Hyderabad,Boutique Hotel,3280 - 19380
+Hyderabad,Resort,5404 - 34237
+Hyderabad,Luxury Camps,4223 - 30225
+Pune,Hostel,283 - 2118
+Pune,GuestHouse,751 - 6059
+Pune,Homestay,726 - 5320
+Pune,Hotel,1614 - 11886
+Pune,Boutique Hotel,3758 - 21611
+Pune,Resort,5667 - 35276
+Pune,Luxury Camps,3827 - 24609
+Ahmedabad,Hostel,222 - 1632
+Ahmedabad,GuestHouse,622 - 4279
+Ahmedabad,Homestay,553 - 4509
+Ahmedabad,Hotel,1376 - 9470
+Ahmedabad,Boutique Hotel,3266 - 17679
+Ahmedabad,Resort,4329 - 31681
+Ahmedabad,Luxury Camps,3437 - 24720
+Surat,Hostel,225 - 1439
+Surat,GuestHouse,745 - 4536
+Surat,Homestay,484 - 3555
+Surat,Hotel,1470 - 8071
+Surat,Boutique Hotel,2775 - 14635
+Surat,Resort,4860 - 30973
+Surat,Luxury Camps,2822 - 20987
+Kochi,Hostel,248 - 1966
+Kochi,GuestHouse,682 - 5891
+Kochi,Homestay,581 - 4982
+Kochi,Hotel,1738 - 10581
+Kochi,Boutique Hotel,2831 - 18759
+Kochi,Resort,5226 - 34909
+Kochi,Luxury Camps,4282 - 26646
+Trivandrum,Hostel,238 - 2004
+Trivandrum,GuestHouse,683 - 5689
+Trivandrum,Homestay,623 - 4952
+Trivandrum,Hotel,1640 - 10268
+Trivandrum,Boutique Hotel,3162 - 17747
+Trivandrum,Resort,4574 - 34107
+Trivandrum,Luxury Camps,3726 - 21308
+Madurai,Hostel,286 - 2105
+Madurai,GuestHouse,815 - 4685
+Madurai,Homestay,618 - 4325
+Madurai,Hotel,1664 - 11288
+Madurai,Boutique Hotel,3486 - 21184
+Madurai,Resort,5491 - 29305
+Madurai,Luxury Camps,3912 - 24594
+Coimbatore,Hostel,219 - 1607
+Coimbatore,GuestHouse,705 - 3986
+Coimbatore,Homestay,575 - 4179
+Coimbatore,Hotel,1404 - 8053
+Coimbatore,Boutique Hotel,3083 - 17951
+Coimbatore,Resort,4623 - 30126
+Coimbatore,Luxury Camps,3019 - 17971
+Pondicherry,Hostel,228 - 1359
+Pondicherry,GuestHouse,517 - 3784
+Pondicherry,Homestay,561 - 3393
+Pondicherry,Hotel,1061 - 8628
+Pondicherry,Boutique Hotel,2683 - 13990
+Pondicherry,Resort,4227 - 23956
+Pondicherry,Luxury Camps,3009 - 15911
+Hampi,Hostel,286 - 1724
+Hampi,GuestHouse,734 - 5527
+Hampi,Homestay,634 - 5071
+Hampi,Hotel,1307 - 8944
+Hampi,Boutique Hotel,3355 - 16455
+Hampi,Resort,4667 - 36779
+Hampi,Luxury Camps,3601 - 20140
+Aurangabad,Hostel,199 - 1687
+Aurangabad,GuestHouse,611 - 3859
+Aurangabad,Homestay,520 - 3309
+Aurangabad,Hotel,1290 - 8682
+Aurangabad,Boutique Hotel,2868 - 14388
+Aurangabad,Resort,3783 - 23626
+Aurangabad,Luxury Camps,2748 - 17673
+Khajuraho,Hostel,225 - 1431
+Khajuraho,GuestHouse,587 - 4557
+Khajuraho,Homestay,614 - 4278
+Khajuraho,Hotel,1228 - 7690
+Khajuraho,Boutique Hotel,2319 - 14641
+Khajuraho,Resort,4002 - 25717
+Khajuraho,Luxury Camps,3510 - 16841
+Kaziranga,Hostel,263 - 1523
+Kaziranga,GuestHouse,601 - 5188
+Kaziranga,Homestay,637 - 3837
+Kaziranga,Hotel,1450 - 7967
+Kaziranga,Boutique Hotel,2734 - 16370
+Kaziranga,Resort,4972 - 28869
+Kaziranga,Luxury Camps,3866 - 20055
+Port Blair,Hostel,317 - 2166
+Port Blair,GuestHouse,983 - 6867
+Port Blair,Homestay,868 - 6423
+Port Blair,Hotel,1688 - 14239
+Port Blair,Boutique Hotel,4235 - 24288
+Port Blair,Resort,6919 - 38131
+Port Blair,Luxury Camps,4788 - 31606
+Darjeeling,Hostel,235 - 1509
+Darjeeling,GuestHouse,718 - 4774
+Darjeeling,Homestay,508 - 3612
+Darjeeling,Hotel,1178 - 9020
+Darjeeling,Boutique Hotel,2684 - 18440
+Darjeeling,Resort,5035 - 25832
+Darjeeling,Luxury Camps,3498 - 22343
+Gangtok,Hostel,206 - 1658
+Gangtok,GuestHouse,629 - 4608
+Gangtok,Homestay,524 - 3816
+Gangtok,Hotel,1399 - 8816
+Gangtok,Boutique Hotel,2810 - 15608
+Gangtok,Resort,4354 - 23778
+Gangtok,Luxury Camps,3436 - 16063
+Shimla,Hostel,266 - 1993
+Shimla,GuestHouse,845 - 4615
+Shimla,Homestay,533 - 4784
+Shimla,Hotel,1358 - 8917
+Shimla,Boutique Hotel,2894 - 17502
+Shimla,Resort,4277 - 29342
+Shimla,Luxury Camps,4227 - 24795
+Dehradun,Hostel,252 - 1760
+Dehradun,GuestHouse,771 - 5286
+Dehradun,Homestay,584 - 4355
+Dehradun,Hotel,1524 - 10658
+Dehradun,Boutique Hotel,3303 - 18007
+Dehradun,Resort,4255 - 31438
+Dehradun,Luxury Camps,3774 - 20297
+Haridwar,Hostel,243 - 1579
+Haridwar,GuestHouse,599 - 4468
+Haridwar,Homestay,508 - 4396
+Haridwar,Hotel,1454 - 9748
+Haridwar,Boutique Hotel,2810 - 19004
+Haridwar,Resort,4833 - 25000
+Haridwar,Luxury Camps,3825 - 20501
+Amritsar,Hostel,245 - 1666
+Amritsar,GuestHouse,665 - 4385
+Amritsar,Homestay,713 - 4029
+Amritsar,Hotel,1598 - 9518
+Amritsar,Boutique Hotel,3285 - 19619
+Amritsar,Resort,5249 - 32397
+Amritsar,Luxury Camps,4353 - 21913
+Chandigarh,Hostel,215 - 1580
+Chandigarh,GuestHouse,616 - 4563
+Chandigarh,Homestay,659 - 4352
+Chandigarh,Hotel,1306 - 10719
+Chandigarh,Boutique Hotel,2732 - 18476
+Chandigarh,Resort,5186 - 33079
+Chandigarh,Luxury Camps,3384 - 20701
+Agra,Hostel,236 - 2041
+Agra,GuestHouse,858 - 5166
+Agra,Homestay,683 - 4703
+Agra,Hotel,1730 - 10659
+Agra,Boutique Hotel,2857 - 19946
+Agra,Resort,5332 - 33446
+Agra,Luxury Camps,4061 - 23261
+Jodhpur,Hostel,271 - 2067
+Jodhpur,GuestHouse,772 - 4512
+Jodhpur,Homestay,576 - 3759
+Jodhpur,Hotel,1556 - 8504
+Jodhpur,Boutique Hotel,3252 - 15722
+Jodhpur,Resort,4151 - 31780
+Jodhpur,Luxury Camps,3428 - 21207
+Udaipur,Hostel,199 - 1492
+Udaipur,GuestHouse,653 - 3805
+Udaipur,Homestay,565 - 3616
+Udaipur,Hotel,1058 - 8396
+Udaipur,Boutique Hotel,2166 - 14761
+Udaipur,Resort,3661 - 28461
+Udaipur,Luxury Camps,2606 - 18257
+Bikaner,Hostel,289 - 2083
+Bikaner,GuestHouse,657 - 4717
+Bikaner,Homestay,640 - 4126
+Bikaner,Hotel,1346 - 9648
+Bikaner,Boutique Hotel,3551 - 19501
+Bikaner,Resort,5204 - 30577
+Bikaner,Luxury Camps,3934 - 21552
+Pushkar,Hostel,227 - 1786
+Pushkar,GuestHouse,750 - 4579
+Pushkar,Homestay,585 - 4221
+Pushkar,Hotel,1487 - 7682
+Pushkar,Boutique Hotel,2391 - 15322
+Pushkar,Resort,3845 - 24149
+Pushkar,Luxury Camps,3502 - 19408
+Ajmer,Hostel,229 - 1500
+Ajmer,GuestHouse,539 - 3881
+Ajmer,Homestay,438 - 3454
+Ajmer,Hotel,1186 - 8475
+Ajmer,Boutique Hotel,2248 - 13807
+Ajmer,Resort,4241 - 26396
+Ajmer,Luxury Camps,3094 - 18721
+Ranthambore,Hostel,192 - 1426
+Ranthambore,GuestHouse,707 - 4018
+Ranthambore,Homestay,580 - 3791
+Ranthambore,Hotel,1411 - 9495
+Ranthambore,Boutique Hotel,2726 - 15523
+Ranthambore,Resort,4317 - 24668
+Ranthambore,Luxury Camps,3446 - 20943
+Mount Abu,Hostel,195 - 1411
+Mount Abu,GuestHouse,645 - 3804
+Mount Abu,Homestay,580 - 3179
+Mount Abu,Hotel,1290 - 8161
+Mount Abu,Boutique Hotel,2749 - 14646
+Mount Abu,Resort,4078 - 22654
+Mount Abu,Luxury Camps,3141 - 16973
+Ooty,Hostel,229 - 1828
+Ooty,GuestHouse,742 - 5335
+Ooty,Homestay,678 - 4606
+Ooty,Hotel,1633 - 9892
+Ooty,Boutique Hotel,2879 - 16964
+Ooty,Resort,4338 - 30322
+Ooty,Luxury Camps,3680 - 20067
+Kodaikanal,Hostel,228 - 1723
+Kodaikanal,GuestHouse,649 - 4777
+Kodaikanal,Homestay,550 - 3598
+Kodaikanal,Hotel,1332 - 7384
+Kodaikanal,Boutique Hotel,2999 - 16205
+Kodaikanal,Resort,4436 - 30366
+Kodaikanal,Luxury Camps,2848 - 18377
+Yercaud,Hostel,206 - 1452
+Yercaud,GuestHouse,648 - 4791
+Yercaud,Homestay,631 - 4364
+Yercaud,Hotel,1556 - 9487
+Yercaud,Boutique Hotel,3221 - 15941
+Yercaud,Resort,4754 - 31990
+Yercaud,Luxury Camps,3066 - 22333
+Mahabaleshwar,Hostel,218 - 1426
+Mahabaleshwar,GuestHouse,714 - 4836
+Mahabaleshwar,Homestay,500 - 3865
+Mahabaleshwar,Hotel,1274 - 9715
+Mahabaleshwar,Boutique Hotel,2938 - 16262
+Mahabaleshwar,Resort,4275 - 25763
+Mahabaleshwar,Luxury Camps,3298 - 21905
+Lonavala,Hostel,261 - 1595
+Lonavala,GuestHouse,721 - 5274
+Lonavala,Homestay,522 - 4407
+Lonavala,Hotel,1349 - 10324
+Lonavala,Boutique Hotel,3257 - 16697
+Lonavala,Resort,4446 - 25924
+Lonavala,Luxury Camps,3880 - 22785
+Munnar,Luxury Camps,2965 - 24720
+Kerala,Homestay,654 - 4492
+Delhi,Hotel,2533 - 15137
+Kodaikanal,GuestHouse,552 - 3362
+Ajmer,Hostel,150 - 1355
+Mahabaleshwar,Homestay,598 - 4183
+Chandigarh,Hotel,1543 - 8636
+Port Blair,Hostel,271 - 2487
+Kodaikanal,Boutique Hotel,3177 - 17094
+Rishikesh,Luxury Camps,2661 - 22877
+Madurai,Hostel,199 - 1684
+Surat,Luxury Camps,4152 - 18936
+Coimbatore,Hostel,273 - 1270
+Pushkar,GuestHouse,812 - 4560
+Kaziranga,Luxury Camps,3271 - 23085
+Yercaud,Luxury Camps,2767 - 23762
+Goa,Resort,5376 - 45362
+Darjeeling,Homestay,466 - 4473
+Pondicherry,Resort,3372 - 29914
+Trivandrum,GuestHouse,899 - 3746
+Jaipur,Boutique Hotel,2667 - 22986
+Mahabaleshwar,Resort,3625 - 23287
+Agra,Boutique Hotel,3148 - 17226
+Yercaud,Hotel,1154 - 9897
+Surat,Luxury Camps,3267 - 16346
+Shimla,Hotel,1570 - 11176
+Rishikesh,GuestHouse,753 - 4485
+Ajmer,Resort,4615 - 24971
+Hyderabad,GuestHouse,700 - 4974
+Kerala,Boutique Hotel,2284 - 12301
+Kolkata,GuestHouse,727 - 6676
+Jaipur,Boutique Hotel,2104 - 15955
+Trivandrum,Hostel,189 - 2080
+Rishikesh,Hotel,1067 - 10012
+Haridwar,GuestHouse,731 - 4242
+Udaipur,Homestay,641 - 2863
+Chennai,GuestHouse,1103 - 5976
+Coimbatore,Hotel,1046 - 10250
+Madurai,Homestay,653 - 3465
+Mumbai,Hotel,2137 - 12867
+Yercaud,Luxury Camps,2716 - 18094
+Surat,Homestay,647 - 4696
+Khajuraho,Hostel,204 - 1422
+Manali,Boutique Hotel,2617 - 18884
+Ahmedabad,GuestHouse,618 - 3414
+Bikaner,Homestay,442 - 3913
+Coimbatore,GuestHouse,592 - 4153
+Udaipur,Homestay,466 - 3437
+Delhi,Homestay,645 - 5259
+Ooty,Boutique Hotel,2830 - 15532
+Mount Abu,GuestHouse,786 - 4071
+Aurangabad,Resort,3542 - 22132
+Darjeeling,GuestHouse,673 - 3953
+Trivandrum,Homestay,608 - 4305
+Jodhpur,Hostel,187 - 2323
+Coimbatore,Luxury Camps,3202 - 14006
+Kochi,Hostel,294 - 2437
+Dehradun,Luxury Camps,4349 - 22747
+Ajmer,Luxury Camps,2525 - 19501
+Kodaikanal,Homestay,663 - 3445
+Ooty,Boutique Hotel,3454 - 17043
+Bikaner,GuestHouse,805 - 6232
+Shimla,Boutique Hotel,3164 - 18463
+Dehradun,Homestay,473 - 3473
+Mumbai,Resort,8351 - 56133
+Mysore,Homestay,650 - 4509
+Ajmer,Boutique Hotel,2397 - 12094
+Mysore,Boutique Hotel,2330 - 13389
+Jaipur,Resort,3922 - 35386
+Surat,Luxury Camps,3873 - 21821
+Hyderabad,Hotel,1586 - 10318
+Coimbatore,Resort,4223 - 28582
+Ajmer,Resort,4726 - 18160
+Kodaikanal,Hostel,212 - 1594
+Kochi,Hostel,222 - 1663
+Kodaikanal,Resort,4785 - 33642
+Leh Ladakh,Resort,7013 - 28216
+Rishikesh,Luxury Camps,3651 - 24194
+Pushkar,Homestay,615 - 3920
+Pushkar,Hotel,1040 - 7402
+Bikaner,GuestHouse,960 - 6310
+Rishikesh,Homestay,610 - 4624
+Dehradun,Hostel,224 - 2189
+Munnar,Resort,4961 - 35406
+Kochi,Luxury Camps,4700 - 25949
+Mount Abu,Hostel,236 - 1720
+Jodhpur,Homestay,778 - 3608
+Mount Abu,Hostel,222 - 1437
+Ooty,Hotel,1858 - 12438
+Rishikesh,Homestay,674 - 2844
+Bangalore,Hotel,1975 - 15534
+Darjeeling,Hotel,1019 - 8012
+Chandigarh,Hostel,285 - 1884
+Delhi,GuestHouse,1179 - 8729
+Bangalore,Luxury Camps,3964 - 21976
+Aurangabad,Luxury Camps,2461 - 14279
+Chandigarh,Resort,4109 - 35477
+Bangalore,Hotel,2217 - 10322
+Surat,Hotel,1560 - 6175
+Mahabaleshwar,Homestay,507 - 3097

@@ -1,0 +1,23 @@
+{
+  "name": "packvote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PACKVOTE — Group Travel Intelligence & Recommender System powered by 8 Machine Learning Models",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "test": "pytest"
+  },
+  "keywords": [
+    "travel",
+    "machine-learning",
+    "fastapi",
+    "react",
+    "recommender-system",
+    "svd",
+    "random-forest",
+    "kmeans"
+  ],
+  "author": "PACKVOTE Team",
+  "license": "MIT"
+}

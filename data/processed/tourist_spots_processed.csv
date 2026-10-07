@@ -1,0 +1,2001 @@
+DestinationID,Name,Type,Latitude,Longitude,Characteristics,Entry_Fee,Best_Time
+1,Baga Beach,Beach,15.324287,74.102616,"photography, temple",500,Evening
+1,Calangute Beach,Beach,15.311656,74.051232,"historical, lake",500,Evening
+1,Anjuna Beach,Beach,15.413026,74.144738,"mountain, scenic, photography",200,Evening
+1,Vagator Beach,Beach,15.384675,74.110695,"fort, mountain, heritage, temple",50,Morning
+1,Chapora Fort,Beach,15.246807,74.099423,"family, nature",150,Evening
+1,Dudhsagar Falls,Beach,15.297109,74.118171,"lake, mountain, scenic",0,Morning
+1,Basilica of Bom Jesus,Beach,15.392378,74.081214,"nature, adventure, temple",0,Evening
+1,Se Cathedral,Beach,15.269061,74.15965,"fort, historical, photography",0,Morning
+1,Fort Aguada,Beach,15.219967,74.121975,"cultural, fort",50,Morning
+1,Palolem Beach,Beach,15.306386,74.145667,"fort, wildlife, photography, heritage",300,Evening
+1,Colva Beach,Beach,15.316744,74.223387,"cultural, photography, fort",200,Morning
+1,Miramar Beach,Beach,15.255062,74.091782,"family, mountain",0,Evening
+1,Dona Paula,Beach,15.329773,74.135319,"scenic, waterfall",100,Morning
+1,Fontainhas Latin Quarter,Beach,15.316861,74.053742,"adventure, temple",300,Evening
+1,Mangeshi Temple,Beach,15.408354,74.146576,"wildlife, cultural",300,Evening
+1,Goa View Point 1,Beach,15.172733,74.172904,"adventure, cultural, scenic",0,Morning
+1,Goa View Point 2,Beach,15.211031,74.19833,"scenic, nature",100,Morning
+1,Goa View Point 3,Beach,15.194052,74.204484,heritage,100,Morning
+1,Goa View Point 4,Beach,15.201638,74.046054,"cultural, adventure, photography",100,Evening
+1,Goa View Point 5,Beach,15.310314,74.075067,"scenic, cultural",100,Morning
+1,Goa View Point 6,Beach,15.254946,74.001614,heritage,50,Evening
+1,Goa View Point 7,Beach,15.272919,74.194708,"nature, cultural, photography",50,Morning
+1,Goa View Point 8,Beach,15.44957,74.190205,photography,50,Anytime
+1,Goa View Point 9,Beach,15.354084,73.98892,"adventure, heritage",100,Evening
+1,Goa View Point 10,Beach,15.297,74.071871,cultural,100,Evening
+1,Goa View Point 11,Beach,15.178444,74.022231,photography,0,Morning
+1,Goa View Point 12,Beach,15.352738,74.079413,"heritage, photography",0,Morning
+1,Goa View Point 13,Beach,15.181297,74.073096,"photography, adventure, cultural",0,Morning
+1,Goa View Point 14,Beach,15.322457,74.07006,"cultural, photography",50,Evening
+1,Goa View Point 15,Beach,15.202493,74.050384,photography,100,Evening
+1,Goa View Point 16,Beach,15.370057,73.957772,cultural,100,Anytime
+1,Goa View Point 17,Beach,15.277858,74.114788,scenic,100,Evening
+1,Goa View Point 18,Beach,15.238829,74.047349,"adventure, heritage, cultural",100,Evening
+1,Goa View Point 19,Beach,15.377974,74.202401,"adventure, cultural, scenic",100,Morning
+1,Goa View Point 20,Beach,15.307726,74.08053,"cultural, scenic, adventure",100,Morning
+1,Goa View Point 21,Beach,15.30831,74.156351,"cultural, heritage",50,Evening
+1,Goa View Point 22,Beach,15.29035,74.158508,"scenic, cultural",0,Evening
+1,Goa View Point 23,Beach,15.27101,73.871896,nature,50,Evening
+1,Goa View Point 24,Beach,15.283826,74.178795,adventure,0,Evening
+1,Goa View Point 25,Beach,15.301753,74.151493,"nature, photography, scenic",50,Evening
+1,Goa View Point 26,Beach,15.277594,74.108561,scenic,100,Evening
+1,Goa View Point 27,Beach,15.312967,74.279485,cultural,50,Morning
+1,Goa View Point 28,Beach,15.366683,74.180798,"nature, heritage, photography",0,Evening
+1,Goa View Point 29,Beach,15.315684,74.017462,"adventure, nature, scenic",100,Morning
+1,Goa View Point 30,Beach,15.397352,74.19658,"photography, scenic, adventure",100,Anytime
+1,Goa View Point 31,Beach,15.328574,74.120492,"heritage, nature",0,Anytime
+1,Goa View Point 32,Beach,15.342973,74.105512,"photography, scenic",50,Anytime
+1,Goa View Point 33,Beach,15.357536,74.056968,"photography, adventure, heritage",100,Evening
+1,Goa View Point 34,Beach,15.146496,74.027906,"cultural, photography, nature",0,Anytime
+1,Goa View Point 35,Beach,15.310582,74.099861,"scenic, nature",100,Anytime
+1,Goa View Point 36,Beach,15.287481,74.020313,"adventure, cultural",0,Anytime
+1,Goa View Point 37,Beach,15.323455,74.041072,"adventure, nature, scenic",100,Morning
+1,Goa View Point 38,Beach,15.339026,74.010819,"cultural, nature, photography",50,Evening
+1,Goa View Point 39,Beach,15.232201,74.046147,heritage,50,Evening
+1,Goa View Point 40,Beach,15.345204,74.087049,cultural,50,Morning
+1,Goa View Point 41,Beach,15.333276,74.215234,"heritage, photography, scenic",50,Anytime
+1,Goa View Point 42,Beach,15.441701,74.142493,"photography, nature",0,Morning
+1,Goa View Point 43,Beach,15.211144,74.224098,"nature, adventure",50,Evening
+1,Goa View Point 44,Beach,15.420208,74.119213,"nature, photography",100,Evening
+1,Goa View Point 45,Beach,15.404791,74.150664,"adventure, heritage, scenic",0,Morning
+1,Goa View Point 46,Beach,15.166565,74.07352,heritage,100,Anytime
+1,Goa View Point 47,Beach,15.258887,74.094905,"cultural, photography, adventure",0,Evening
+1,Goa View Point 48,Beach,15.224623,74.046825,adventure,100,Evening
+1,Goa View Point 49,Beach,15.406975,73.985065,nature,50,Evening
+1,Goa View Point 50,Beach,15.241378,74.173684,cultural,100,Anytime
+1,Goa View Point 51,Beach,15.254701,74.156027,cultural,0,Evening
+1,Goa View Point 52,Beach,15.267189,74.158995,heritage,50,Anytime
+1,Goa View Point 53,Beach,15.216264,73.975317,scenic,100,Evening
+1,Goa View Point 54,Beach,15.267213,73.980946,"nature, scenic",0,Anytime
+1,Goa View Point 55,Beach,15.293951,74.033064,"cultural, adventure, heritage",0,Evening
+1,Goa View Point 56,Beach,15.209324,74.241763,heritage,0,Evening
+1,Goa View Point 57,Beach,15.321197,74.001102,"cultural, nature",50,Evening
+1,Goa View Point 58,Beach,15.295435,74.112564,"photography, adventure",0,Morning
+1,Goa View Point 59,Beach,15.133823,74.151812,"adventure, scenic, cultural",50,Anytime
+1,Goa View Point 60,Beach,15.375526,74.090172,"heritage, cultural",0,Morning
+1,Goa View Point 61,Beach,15.275935,74.079424,"photography, nature, cultural",0,Evening
+1,Goa View Point 62,Beach,15.330136,74.104043,"photography, scenic, nature",100,Morning
+1,Goa View Point 63,Beach,15.28253,74.059247,"heritage, adventure",0,Evening
+1,Goa View Point 64,Beach,15.462607,74.103231,photography,100,Morning
+1,Goa View Point 65,Beach,15.355347,74.145237,scenic,0,Anytime
+1,Goa View Point 66,Beach,15.094529,74.094344,"cultural, adventure",100,Evening
+1,Goa View Point 67,Beach,15.207062,74.202139,"nature, cultural",0,Anytime
+1,Goa View Point 68,Beach,15.19799,74.163586,"photography, cultural, heritage",0,Morning
+1,Goa View Point 69,Beach,15.379019,74.146433,"adventure, scenic, heritage",100,Morning
+1,Goa View Point 70,Beach,15.299602,74.092327,cultural,50,Morning
+1,Goa View Point 71,Beach,15.28942,74.016792,heritage,100,Morning
+1,Goa View Point 72,Beach,15.31353,74.208119,"nature, scenic, adventure",50,Anytime
+1,Goa View Point 73,Beach,15.229509,74.125471,"photography, adventure, cultural",0,Evening
+1,Goa View Point 74,Beach,15.291023,74.149012,"nature, scenic, cultural",50,Morning
+1,Goa View Point 75,Beach,15.256386,74.003316,adventure,50,Evening
+1,Goa View Point 76,Beach,15.209681,73.938529,"heritage, nature, scenic",100,Anytime
+1,Goa View Point 77,Beach,15.361385,74.155813,"scenic, adventure",0,Evening
+1,Goa View Point 78,Beach,15.298137,74.068235,adventure,50,Anytime
+1,Goa View Point 79,Beach,15.286335,74.12172,"nature, heritage",50,Anytime
+1,Goa View Point 80,Beach,15.257599,74.085344,"adventure, heritage, cultural",50,Anytime
+1,Goa View Point 81,Beach,15.404059,74.023935,cultural,50,Morning
+1,Goa View Point 82,Beach,15.378729,73.99479,"nature, cultural, photography",50,Evening
+1,Goa View Point 83,Beach,15.427922,73.932832,adventure,50,Morning
+1,Goa View Point 84,Beach,15.336531,74.071304,nature,50,Evening
+1,Goa View Point 85,Beach,15.285938,74.113183,"nature, adventure, cultural",100,Morning
+2,Lighthouse Beach,Beach,8.430681,76.880621,"lake, cultural",0,Evening
+2,Hawa Beach,Beach,8.39886,76.987961,"historical, scenic, heritage, temple",150,Morning
+2,Samudra Beach,Beach,8.367335,76.973147,"historical, fort, beach",300,Morning
+2,Vizhinjam Lighthouse,Beach,8.367194,77.006439,"trekking, family, mountain",50,Morning
+2,Halcyon Castle,Beach,8.418598,76.989549,"heritage, temple",200,Morning
+2,Kovalam Ayurveda Resorts,Beach,8.433519,77.041059,"trekking, scenic, waterfall",200,Evening
+2,Poovar Island,Beach,8.350825,77.089807,"family, photography",500,Evening
+2,Neyyar Dam,Beach,8.420056,76.953643,"historical, adventure",150,Evening
+2,Agasthyarkoodam,Beach,8.51538,76.957947,"beach, lake",50,Evening
+2,Padmanabhapuram Palace,Beach,8.339846,76.953209,"lake, nature",200,Evening
+2,Sree Padmanabhaswamy Temple,Beach,8.372507,77.032947,"cultural, historical, mountain",500,Morning
+2,Cape Comorin,Beach,8.394761,76.983704,"trekking, lake, nature, wildlife",100,Morning
+2,Kanyakumari Rock Memorial,Beach,8.403579,77.037006,"cultural, heritage",500,Evening
+2,Veli Tourist Village,Beach,8.384271,76.968449,"photography, adventure",100,Morning
+2,Shangumugham Beach,Beach,8.365966,76.957665,"trekking, wildlife, heritage",300,Morning
+2,Kovalam View Point 1,Beach,8.442413,77.036993,"photography, adventure",0,Morning
+2,Kovalam View Point 2,Beach,8.536386,76.970375,"cultural, nature",0,Evening
+2,Kovalam View Point 3,Beach,8.379299,77.010473,"nature, adventure, heritage",50,Anytime
+2,Kovalam View Point 4,Beach,8.362891,76.927442,"heritage, adventure",100,Morning
+2,Kovalam View Point 5,Beach,8.426287,76.947354,photography,100,Morning
+2,Kovalam View Point 6,Beach,8.377238,77.027155,"heritage, nature, cultural",100,Morning
+2,Kovalam View Point 7,Beach,8.425209,77.138742,scenic,50,Morning
+2,Kovalam View Point 8,Beach,8.474146,76.917313,photography,50,Anytime
+2,Kovalam View Point 9,Beach,8.368419,76.868874,"photography, cultural, scenic",100,Evening
+2,Kovalam View Point 10,Beach,8.322561,77.079678,"heritage, scenic",50,Morning
+2,Kovalam View Point 11,Beach,8.378179,76.867811,"adventure, scenic, photography",0,Evening
+2,Kovalam View Point 12,Beach,8.244623,76.860965,"scenic, heritage",100,Evening
+2,Kovalam View Point 13,Beach,8.336197,76.978997,scenic,100,Evening
+2,Kovalam View Point 14,Beach,8.368677,77.034579,"scenic, nature",0,Morning
+2,Kovalam View Point 15,Beach,8.325534,77.076816,scenic,0,Morning
+2,Kovalam View Point 16,Beach,8.389492,77.015364,"heritage, photography",0,Morning
+2,Kovalam View Point 17,Beach,8.358785,77.060055,photography,100,Morning
+2,Kovalam View Point 18,Beach,8.294222,76.879984,"scenic, nature",100,Anytime
+2,Kovalam View Point 19,Beach,8.322839,77.072775,"heritage, scenic, cultural",100,Anytime
+2,Kovalam View Point 20,Beach,8.381434,76.902829,"heritage, photography, cultural",100,Anytime
+2,Kovalam View Point 21,Beach,8.384688,76.99246,"adventure, scenic",50,Morning
+2,Kovalam View Point 22,Beach,8.314236,76.991465,"photography, nature, heritage",0,Evening
+2,Kovalam View Point 23,Beach,8.389512,76.938231,photography,100,Evening
+2,Kovalam View Point 24,Beach,8.299093,77.049784,"scenic, heritage, adventure",0,Anytime
+2,Kovalam View Point 25,Beach,8.362896,76.743924,"heritage, adventure",50,Evening
+2,Kovalam View Point 26,Beach,8.428882,77.009174,photography,50,Anytime
+2,Kovalam View Point 27,Beach,8.475034,77.011759,nature,50,Morning
+2,Kovalam View Point 28,Beach,8.411473,76.93975,"nature, cultural, scenic",0,Anytime
+2,Kovalam View Point 29,Beach,8.361681,77.032768,"cultural, photography, adventure",100,Anytime
+2,Kovalam View Point 30,Beach,8.387858,76.863718,"photography, adventure",100,Evening
+2,Kovalam View Point 31,Beach,8.372865,76.97436,"nature, photography, cultural",50,Evening
+2,Kovalam View Point 32,Beach,8.241148,77.038442,photography,50,Morning
+2,Kovalam View Point 33,Beach,8.400451,76.869676,heritage,0,Morning
+2,Kovalam View Point 34,Beach,8.376605,76.970518,"scenic, adventure, nature",100,Evening
+2,Kovalam View Point 35,Beach,8.476076,77.052073,"scenic, cultural",50,Morning
+2,Kovalam View Point 36,Beach,8.486647,77.008771,scenic,50,Anytime
+2,Kovalam View Point 37,Beach,8.348122,76.906123,adventure,100,Evening
+2,Kovalam View Point 38,Beach,8.344343,76.973431,"scenic, photography, heritage",50,Anytime
+2,Kovalam View Point 39,Beach,8.398389,77.061017,heritage,50,Anytime
+2,Kovalam View Point 40,Beach,8.380052,76.8168,"adventure, cultural",0,Anytime
+2,Kovalam View Point 41,Beach,8.304988,76.900638,"cultural, scenic, photography",50,Anytime
+2,Kovalam View Point 42,Beach,8.322263,76.754241,"photography, scenic, heritage",100,Evening
+2,Kovalam View Point 43,Beach,8.525957,76.804096,"heritage, photography",50,Anytime
+2,Kovalam View Point 44,Beach,8.3545,77.031372,"photography, scenic",50,Morning
+2,Kovalam View Point 45,Beach,8.447574,76.861125,scenic,100,Morning
+2,Kovalam View Point 46,Beach,8.496939,77.063588,nature,50,Anytime
+2,Kovalam View Point 47,Beach,8.385887,76.98088,"photography, heritage, cultural",50,Evening
+2,Kovalam View Point 48,Beach,8.327303,76.998893,"nature, heritage, photography",50,Morning
+2,Kovalam View Point 49,Beach,8.418493,76.939763,"adventure, photography",50,Anytime
+2,Kovalam View Point 50,Beach,8.452044,77.005221,"cultural, heritage, photography",100,Anytime
+2,Kovalam View Point 51,Beach,8.657465,76.906567,"scenic, cultural",100,Evening
+2,Kovalam View Point 52,Beach,8.507032,76.910515,"adventure, cultural, photography",100,Evening
+2,Kovalam View Point 53,Beach,8.442596,76.770746,"nature, adventure, scenic",100,Anytime
+2,Kovalam View Point 54,Beach,8.359412,77.016465,scenic,50,Anytime
+2,Kovalam View Point 55,Beach,8.419593,76.818289,"scenic, adventure",0,Evening
+2,Kovalam View Point 56,Beach,8.367449,77.096837,adventure,100,Anytime
+2,Kovalam View Point 57,Beach,8.482716,77.055537,photography,0,Anytime
+2,Kovalam View Point 58,Beach,8.588576,76.839108,heritage,100,Anytime
+2,Kovalam View Point 59,Beach,8.368847,76.981186,"photography, cultural, scenic",100,Morning
+2,Kovalam View Point 60,Beach,8.341905,76.988689,scenic,0,Evening
+2,Kovalam View Point 61,Beach,8.504478,76.987526,"photography, cultural",100,Morning
+2,Kovalam View Point 62,Beach,8.224082,77.032853,"nature, cultural, scenic",50,Morning
+2,Kovalam View Point 63,Beach,8.399201,76.804358,scenic,0,Evening
+2,Kovalam View Point 64,Beach,8.35116,76.839844,heritage,0,Evening
+2,Kovalam View Point 65,Beach,8.377374,76.938385,cultural,100,Morning
+2,Kovalam View Point 66,Beach,8.278388,76.998783,photography,100,Anytime
+2,Kovalam View Point 67,Beach,8.313785,77.084623,photography,100,Morning
+2,Kovalam View Point 68,Beach,8.413856,76.957835,cultural,100,Anytime
+2,Kovalam View Point 69,Beach,8.500726,76.999519,heritage,0,Anytime
+2,Kovalam View Point 70,Beach,8.428128,76.973499,"photography, cultural, nature",0,Evening
+2,Kovalam View Point 71,Beach,8.375306,77.011035,"heritage, adventure, nature",100,Evening
+2,Kovalam View Point 72,Beach,8.522322,76.705132,heritage,50,Evening
+2,Kovalam View Point 73,Beach,8.549863,76.898056,"scenic, nature, adventure",100,Morning
+2,Kovalam View Point 74,Beach,8.415794,76.841338,"nature, scenic, adventure",100,Morning
+2,Kovalam View Point 75,Beach,8.519715,76.868079,"heritage, cultural, nature",100,Evening
+2,Kovalam View Point 76,Beach,8.490186,76.959406,"heritage, photography",0,Anytime
+2,Kovalam View Point 77,Beach,8.387383,76.877964,"adventure, cultural",0,Anytime
+2,Kovalam View Point 78,Beach,8.497933,76.966903,"heritage, adventure, cultural",100,Anytime
+2,Kovalam View Point 79,Beach,8.457814,76.813398,photography,50,Morning
+2,Kovalam View Point 80,Beach,8.329101,76.998756,"adventure, heritage, cultural",50,Morning
+2,Kovalam View Point 81,Beach,8.27417,77.007601,"scenic, heritage",0,Evening
+2,Kovalam View Point 82,Beach,8.347451,76.916484,"photography, cultural, nature",100,Morning
+2,Kovalam View Point 83,Beach,8.44142,76.992361,nature,50,Evening
+2,Kovalam View Point 84,Beach,8.310479,77.068551,"heritage, photography, nature",100,Evening
+2,Kovalam View Point 85,Beach,8.440837,76.817541,scenic,100,Morning
+3,Radhanagar Beach,Beach,11.724941,92.677262,"scenic, heritage, wildlife",0,Evening
+3,Cellular Jail,Beach,11.734542,92.492427,"beach, photography",200,Evening
+3,Ross Island,Beach,11.743276,92.696478,"fort, waterfall, wildlife",50,Morning
+3,Neil Island,Beach,11.736029,92.661374,"trekking, nature, mountain, historical",150,Evening
+3,Havelock Island,Beach,11.791095,92.579388,"cultural, waterfall, photography, mountain",500,Morning
+3,Elephant Beach,Beach,11.776921,92.67558,"historical, cultural, trekking",200,Morning
+3,Barren Island,Beach,11.658917,92.693486,"mountain, photography, nature, heritage",100,Evening
+3,Baratang Island,Beach,11.83041,92.675291,"nature, beach",500,Evening
+3,Mount Harriet,Beach,11.767824,92.605331,"wildlife, lake",50,Evening
+3,Chidiya Tapu,Beach,11.70917,92.607705,"temple, lake",0,Morning
+3,North Bay Island,Beach,11.759891,92.632701,"family, heritage",300,Evening
+3,Jolly Buoy Island,Beach,11.711115,92.693787,"wildlife, scenic, lake",50,Evening
+3,Red Skin Island,Beach,11.823586,92.654217,"waterfall, adventure, family",50,Evening
+3,Mahatma Gandhi Marine NP,Beach,11.661354,92.660608,"lake, family",0,Morning
+3,Wandoor Beach,Beach,11.749678,92.70017,"historical, adventure, waterfall, cultural",50,Morning
+3,Andaman View Point 1,Beach,11.714219,92.729081,"heritage, nature, scenic",0,Anytime
+3,Andaman View Point 2,Beach,11.798311,92.634754,nature,0,Anytime
+3,Andaman View Point 3,Beach,11.805724,92.733014,"adventure, nature, photography",0,Evening
+3,Andaman View Point 4,Beach,11.65281,92.735428,adventure,50,Anytime
+3,Andaman View Point 5,Beach,11.730502,92.638804,heritage,100,Morning
+3,Andaman View Point 6,Beach,11.731464,92.757897,"adventure, photography, scenic",100,Morning
+3,Andaman View Point 7,Beach,11.839176,92.696706,"adventure, cultural",0,Morning
+3,Andaman View Point 8,Beach,11.761667,92.650256,"scenic, heritage",0,Anytime
+3,Andaman View Point 9,Beach,11.955977,92.603817,cultural,50,Evening
+3,Andaman View Point 10,Beach,11.704325,92.682795,"nature, scenic",50,Anytime
+3,Andaman View Point 11,Beach,11.667565,92.7425,nature,50,Morning
+3,Andaman View Point 12,Beach,11.622392,92.601491,"cultural, scenic, nature",50,Evening
+3,Andaman View Point 13,Beach,11.707961,92.578226,"nature, photography",100,Morning
+3,Andaman View Point 14,Beach,11.823378,92.553401,nature,50,Morning
+3,Andaman View Point 15,Beach,11.663045,92.604449,"adventure, nature, photography",0,Anytime
+3,Andaman View Point 16,Beach,11.80754,92.774798,"scenic, heritage, photography",100,Morning
+3,Andaman View Point 17,Beach,11.781891,92.553505,"adventure, cultural",50,Morning
+3,Andaman View Point 18,Beach,11.690485,92.784367,"nature, photography",50,Evening
+3,Andaman View Point 19,Beach,11.742409,92.542936,"cultural, nature",50,Evening
+3,Andaman View Point 20,Beach,11.915623,92.613017,heritage,0,Anytime
+3,Andaman View Point 21,Beach,11.734377,92.603821,"scenic, heritage",50,Evening
+3,Andaman View Point 22,Beach,11.663654,92.762279,"cultural, photography, scenic",50,Anytime
+3,Andaman View Point 23,Beach,11.755798,92.683825,nature,100,Anytime
+3,Andaman View Point 24,Beach,11.637738,92.634658,"scenic, heritage",50,Morning
+3,Andaman View Point 25,Beach,11.690338,92.592548,"heritage, photography, cultural",100,Evening
+3,Andaman View Point 26,Beach,11.777485,92.631571,"nature, adventure",50,Morning
+3,Andaman View Point 27,Beach,11.795511,92.716259,cultural,100,Morning
+3,Andaman View Point 28,Beach,11.705299,92.694917,"scenic, heritage",100,Anytime
+3,Andaman View Point 29,Beach,11.703124,92.595567,cultural,100,Morning
+3,Andaman View Point 30,Beach,11.655279,92.665478,cultural,0,Morning
+3,Andaman View Point 31,Beach,11.680741,92.768852,"nature, photography, adventure",100,Morning
+3,Andaman View Point 32,Beach,11.870179,92.696594,photography,50,Anytime
+3,Andaman View Point 33,Beach,11.759581,92.660086,cultural,0,Anytime
+3,Andaman View Point 34,Beach,11.929998,92.815594,"photography, scenic, cultural",100,Morning
+3,Andaman View Point 35,Beach,11.723733,92.642688,"heritage, scenic, nature",0,Anytime
+3,Andaman View Point 36,Beach,11.766255,92.564232,"adventure, cultural, heritage",50,Anytime
+3,Andaman View Point 37,Beach,11.596108,92.551563,heritage,50,Anytime
+3,Andaman View Point 38,Beach,11.715964,92.583003,"photography, cultural, scenic",0,Anytime
+3,Andaman View Point 39,Beach,11.856489,92.54106,"scenic, cultural, photography",100,Evening
+3,Andaman View Point 40,Beach,11.633263,92.511846,nature,0,Morning
+3,Andaman View Point 41,Beach,11.688475,92.626734,heritage,50,Anytime
+3,Andaman View Point 42,Beach,11.733735,92.655816,nature,0,Anytime
+3,Andaman View Point 43,Beach,11.690357,92.574403,"cultural, scenic, heritage",0,Evening
+3,Andaman View Point 44,Beach,11.773609,92.586624,"scenic, photography",0,Evening
+3,Andaman View Point 45,Beach,11.802593,92.540007,adventure,50,Anytime
+3,Andaman View Point 46,Beach,11.680247,92.821979,adventure,0,Anytime
+3,Andaman View Point 47,Beach,11.914388,92.549715,cultural,0,Anytime
+3,Andaman View Point 48,Beach,11.836696,92.787683,"scenic, adventure, nature",100,Anytime
+3,Andaman View Point 49,Beach,11.825149,92.653254,"heritage, cultural, photography",100,Morning
+3,Andaman View Point 50,Beach,11.585705,92.665377,"adventure, cultural, nature",100,Evening
+3,Andaman View Point 51,Beach,11.77302,92.677673,"nature, heritage, scenic",0,Morning
+3,Andaman View Point 52,Beach,11.778257,92.593632,"heritage, photography",100,Morning
+3,Andaman View Point 53,Beach,11.701394,92.467072,"scenic, photography, cultural",0,Evening
+3,Andaman View Point 54,Beach,11.811318,92.586787,"heritage, photography",50,Anytime
+3,Andaman View Point 55,Beach,11.720173,92.678853,"nature, adventure",100,Evening
+3,Andaman View Point 56,Beach,11.695254,92.572799,cultural,100,Morning
+3,Andaman View Point 57,Beach,11.760568,92.515923,nature,100,Morning
+3,Andaman View Point 58,Beach,11.801448,92.711435,"nature, cultural, photography",50,Anytime
+3,Andaman View Point 59,Beach,11.696122,92.619078,"adventure, photography, scenic",50,Evening
+3,Andaman View Point 60,Beach,11.661079,92.628025,"scenic, photography, nature",0,Morning
+3,Andaman View Point 61,Beach,11.724034,92.633122,"adventure, cultural",100,Evening
+3,Andaman View Point 62,Beach,11.855993,92.518676,"nature, adventure",100,Morning
+3,Andaman View Point 63,Beach,11.667458,92.717114,"nature, heritage",50,Evening
+3,Andaman View Point 64,Beach,11.904492,92.589479,"cultural, adventure",50,Evening
+3,Andaman View Point 65,Beach,11.82107,92.56659,nature,0,Morning
+3,Andaman View Point 66,Beach,11.708952,92.659413,"adventure, cultural",0,Anytime
+3,Andaman View Point 67,Beach,11.684859,92.625061,"heritage, adventure, scenic",100,Evening
+3,Andaman View Point 68,Beach,11.631012,92.712544,"cultural, heritage",0,Morning
+3,Andaman View Point 69,Beach,11.668256,92.605492,nature,50,Anytime
+3,Andaman View Point 70,Beach,11.677544,92.600298,"cultural, scenic",0,Anytime
+3,Andaman View Point 71,Beach,11.751662,92.663619,nature,50,Anytime
+3,Andaman View Point 72,Beach,11.941588,92.638994,heritage,100,Morning
+3,Andaman View Point 73,Beach,11.732066,92.76556,"adventure, nature",100,Anytime
+3,Andaman View Point 74,Beach,11.758091,92.650702,"adventure, nature",0,Anytime
+3,Andaman View Point 75,Beach,11.729415,92.674119,heritage,0,Anytime
+3,Andaman View Point 76,Beach,11.818082,92.766228,"scenic, nature, adventure",0,Morning
+3,Andaman View Point 77,Beach,11.822623,92.69595,"photography, heritage",0,Evening
+3,Andaman View Point 78,Beach,11.756961,92.821653,"cultural, adventure",0,Morning
+3,Andaman View Point 79,Beach,11.702143,92.714459,"heritage, adventure, scenic",100,Evening
+3,Andaman View Point 80,Beach,11.834037,92.742145,photography,50,Evening
+3,Andaman View Point 81,Beach,11.679109,92.88381,"cultural, photography, heritage",100,Morning
+3,Andaman View Point 82,Beach,11.873743,92.743399,scenic,50,Morning
+3,Andaman View Point 83,Beach,11.659586,92.736982,"adventure, nature",50,Morning
+3,Andaman View Point 84,Beach,11.555185,92.640023,cultural,0,Morning
+3,Andaman View Point 85,Beach,11.748633,92.622664,nature,0,Evening
+4,Radhanagar Beach Viewpoint,Beach,12.060165,92.975188,"scenic, cultural, mountain",500,Evening
+4,Laxmanpur Beach,Beach,11.932939,93.007657,"nature, scenic, cultural",150,Morning
+4,Bharatpur Beach,Beach,12.000921,92.882339,"trekking, cultural",500,Morning
+4,Ram Nagar Beach,Beach,12.047898,92.975064,"fort, heritage",150,Morning
+4,Kalapathar Beach,Beach,12.030263,92.990526,"photography, lake",300,Morning
+4,Neil Island Coral Reef,Beach,11.964157,92.991212,"mountain, beach, adventure",50,Evening
+4,Howrah Bridge Neil,Beach,11.975962,92.98454,"family, waterfall, wildlife, historical",300,Morning
+4,Natural Bridge Neil,Beach,12.011063,92.977346,"adventure, scenic, fort, photography",150,Morning
+4,Sitapur Beach,Beach,12.004256,92.951396,"adventure, beach, temple",200,Morning
+4,Ramnagar Sunset Point,Beach,11.952428,93.008742,"lake, cultural, scenic",150,Evening
+4,Radhanagar View Point 1,Beach,12.097015,92.9286,"cultural, nature",50,Anytime
+4,Radhanagar View Point 2,Beach,12.006213,92.857274,"photography, adventure",100,Anytime
+4,Radhanagar View Point 3,Beach,12.125377,93.061682,"cultural, adventure",0,Morning
+4,Radhanagar View Point 4,Beach,11.934296,92.941768,heritage,100,Evening
+4,Radhanagar View Point 5,Beach,12.077741,92.984074,"heritage, cultural",0,Evening
+4,Radhanagar View Point 6,Beach,12.031623,92.891104,"scenic, heritage",50,Morning
+4,Radhanagar View Point 7,Beach,12.027153,92.958113,"heritage, scenic, photography",100,Morning
+4,Radhanagar View Point 8,Beach,12.004908,92.938199,"heritage, cultural, scenic",50,Morning
+4,Radhanagar View Point 9,Beach,11.964122,92.97831,nature,0,Morning
+4,Radhanagar View Point 10,Beach,11.934189,93.151464,"photography, scenic",100,Morning
+4,Radhanagar View Point 11,Beach,11.896617,93.009988,"cultural, adventure, nature",100,Anytime
+4,Radhanagar View Point 12,Beach,12.005219,93.030874,"heritage, cultural, scenic",100,Evening
+4,Radhanagar View Point 13,Beach,11.780955,92.835045,"photography, cultural",50,Evening
+4,Radhanagar View Point 14,Beach,11.937124,93.04362,"cultural, adventure, photography",100,Evening
+4,Radhanagar View Point 15,Beach,11.959877,92.945616,"adventure, scenic, nature",100,Morning
+4,Radhanagar View Point 16,Beach,11.982263,92.902719,photography,100,Evening
+4,Radhanagar View Point 17,Beach,12.018605,92.985359,heritage,0,Anytime
+4,Radhanagar View Point 18,Beach,12.021192,93.091294,"adventure, cultural",0,Evening
+4,Radhanagar View Point 19,Beach,11.962586,92.978814,photography,100,Anytime
+4,Radhanagar View Point 20,Beach,11.902165,92.869786,"heritage, adventure, nature",100,Evening
+4,Radhanagar View Point 21,Beach,11.980407,92.978234,"heritage, nature",0,Morning
+4,Radhanagar View Point 22,Beach,12.036152,93.016028,"cultural, scenic, photography",50,Anytime
+4,Radhanagar View Point 23,Beach,12.001348,93.10479,photography,100,Anytime
+4,Radhanagar View Point 24,Beach,11.956033,92.954829,heritage,0,Evening
+4,Radhanagar View Point 25,Beach,12.00366,92.875288,"nature, heritage, adventure",0,Anytime
+4,Radhanagar View Point 26,Beach,12.036036,92.975716,"adventure, scenic, nature",100,Morning
+4,Radhanagar View Point 27,Beach,11.988218,93.013424,"nature, adventure, photography",0,Evening
+4,Radhanagar View Point 28,Beach,12.011073,93.002883,"heritage, scenic",50,Morning
+4,Radhanagar View Point 29,Beach,11.949826,93.095558,scenic,0,Morning
+4,Radhanagar View Point 30,Beach,11.864028,92.915154,"cultural, adventure, nature",0,Anytime
+4,Radhanagar View Point 31,Beach,11.9368,92.912346,scenic,50,Anytime
+4,Radhanagar View Point 32,Beach,11.841272,93.101524,"photography, nature",0,Evening
+4,Radhanagar View Point 33,Beach,12.0324,92.919492,nature,0,Evening
+4,Radhanagar View Point 34,Beach,12.036774,92.957158,"heritage, cultural",50,Evening
+4,Radhanagar View Point 35,Beach,11.95772,92.893193,"scenic, adventure, heritage",100,Anytime
+4,Radhanagar View Point 36,Beach,11.982379,92.919415,"adventure, cultural",50,Evening
+4,Radhanagar View Point 37,Beach,11.903225,93.046448,heritage,50,Morning
+4,Radhanagar View Point 38,Beach,11.915218,93.082363,"adventure, photography",0,Anytime
+4,Radhanagar View Point 39,Beach,11.923828,92.849763,heritage,50,Anytime
+4,Radhanagar View Point 40,Beach,12.023004,92.934258,"photography, cultural",50,Evening
+4,Radhanagar View Point 41,Beach,11.854535,92.990377,"cultural, scenic",0,Morning
+4,Radhanagar View Point 42,Beach,11.876527,92.810865,adventure,50,Morning
+4,Radhanagar View Point 43,Beach,12.035163,93.08912,"scenic, adventure, nature",100,Evening
+4,Radhanagar View Point 44,Beach,11.949424,93.066931,"scenic, cultural, nature",100,Evening
+4,Radhanagar View Point 45,Beach,12.045163,93.023379,cultural,50,Anytime
+4,Radhanagar View Point 46,Beach,11.967424,92.922309,scenic,0,Morning
+4,Radhanagar View Point 47,Beach,12.00853,93.021841,photography,100,Anytime
+4,Radhanagar View Point 48,Beach,11.88015,92.944057,adventure,0,Morning
+4,Radhanagar View Point 49,Beach,11.965853,92.947425,"nature, cultural",50,Evening
+4,Radhanagar View Point 50,Beach,11.926991,92.86339,"photography, heritage, adventure",0,Morning
+4,Radhanagar View Point 51,Beach,11.956659,92.947782,"cultural, heritage, nature",0,Evening
+4,Radhanagar View Point 52,Beach,11.943179,93.021947,"adventure, photography",50,Anytime
+4,Radhanagar View Point 53,Beach,11.87151,92.992431,nature,50,Anytime
+4,Radhanagar View Point 54,Beach,11.837502,92.9647,photography,50,Morning
+4,Radhanagar View Point 55,Beach,11.800552,92.898811,"nature, scenic",0,Morning
+4,Radhanagar View Point 56,Beach,11.979244,92.855999,"adventure, nature, cultural",100,Anytime
+4,Radhanagar View Point 57,Beach,11.867517,93.048552,"adventure, scenic, photography",100,Anytime
+4,Radhanagar View Point 58,Beach,11.853354,92.960493,adventure,0,Evening
+4,Radhanagar View Point 59,Beach,12.099083,92.981394,"heritage, adventure, photography",100,Evening
+4,Radhanagar View Point 60,Beach,11.983315,92.912916,"heritage, cultural, adventure",0,Morning
+4,Radhanagar View Point 61,Beach,11.92419,92.956578,"photography, cultural, adventure",100,Anytime
+4,Radhanagar View Point 62,Beach,11.821276,93.051018,"cultural, scenic, adventure",0,Evening
+4,Radhanagar View Point 63,Beach,11.997606,92.830177,"scenic, cultural",0,Anytime
+4,Radhanagar View Point 64,Beach,12.063082,93.024339,"scenic, nature",50,Morning
+4,Radhanagar View Point 65,Beach,12.016127,93.148901,cultural,100,Anytime
+4,Radhanagar View Point 66,Beach,11.988707,93.092413,"photography, heritage, nature",0,Anytime
+4,Radhanagar View Point 67,Beach,11.983041,93.006194,"adventure, scenic, heritage",100,Morning
+4,Radhanagar View Point 68,Beach,11.936733,92.819174,heritage,0,Evening
+4,Radhanagar View Point 69,Beach,11.834873,92.963244,"nature, cultural",100,Evening
+4,Radhanagar View Point 70,Beach,11.962019,92.875602,"cultural, heritage, photography",0,Evening
+4,Radhanagar View Point 71,Beach,11.958827,93.006011,"heritage, nature, adventure",50,Evening
+4,Radhanagar View Point 72,Beach,12.084274,92.914629,"heritage, cultural",100,Anytime
+4,Radhanagar View Point 73,Beach,12.012433,93.109138,"nature, photography, heritage",100,Anytime
+4,Radhanagar View Point 74,Beach,12.041,92.908443,scenic,50,Anytime
+4,Radhanagar View Point 75,Beach,11.989112,92.984782,"scenic, adventure, photography",100,Morning
+4,Radhanagar View Point 76,Beach,12.031997,92.973125,"nature, photography",0,Anytime
+4,Radhanagar View Point 77,Beach,12.01969,93.051575,adventure,0,Evening
+4,Radhanagar View Point 78,Beach,11.896854,92.864352,"adventure, heritage",100,Anytime
+4,Radhanagar View Point 79,Beach,12.029706,92.957738,photography,100,Evening
+4,Radhanagar View Point 80,Beach,12.050049,93.057014,"nature, photography",50,Evening
+4,Radhanagar View Point 81,Beach,11.832968,92.903037,"scenic, cultural",50,Anytime
+4,Radhanagar View Point 82,Beach,11.970989,92.888103,"heritage, cultural",0,Morning
+4,Radhanagar View Point 83,Beach,11.943163,92.867706,cultural,50,Evening
+4,Radhanagar View Point 84,Beach,11.945912,92.892717,heritage,100,Morning
+4,Radhanagar View Point 85,Beach,12.00857,93.042194,"adventure, cultural, nature",0,Anytime
+4,Radhanagar View Point 86,Beach,12.0137,93.17782,heritage,100,Evening
+4,Radhanagar View Point 87,Beach,12.056109,93.042108,"heritage, adventure, nature",100,Morning
+4,Radhanagar View Point 88,Beach,11.974432,92.945451,"photography, scenic",0,Evening
+4,Radhanagar View Point 89,Beach,12.082849,92.949758,"cultural, heritage, photography",50,Anytime
+4,Radhanagar View Point 90,Beach,11.983794,92.956225,"cultural, nature, photography",100,Anytime
+5,Taj Mahal,Historical,27.202098,78.086676,"photography, temple",100,Evening
+5,Agra Fort,Historical,27.228316,78.026912,"nature, temple, cultural, wildlife",500,Morning
+5,Fatehpur Sikri,Historical,27.184208,78.058668,"wildlife, mountain, nature",0,Morning
+5,Itmad-ud-Daulah,Historical,27.24831,77.952792,"trekking, family, cultural",100,Morning
+5,Akbar's Tomb,Historical,27.175672,78.009947,"scenic, temple, lake",50,Morning
+5,Mehtab Bagh,Historical,27.148474,77.999576,"historical, temple",0,Evening
+5,Jama Masjid Agra,Historical,27.202056,77.919563,"trekking, wildlife, lake, cultural",50,Evening
+5,Kinari Bazaar,Historical,27.168177,77.951023,"beach, family, cultural, nature",100,Evening
+5,Chini Ka Rauza,Historical,27.140475,78.031413,"lake, photography, trekking",500,Evening
+5,Ram Bagh,Historical,27.154818,78.076157,"heritage, historical",300,Evening
+5,Soami Bagh,Historical,27.237583,78.140008,"heritage, mountain, waterfall, lake",50,Evening
+5,Guru Ka Tal,Historical,27.174724,78.100154,"lake, cultural, fort",150,Morning
+5,Mankameshwar Temple,Historical,27.248297,78.018287,"mountain, temple",50,Evening
+5,Wildlife SOS,Historical,27.236755,77.933316,"adventure, lake, heritage, fort",500,Morning
+5,Agra Bear Rescue Facility,Historical,27.189985,78.122373,"trekking, lake, wildlife, mountain",300,Morning
+5,Taj View Point 1,Historical,27.183045,78.026869,"adventure, photography",50,Anytime
+5,Taj View Point 2,Historical,27.159466,78.159577,"photography, adventure",50,Anytime
+5,Taj View Point 3,Historical,27.047766,78.01082,scenic,0,Anytime
+5,Taj View Point 4,Historical,27.242485,78.067531,adventure,100,Anytime
+5,Taj View Point 5,Historical,27.27005,78.096681,"adventure, scenic",100,Morning
+5,Taj View Point 6,Historical,27.13735,78.088617,"scenic, photography",100,Evening
+5,Taj View Point 7,Historical,27.069533,77.880725,photography,100,Anytime
+5,Taj View Point 8,Historical,27.126179,78.048492,"nature, scenic",0,Anytime
+5,Taj View Point 9,Historical,27.11017,78.05605,adventure,50,Anytime
+5,Taj View Point 10,Historical,27.179782,77.893291,scenic,0,Anytime
+5,Taj View Point 11,Historical,27.131926,78.117383,scenic,100,Anytime
+5,Taj View Point 12,Historical,27.214021,77.986384,"cultural, photography, heritage",50,Morning
+5,Taj View Point 13,Historical,27.224612,78.182514,"photography, nature",100,Anytime
+5,Taj View Point 14,Historical,27.141143,78.101415,heritage,100,Evening
+5,Taj View Point 15,Historical,27.221788,78.003909,"nature, heritage, cultural",0,Morning
+5,Taj View Point 16,Historical,27.084476,78.174153,"nature, adventure",0,Morning
+5,Taj View Point 17,Historical,27.26219,78.019857,"heritage, photography, scenic",50,Morning
+5,Taj View Point 18,Historical,27.272183,78.086489,cultural,0,Evening
+5,Taj View Point 19,Historical,27.271597,77.898699,"nature, cultural, heritage",0,Morning
+5,Taj View Point 20,Historical,27.142437,78.167975,adventure,0,Anytime
+5,Taj View Point 21,Historical,27.387258,78.010918,"scenic, photography",0,Morning
+5,Taj View Point 22,Historical,27.142525,78.096745,"heritage, cultural",100,Morning
+5,Taj View Point 23,Historical,27.202641,78.084763,nature,50,Morning
+5,Taj View Point 24,Historical,27.002117,78.023001,"heritage, scenic, nature",0,Evening
+5,Taj View Point 25,Historical,27.239528,77.85375,"scenic, heritage",0,Evening
+5,Taj View Point 26,Historical,27.045708,77.900188,"nature, cultural",0,Evening
+5,Taj View Point 27,Historical,27.227158,77.967731,photography,50,Anytime
+5,Taj View Point 28,Historical,27.079023,78.046499,"photography, heritage, adventure",50,Anytime
+5,Taj View Point 29,Historical,27.075854,78.078228,"adventure, cultural",0,Morning
+5,Taj View Point 30,Historical,27.368214,78.012604,photography,50,Anytime
+5,Taj View Point 31,Historical,27.019658,78.005868,nature,0,Morning
+5,Taj View Point 32,Historical,27.214297,78.073302,"scenic, nature",50,Anytime
+5,Taj View Point 33,Historical,27.242175,77.994596,scenic,50,Evening
+5,Taj View Point 34,Historical,27.152697,77.845944,"photography, nature, cultural",100,Anytime
+5,Taj View Point 35,Historical,27.224224,77.937286,"nature, scenic",100,Morning
+5,Taj View Point 36,Historical,27.191105,77.972401,"adventure, scenic",0,Evening
+5,Taj View Point 37,Historical,27.168151,78.118774,"adventure, heritage, scenic",50,Evening
+5,Taj View Point 38,Historical,27.140125,77.982927,scenic,0,Anytime
+5,Taj View Point 39,Historical,27.175306,77.990701,adventure,0,Anytime
+5,Taj View Point 40,Historical,27.099755,78.191427,"photography, nature",50,Morning
+5,Taj View Point 41,Historical,27.026712,78.094409,"nature, photography",50,Morning
+5,Taj View Point 42,Historical,27.164252,77.976033,"nature, cultural",50,Evening
+5,Taj View Point 43,Historical,27.202892,78.044852,"adventure, scenic, nature",50,Morning
+5,Taj View Point 44,Historical,27.280742,77.95134,"adventure, cultural",50,Evening
+5,Taj View Point 45,Historical,27.133809,78.123028,"heritage, nature",0,Evening
+5,Taj View Point 46,Historical,27.158703,78.08584,heritage,0,Anytime
+5,Taj View Point 47,Historical,27.272284,78.087075,cultural,0,Anytime
+5,Taj View Point 48,Historical,27.126209,78.014021,"cultural, adventure",100,Anytime
+5,Taj View Point 49,Historical,27.272963,78.054517,"cultural, nature",0,Anytime
+5,Taj View Point 50,Historical,27.158802,78.072789,"cultural, scenic",100,Morning
+5,Taj View Point 51,Historical,27.072362,78.02316,"scenic, adventure",0,Morning
+5,Taj View Point 52,Historical,27.168817,78.034509,nature,100,Evening
+5,Taj View Point 53,Historical,27.143559,78.017396,"adventure, heritage",50,Morning
+5,Taj View Point 54,Historical,27.165983,78.158922,photography,0,Morning
+5,Taj View Point 55,Historical,26.998852,78.098018,"photography, adventure",50,Anytime
+5,Taj View Point 56,Historical,27.168159,78.037156,cultural,0,Evening
+5,Taj View Point 57,Historical,27.142604,78.082245,scenic,0,Anytime
+5,Taj View Point 58,Historical,27.251117,77.890404,"scenic, heritage",0,Evening
+5,Taj View Point 59,Historical,27.342615,78.05363,"photography, cultural, nature",50,Morning
+5,Taj View Point 60,Historical,27.183875,77.930563,"adventure, heritage, nature",100,Evening
+5,Taj View Point 61,Historical,27.12942,78.150825,cultural,50,Morning
+5,Taj View Point 62,Historical,27.180594,78.075361,cultural,0,Evening
+5,Taj View Point 63,Historical,27.138205,78.199761,nature,100,Evening
+5,Taj View Point 64,Historical,27.162839,78.132541,"adventure, heritage",0,Evening
+5,Taj View Point 65,Historical,27.162998,78.069903,"scenic, nature",100,Evening
+5,Taj View Point 66,Historical,27.203276,78.116065,"heritage, scenic, photography",50,Morning
+5,Taj View Point 67,Historical,27.234202,78.004174,"nature, scenic",50,Evening
+5,Taj View Point 68,Historical,27.267823,77.962889,"heritage, scenic",0,Evening
+5,Taj View Point 69,Historical,27.080416,78.018787,adventure,0,Morning
+5,Taj View Point 70,Historical,27.206572,77.960319,"photography, adventure, nature",0,Morning
+5,Taj View Point 71,Historical,27.168874,77.931319,heritage,50,Morning
+5,Taj View Point 72,Historical,27.153535,78.119847,"cultural, heritage, adventure",50,Anytime
+5,Taj View Point 73,Historical,27.107612,77.944367,"cultural, heritage, nature",0,Evening
+5,Taj View Point 74,Historical,27.20539,77.979093,photography,100,Evening
+5,Taj View Point 75,Historical,27.368928,78.057459,"cultural, nature",100,Anytime
+5,Taj View Point 76,Historical,27.25707,77.936926,"nature, heritage",100,Anytime
+5,Taj View Point 77,Historical,27.211689,77.961612,"nature, heritage, scenic",50,Anytime
+5,Taj View Point 78,Historical,27.160771,77.981918,"cultural, scenic, heritage",100,Morning
+5,Taj View Point 79,Historical,27.258276,78.067792,"scenic, heritage",100,Anytime
+5,Taj View Point 80,Historical,27.184493,78.150985,"photography, scenic, heritage",100,Anytime
+5,Taj View Point 81,Historical,27.176369,78.124531,"heritage, nature",100,Evening
+5,Taj View Point 82,Historical,27.319148,78.053312,"photography, scenic, nature",0,Morning
+5,Taj View Point 83,Historical,27.195863,78.118464,"heritage, cultural",0,Morning
+5,Taj View Point 84,Historical,27.29004,78.052356,"heritage, adventure, cultural",100,Evening
+5,Taj View Point 85,Historical,27.124105,78.111425,heritage,100,Anytime
+6,Virupaksha Temple,Historical,15.363584,76.502848,"temple, lake, adventure, mountain",100,Morning
+6,Vittala Temple,Historical,15.369937,76.470338,"heritage, beach, trekking",500,Evening
+6,Hampi Bazaar,Historical,15.34823,76.495112,"scenic, mountain",500,Evening
+6,Lotus Mahal,Historical,15.262524,76.526484,"scenic, lake",200,Evening
+6,Elephant Stables,Historical,15.357499,76.417693,"scenic, family, lake, wildlife",200,Evening
+6,Zanana Enclosure,Historical,15.344256,76.52593,"heritage, fort, nature",150,Evening
+6,Hazara Rama Temple,Historical,15.349514,76.423397,"temple, nature",200,Morning
+6,Achyutaraya Temple,Historical,15.271275,76.583245,"nature, cultural, fort",0,Morning
+6,Tungabhadra Dam,Historical,15.248054,76.476846,"photography, scenic, mountain, historical",200,Evening
+6,Hemakuta Hill,Historical,15.305674,76.512122,"lake, trekking, nature, fort",100,Evening
+6,Matanga Hill,Historical,15.274185,76.540419,"photography, wildlife, scenic, adventure",100,Evening
+6,Anegundi,Historical,15.328747,76.448993,"lake, trekking",100,Evening
+6,Queen's Bath,Historical,15.319337,76.43037,"cultural, photography, adventure, wildlife",150,Morning
+6,Underground Temple,Historical,15.316565,76.495918,"lake, historical",150,Morning
+6,Mahanavami Dibba,Historical,15.248914,76.422551,"historical, nature, heritage, wildlife",200,Morning
+6,Hampi View Point 1,Historical,15.454611,76.452766,"cultural, nature, heritage",0,Evening
+6,Hampi View Point 2,Historical,15.289205,76.358017,cultural,100,Morning
+6,Hampi View Point 3,Historical,15.241381,76.538576,"scenic, photography, cultural",50,Morning
+6,Hampi View Point 4,Historical,15.269191,76.524363,"nature, heritage, photography",50,Anytime
+6,Hampi View Point 5,Historical,15.256559,76.44994,"cultural, photography, nature",100,Evening
+6,Hampi View Point 6,Historical,15.329473,76.399708,photography,50,Morning
+6,Hampi View Point 7,Historical,15.341157,76.290728,nature,100,Anytime
+6,Hampi View Point 8,Historical,15.327919,76.495613,"nature, adventure",50,Anytime
+6,Hampi View Point 9,Historical,15.268205,76.47704,"nature, adventure, photography",100,Evening
+6,Hampi View Point 10,Historical,15.347278,76.475492,"heritage, nature",100,Anytime
+6,Hampi View Point 11,Historical,15.227415,76.467614,nature,100,Evening
+6,Hampi View Point 12,Historical,15.197218,76.409645,"scenic, cultural",100,Evening
+6,Hampi View Point 13,Historical,15.334691,76.476667,heritage,0,Morning
+6,Hampi View Point 14,Historical,15.238256,76.437266,heritage,50,Morning
+6,Hampi View Point 15,Historical,15.398564,76.381625,adventure,100,Anytime
+6,Hampi View Point 16,Historical,15.162709,76.502365,"photography, heritage",100,Anytime
+6,Hampi View Point 17,Historical,15.259623,76.408872,"cultural, nature",100,Morning
+6,Hampi View Point 18,Historical,15.345448,76.466181,"scenic, photography, cultural",0,Evening
+6,Hampi View Point 19,Historical,15.416723,76.440653,"cultural, scenic",0,Evening
+6,Hampi View Point 20,Historical,15.340464,76.324567,photography,0,Anytime
+6,Hampi View Point 21,Historical,15.385257,76.404689,"heritage, adventure, nature",0,Anytime
+6,Hampi View Point 22,Historical,15.593485,76.442912,"cultural, scenic",100,Anytime
+6,Hampi View Point 23,Historical,15.368952,76.511017,nature,0,Evening
+6,Hampi View Point 24,Historical,15.327906,76.494941,"heritage, photography",50,Anytime
+6,Hampi View Point 25,Historical,15.515436,76.3997,"photography, adventure, cultural",100,Morning
+6,Hampi View Point 26,Historical,15.155539,76.355768,"scenic, photography",0,Evening
+6,Hampi View Point 27,Historical,15.414781,76.421675,"nature, cultural, photography",0,Morning
+6,Hampi View Point 28,Historical,15.521553,76.518169,adventure,100,Anytime
+6,Hampi View Point 29,Historical,15.282758,76.397719,"heritage, nature, scenic",0,Anytime
+6,Hampi View Point 30,Historical,15.299299,76.294842,nature,50,Anytime
+6,Hampi View Point 31,Historical,15.35722,76.515482,"cultural, photography",100,Evening
+6,Hampi View Point 32,Historical,15.257614,76.335874,"nature, scenic",50,Evening
+6,Hampi View Point 33,Historical,15.262156,76.539778,"scenic, photography, heritage",50,Evening
+6,Hampi View Point 34,Historical,15.399258,76.477227,"adventure, cultural",50,Morning
+6,Hampi View Point 35,Historical,15.46635,76.324873,"scenic, cultural",0,Evening
+6,Hampi View Point 36,Historical,15.31833,76.504817,photography,0,Evening
+6,Hampi View Point 37,Historical,15.398182,76.5243,"nature, scenic",0,Anytime
+6,Hampi View Point 38,Historical,15.392913,76.565559,heritage,100,Morning
+6,Hampi View Point 39,Historical,15.395893,76.367647,"cultural, nature, photography",100,Morning
+6,Hampi View Point 40,Historical,15.298613,76.32438,scenic,100,Morning
+6,Hampi View Point 41,Historical,15.414705,76.555567,cultural,0,Anytime
+6,Hampi View Point 42,Historical,15.23737,76.429602,"cultural, heritage",100,Evening
+6,Hampi View Point 43,Historical,15.194566,76.450319,"adventure, nature",0,Morning
+6,Hampi View Point 44,Historical,15.26884,76.366583,"heritage, nature, scenic",100,Anytime
+6,Hampi View Point 45,Historical,15.333019,76.610548,photography,100,Morning
+6,Hampi View Point 46,Historical,15.398609,76.439861,heritage,100,Anytime
+6,Hampi View Point 47,Historical,15.331114,76.610266,"scenic, adventure",0,Evening
+6,Hampi View Point 48,Historical,15.435691,76.435147,"adventure, heritage, scenic",50,Evening
+6,Hampi View Point 49,Historical,15.375094,76.380113,"photography, heritage, nature",100,Morning
+6,Hampi View Point 50,Historical,15.336981,76.521137,"scenic, cultural",50,Morning
+6,Hampi View Point 51,Historical,15.416628,76.408789,"cultural, adventure, scenic",0,Morning
+6,Hampi View Point 52,Historical,15.415141,76.471875,"scenic, heritage, nature",100,Anytime
+6,Hampi View Point 53,Historical,15.311918,76.612742,adventure,100,Evening
+6,Hampi View Point 54,Historical,15.306173,76.371363,heritage,50,Evening
+6,Hampi View Point 55,Historical,15.281205,76.518053,"scenic, photography",50,Anytime
+6,Hampi View Point 56,Historical,15.256064,76.526349,"nature, heritage, scenic",100,Morning
+6,Hampi View Point 57,Historical,15.266721,76.453994,"scenic, photography, cultural",100,Morning
+6,Hampi View Point 58,Historical,15.511812,76.3894,"scenic, cultural, nature",100,Anytime
+6,Hampi View Point 59,Historical,15.173395,76.569399,photography,100,Evening
+6,Hampi View Point 60,Historical,15.222975,76.395007,"adventure, photography",100,Evening
+6,Hampi View Point 61,Historical,15.393299,76.515094,heritage,100,Morning
+6,Hampi View Point 62,Historical,15.145083,76.432553,"nature, heritage",0,Anytime
+6,Hampi View Point 63,Historical,15.403175,76.622281,"nature, heritage, cultural",50,Anytime
+6,Hampi View Point 64,Historical,15.235893,76.545451,nature,100,Morning
+6,Hampi View Point 65,Historical,15.282041,76.54333,"adventure, heritage",100,Evening
+6,Hampi View Point 66,Historical,15.251773,76.441597,"adventure, scenic",50,Evening
+6,Hampi View Point 67,Historical,15.365993,76.53634,cultural,100,Evening
+6,Hampi View Point 68,Historical,15.380625,76.425662,"scenic, nature",50,Anytime
+6,Hampi View Point 69,Historical,15.294819,76.602319,"photography, adventure",100,Evening
+6,Hampi View Point 70,Historical,15.357176,76.421962,heritage,0,Anytime
+6,Hampi View Point 71,Historical,15.378044,76.509826,"heritage, photography",0,Anytime
+6,Hampi View Point 72,Historical,15.226726,76.498902,"cultural, scenic",0,Evening
+6,Hampi View Point 73,Historical,15.214487,76.408412,"photography, scenic, nature",0,Evening
+6,Hampi View Point 74,Historical,15.256097,76.449666,"photography, adventure",50,Morning
+6,Hampi View Point 75,Historical,15.300032,76.443987,"scenic, heritage",100,Anytime
+6,Hampi View Point 76,Historical,15.183414,76.45391,"adventure, nature, heritage",50,Evening
+6,Hampi View Point 77,Historical,15.246897,76.642681,nature,0,Anytime
+6,Hampi View Point 78,Historical,15.303029,76.439375,photography,50,Evening
+6,Hampi View Point 79,Historical,15.390604,76.565799,photography,50,Morning
+6,Hampi View Point 80,Historical,15.240791,76.505844,"photography, heritage",100,Anytime
+6,Hampi View Point 81,Historical,15.412302,76.474773,heritage,50,Anytime
+6,Hampi View Point 82,Historical,15.34817,76.419045,"heritage, scenic, nature",100,Morning
+6,Hampi View Point 83,Historical,15.309226,76.451378,photography,100,Anytime
+6,Hampi View Point 84,Historical,15.300926,76.531046,cultural,0,Morning
+6,Hampi View Point 85,Historical,15.265252,76.528438,"heritage, scenic, photography",100,Evening
+7,Ajanta Cave 1,Historical,20.61829,75.721791,"waterfall, nature, historical",50,Morning
+7,Ajanta Cave 2,Historical,20.462426,75.73391,"adventure, lake, fort",50,Evening
+7,Ajanta Cave 16,Historical,20.519714,75.676917,"historical, waterfall, mountain, scenic",300,Morning
+7,Ajanta Cave 17,Historical,20.569998,75.75857,"photography, family, adventure, trekking",500,Evening
+7,Ellora Cave 16 Kailash,Historical,20.468831,75.706179,"temple, lake, nature, family",0,Morning
+7,Ellora Jain Caves,Historical,20.651487,75.648351,"nature, fort",500,Evening
+7,Aurangabad Caves,Historical,20.54188,75.6725,"heritage, temple",50,Morning
+7,Bibi Ka Maqbara,Historical,20.587066,75.640776,"scenic, lake",50,Evening
+7,Daulatabad Fort,Historical,20.473376,75.744902,"mountain, adventure, cultural, trekking",150,Morning
+7,Panchakki,Historical,20.563833,75.64399,"nature, fort, temple, cultural",100,Morning
+7,Salim Ali Lake,Historical,20.548476,75.639208,"fort, photography, heritage",150,Morning
+7,Prozone Mall Aurangabad,Historical,20.598014,75.717214,"wildlife, scenic, temple, heritage",500,Evening
+7,Lonar Crater Lake,Historical,20.516167,75.674292,"beach, heritage",100,Evening
+7,Shirdi Sai Baba Temple,Historical,20.52894,75.64955,"mountain, adventure",300,Evening
+7,Shani Shingnapur,Historical,20.618899,75.761457,"lake, temple, nature, heritage",50,Morning
+7,Ajanta View Point 1,Historical,20.519799,75.678139,adventure,0,Evening
+7,Ajanta View Point 2,Historical,20.462066,75.690451,"heritage, photography",0,Anytime
+7,Ajanta View Point 3,Historical,20.59104,75.797795,scenic,0,Anytime
+7,Ajanta View Point 4,Historical,20.48021,75.568521,heritage,100,Morning
+7,Ajanta View Point 5,Historical,20.471328,75.747797,"heritage, photography",0,Anytime
+7,Ajanta View Point 6,Historical,20.548419,75.782691,"scenic, heritage, cultural",100,Anytime
+7,Ajanta View Point 7,Historical,20.555227,75.832556,"adventure, nature, scenic",100,Evening
+7,Ajanta View Point 8,Historical,20.425047,75.504069,cultural,100,Anytime
+7,Ajanta View Point 9,Historical,20.660158,75.639637,"photography, heritage, adventure",50,Evening
+7,Ajanta View Point 10,Historical,20.562907,75.714051,"adventure, scenic, heritage",50,Evening
+7,Ajanta View Point 11,Historical,20.578045,75.665402,"heritage, photography, scenic",100,Morning
+7,Ajanta View Point 12,Historical,20.475751,75.62075,cultural,100,Evening
+7,Ajanta View Point 13,Historical,20.600193,75.76502,photography,50,Morning
+7,Ajanta View Point 14,Historical,20.531893,75.655556,heritage,0,Evening
+7,Ajanta View Point 15,Historical,20.597394,75.58477,"heritage, nature, cultural",100,Anytime
+7,Ajanta View Point 16,Historical,20.707876,75.73949,"nature, photography",0,Evening
+7,Ajanta View Point 17,Historical,20.539142,75.769692,"photography, adventure",50,Morning
+7,Ajanta View Point 18,Historical,20.602353,75.722104,"adventure, heritage",100,Evening
+7,Ajanta View Point 19,Historical,20.40068,75.736176,scenic,50,Anytime
+7,Ajanta View Point 20,Historical,20.668371,75.658882,"scenic, cultural",50,Evening
+7,Ajanta View Point 21,Historical,20.628592,75.771223,"adventure, cultural",50,Morning
+7,Ajanta View Point 22,Historical,20.575426,75.716913,"cultural, heritage",50,Morning
+7,Ajanta View Point 23,Historical,20.596688,75.736567,"heritage, scenic",0,Anytime
+7,Ajanta View Point 24,Historical,20.703169,75.78064,"heritage, photography",0,Anytime
+7,Ajanta View Point 25,Historical,20.608469,75.787875,"adventure, heritage, scenic",50,Evening
+7,Ajanta View Point 26,Historical,20.608524,75.536835,"heritage, adventure",0,Evening
+7,Ajanta View Point 27,Historical,20.54256,75.653734,"nature, scenic, heritage",100,Morning
+7,Ajanta View Point 28,Historical,20.578138,75.658763,"heritage, nature, photography",50,Evening
+7,Ajanta View Point 29,Historical,20.599189,75.669611,heritage,50,Evening
+7,Ajanta View Point 30,Historical,20.687715,75.835306,"nature, scenic, adventure",100,Morning
+7,Ajanta View Point 31,Historical,20.436161,75.72913,"heritage, scenic, nature",50,Evening
+7,Ajanta View Point 32,Historical,20.51495,75.723461,adventure,50,Anytime
+7,Ajanta View Point 33,Historical,20.598835,75.601,"nature, heritage, scenic",50,Morning
+7,Ajanta View Point 34,Historical,20.474012,75.635367,"heritage, cultural, photography",100,Anytime
+7,Ajanta View Point 35,Historical,20.507787,75.66152,photography,0,Evening
+7,Ajanta View Point 36,Historical,20.615641,75.721099,"photography, scenic",100,Anytime
+7,Ajanta View Point 37,Historical,20.482208,75.67773,"adventure, heritage",50,Evening
+7,Ajanta View Point 38,Historical,20.362326,75.864877,"heritage, cultural, adventure",100,Evening
+7,Ajanta View Point 39,Historical,20.553346,75.782708,"nature, heritage, cultural",50,Anytime
+7,Ajanta View Point 40,Historical,20.615354,75.700415,"scenic, adventure",50,Anytime
+7,Ajanta View Point 41,Historical,20.361347,75.658666,"scenic, adventure, heritage",100,Morning
+7,Ajanta View Point 42,Historical,20.580189,75.708141,photography,0,Anytime
+7,Ajanta View Point 43,Historical,20.63513,75.703143,"cultural, photography",0,Morning
+7,Ajanta View Point 44,Historical,20.699265,75.618528,"cultural, photography",0,Morning
+7,Ajanta View Point 45,Historical,20.593314,75.620985,"cultural, adventure, nature",100,Morning
+7,Ajanta View Point 46,Historical,20.625027,75.643052,"cultural, adventure, heritage",100,Evening
+7,Ajanta View Point 47,Historical,20.411374,75.584395,"nature, cultural",0,Morning
+7,Ajanta View Point 48,Historical,20.514135,75.827991,"photography, nature",0,Morning
+7,Ajanta View Point 49,Historical,20.611211,75.739051,"nature, heritage",50,Evening
+7,Ajanta View Point 50,Historical,20.546695,75.613195,"heritage, adventure",100,Morning
+7,Ajanta View Point 51,Historical,20.477276,75.65916,"photography, scenic",50,Evening
+7,Ajanta View Point 52,Historical,20.500511,75.650758,"heritage, scenic",0,Anytime
+7,Ajanta View Point 53,Historical,20.475787,75.703786,"adventure, scenic, cultural",50,Anytime
+7,Ajanta View Point 54,Historical,20.4918,75.793831,"photography, scenic",50,Anytime
+7,Ajanta View Point 55,Historical,20.641626,75.751382,"nature, photography, heritage",0,Evening
+7,Ajanta View Point 56,Historical,20.590746,75.579124,"scenic, adventure",50,Anytime
+7,Ajanta View Point 57,Historical,20.735166,75.680773,"photography, nature, scenic",50,Anytime
+7,Ajanta View Point 58,Historical,20.615397,75.769938,"adventure, photography, scenic",0,Morning
+7,Ajanta View Point 59,Historical,20.468603,75.653072,scenic,0,Evening
+7,Ajanta View Point 60,Historical,20.583733,75.579614,"nature, scenic",100,Anytime
+7,Ajanta View Point 61,Historical,20.54475,75.511692,"scenic, nature, photography",100,Anytime
+7,Ajanta View Point 62,Historical,20.552711,75.813316,"photography, nature, cultural",0,Morning
+7,Ajanta View Point 63,Historical,20.551708,75.58624,"photography, nature, adventure",100,Morning
+7,Ajanta View Point 64,Historical,20.507671,75.752509,adventure,50,Morning
+7,Ajanta View Point 65,Historical,20.565243,75.739455,adventure,100,Morning
+7,Ajanta View Point 66,Historical,20.538119,75.642039,"adventure, heritage",50,Evening
+7,Ajanta View Point 67,Historical,20.561934,75.708735,heritage,100,Morning
+7,Ajanta View Point 68,Historical,20.634074,75.66571,cultural,100,Morning
+7,Ajanta View Point 69,Historical,20.555799,75.691683,"adventure, cultural",50,Anytime
+7,Ajanta View Point 70,Historical,20.733817,75.64306,"photography, cultural",100,Morning
+7,Ajanta View Point 71,Historical,20.52113,75.626705,"heritage, adventure",0,Morning
+7,Ajanta View Point 72,Historical,20.656207,75.813536,"heritage, cultural",50,Evening
+7,Ajanta View Point 73,Historical,20.534548,75.798148,"cultural, photography, nature",50,Evening
+7,Ajanta View Point 74,Historical,20.578148,75.759462,"cultural, nature",100,Anytime
+7,Ajanta View Point 75,Historical,20.472312,75.71621,"nature, cultural",50,Anytime
+7,Ajanta View Point 76,Historical,20.70169,75.821496,"nature, scenic",100,Evening
+7,Ajanta View Point 77,Historical,20.616324,75.779385,cultural,0,Evening
+7,Ajanta View Point 78,Historical,20.746541,75.766161,nature,50,Anytime
+7,Ajanta View Point 79,Historical,20.498965,75.800341,"nature, scenic, photography",100,Morning
+7,Ajanta View Point 80,Historical,20.545955,75.742402,"nature, heritage",0,Morning
+7,Ajanta View Point 81,Historical,20.56138,75.646597,adventure,100,Morning
+7,Ajanta View Point 82,Historical,20.57658,75.78065,"heritage, photography, adventure",0,Anytime
+7,Ajanta View Point 83,Historical,20.611,75.741694,"cultural, scenic, adventure",50,Morning
+7,Ajanta View Point 84,Historical,20.535849,75.570583,"heritage, scenic, cultural",100,Anytime
+7,Ajanta View Point 85,Historical,20.548108,75.747643,photography,0,Morning
+8,Western Group Temples,Historical,24.723859,79.91655,"wildlife, historical, cultural, beach",500,Morning
+8,Eastern Group Temples,Historical,24.827059,79.874167,"scenic, heritage",300,Evening
+8,Kandariya Mahadeva Temple,Historical,24.869821,79.96711,"wildlife, cultural, fort",300,Evening
+8,Lakshmana Temple,Historical,24.922507,79.91849,"adventure, historical, heritage",100,Evening
+8,Chaturbhuja Temple,Historical,24.896376,79.878937,"cultural, family, temple",100,Morning
+8,Duladeo Temple,Historical,24.81324,79.953874,"heritage, beach, scenic, waterfall",200,Evening
+8,Archaeological Museum,Historical,24.798998,79.911791,"historical, wildlife, mountain, nature",100,Evening
+8,Raneh Falls,Historical,24.873778,79.919598,"nature, adventure, family",200,Morning
+8,Panna National Park,Historical,24.785818,79.890422,"waterfall, scenic, nature",300,Evening
+8,Ken River Lodge,Historical,24.81813,79.949277,"waterfall, scenic, cultural, heritage",0,Morning
+8,Jain Temples Khajuraho,Historical,24.815554,79.797449,"fort, historical",300,Morning
+8,Ghantai Temple,Historical,24.871114,79.952172,"mountain, nature, temple, trekking",150,Morning
+8,Vamana Temple,Historical,24.778523,79.863235,"nature, family, mountain",200,Morning
+8,Matangeshwar Temple,Historical,24.899355,79.90787,"fort, nature, cultural",500,Evening
+8,Adinath Temple,Historical,24.869479,79.885201,"wildlife, mountain, heritage, beach",100,Morning
+8,Khajuraho View Point 1,Historical,24.884222,79.846072,"cultural, heritage, photography",50,Evening
+8,Khajuraho View Point 2,Historical,24.865583,79.948452,scenic,100,Evening
+8,Khajuraho View Point 3,Historical,24.666632,79.929818,"scenic, nature",50,Evening
+8,Khajuraho View Point 4,Historical,24.774311,80.00734,"photography, nature, cultural",50,Anytime
+8,Khajuraho View Point 5,Historical,24.850616,79.900116,scenic,50,Morning
+8,Khajuraho View Point 6,Historical,24.953308,79.767643,"adventure, heritage",100,Anytime
+8,Khajuraho View Point 7,Historical,24.985983,80.069936,"adventure, cultural, nature",100,Evening
+8,Khajuraho View Point 8,Historical,24.800625,79.990972,"scenic, photography, adventure",100,Evening
+8,Khajuraho View Point 9,Historical,24.870629,79.721085,scenic,0,Evening
+8,Khajuraho View Point 10,Historical,24.822878,79.818696,scenic,50,Evening
+8,Khajuraho View Point 11,Historical,24.723302,79.896982,"cultural, heritage, scenic",100,Anytime
+8,Khajuraho View Point 12,Historical,24.811657,80.017165,"photography, cultural, scenic",50,Anytime
+8,Khajuraho View Point 13,Historical,24.7716,79.888315,scenic,50,Morning
+8,Khajuraho View Point 14,Historical,24.941187,79.905204,"scenic, cultural",100,Morning
+8,Khajuraho View Point 15,Historical,24.790749,79.988448,"adventure, cultural",0,Anytime
+8,Khajuraho View Point 16,Historical,24.874251,79.927894,"adventure, heritage, cultural",100,Anytime
+8,Khajuraho View Point 17,Historical,24.905724,79.820086,"scenic, heritage, adventure",50,Evening
+8,Khajuraho View Point 18,Historical,24.785249,80.079767,"photography, heritage",0,Morning
+8,Khajuraho View Point 19,Historical,24.589043,79.866074,"scenic, heritage",100,Anytime
+8,Khajuraho View Point 20,Historical,24.737125,79.925581,"heritage, nature, adventure",50,Anytime
+8,Khajuraho View Point 21,Historical,24.880195,80.008457,nature,50,Evening
+8,Khajuraho View Point 22,Historical,24.798969,79.846077,cultural,0,Morning
+8,Khajuraho View Point 23,Historical,24.715698,79.923734,adventure,50,Anytime
+8,Khajuraho View Point 24,Historical,25.001984,79.872884,"scenic, heritage, adventure",100,Anytime
+8,Khajuraho View Point 25,Historical,24.826058,79.930795,"adventure, photography, cultural",50,Anytime
+8,Khajuraho View Point 26,Historical,24.797972,80.03376,"cultural, heritage",0,Anytime
+8,Khajuraho View Point 27,Historical,24.928546,79.985361,"cultural, scenic, adventure",0,Morning
+8,Khajuraho View Point 28,Historical,24.908643,79.865081,photography,100,Morning
+8,Khajuraho View Point 29,Historical,24.739968,79.865713,adventure,100,Anytime
+8,Khajuraho View Point 30,Historical,24.854233,79.893934,"scenic, photography, cultural",50,Evening
+8,Khajuraho View Point 31,Historical,24.877327,79.928558,cultural,0,Morning
+8,Khajuraho View Point 32,Historical,24.724654,80.019162,heritage,0,Morning
+8,Khajuraho View Point 33,Historical,24.790894,79.982804,"photography, adventure",0,Morning
+8,Khajuraho View Point 34,Historical,24.763991,79.849416,"heritage, adventure, nature",100,Anytime
+8,Khajuraho View Point 35,Historical,24.75748,79.805352,"nature, adventure, heritage",100,Morning
+8,Khajuraho View Point 36,Historical,24.719171,79.950349,adventure,0,Evening
+8,Khajuraho View Point 37,Historical,24.757599,79.947574,"adventure, photography, heritage",50,Morning
+8,Khajuraho View Point 38,Historical,24.839941,79.990305,adventure,50,Anytime
+8,Khajuraho View Point 39,Historical,24.750322,80.004768,"cultural, scenic",100,Evening
+8,Khajuraho View Point 40,Historical,24.759332,79.700506,scenic,100,Anytime
+8,Khajuraho View Point 41,Historical,24.84702,79.849885,"cultural, adventure",50,Morning
+8,Khajuraho View Point 42,Historical,24.951785,79.943979,"adventure, heritage",0,Morning
+8,Khajuraho View Point 43,Historical,24.824985,79.936026,"nature, photography, scenic",100,Anytime
+8,Khajuraho View Point 44,Historical,24.79201,80.054642,"nature, scenic, heritage",100,Evening
+8,Khajuraho View Point 45,Historical,24.78795,79.956964,cultural,50,Morning
+8,Khajuraho View Point 46,Historical,24.766283,79.920033,heritage,0,Anytime
+8,Khajuraho View Point 47,Historical,24.732838,79.938188,"nature, adventure, photography",50,Anytime
+8,Khajuraho View Point 48,Historical,24.836985,79.963808,"adventure, cultural, nature",50,Evening
+8,Khajuraho View Point 49,Historical,24.86925,79.922229,"adventure, heritage, nature",0,Evening
+8,Khajuraho View Point 50,Historical,24.994959,79.918437,nature,100,Morning
+8,Khajuraho View Point 51,Historical,24.834934,79.913082,scenic,50,Anytime
+8,Khajuraho View Point 52,Historical,24.848008,79.897014,"adventure, cultural",100,Evening
+8,Khajuraho View Point 53,Historical,24.802339,79.980065,"nature, heritage",0,Anytime
+8,Khajuraho View Point 54,Historical,24.827928,80.00422,"nature, cultural, scenic",0,Evening
+8,Khajuraho View Point 55,Historical,24.680289,80.041725,cultural,0,Morning
+8,Khajuraho View Point 56,Historical,24.90342,79.915785,"photography, nature",0,Anytime
+8,Khajuraho View Point 57,Historical,24.825597,79.971155,"photography, scenic",50,Morning
+8,Khajuraho View Point 58,Historical,24.749691,79.922972,"heritage, nature, photography",100,Evening
+8,Khajuraho View Point 59,Historical,24.844213,79.75638,"cultural, scenic, photography",50,Anytime
+8,Khajuraho View Point 60,Historical,24.859637,79.81172,"adventure, photography",50,Anytime
+8,Khajuraho View Point 61,Historical,24.918437,80.026945,"photography, heritage",50,Morning
+8,Khajuraho View Point 62,Historical,24.952644,79.894105,"cultural, heritage, photography",100,Anytime
+8,Khajuraho View Point 63,Historical,24.804886,79.761797,cultural,50,Morning
+8,Khajuraho View Point 64,Historical,24.886216,79.799207,"heritage, nature, photography",100,Evening
+8,Khajuraho View Point 65,Historical,24.715869,79.895601,"scenic, heritage",50,Morning
+8,Khajuraho View Point 66,Historical,24.743342,79.84296,"scenic, cultural, heritage",0,Anytime
+8,Khajuraho View Point 67,Historical,24.835568,79.990418,"nature, scenic, heritage",100,Anytime
+8,Khajuraho View Point 68,Historical,24.87496,79.935055,"heritage, photography, scenic",0,Anytime
+8,Khajuraho View Point 69,Historical,24.923553,79.93011,"cultural, photography",0,Morning
+8,Khajuraho View Point 70,Historical,24.789667,79.858294,scenic,50,Evening
+8,Khajuraho View Point 71,Historical,24.875988,79.831817,"heritage, photography",100,Morning
+8,Khajuraho View Point 72,Historical,24.859705,79.885631,"cultural, heritage",50,Morning
+8,Khajuraho View Point 73,Historical,24.764762,79.85148,cultural,50,Evening
+8,Khajuraho View Point 74,Historical,24.909028,79.851295,"adventure, heritage, cultural",100,Evening
+8,Khajuraho View Point 75,Historical,24.809463,79.882407,"adventure, photography",0,Morning
+8,Khajuraho View Point 76,Historical,24.916532,80.042964,"photography, cultural, heritage",50,Anytime
+8,Khajuraho View Point 77,Historical,24.904508,79.889848,"photography, cultural, nature",100,Anytime
+8,Khajuraho View Point 78,Historical,24.859181,79.847125,"heritage, scenic",0,Evening
+8,Khajuraho View Point 79,Historical,24.848634,79.779333,"adventure, cultural, heritage",50,Evening
+8,Khajuraho View Point 80,Historical,24.850623,79.915485,heritage,100,Anytime
+8,Khajuraho View Point 81,Historical,24.86706,79.918914,nature,0,Anytime
+8,Khajuraho View Point 82,Historical,24.898605,79.85882,"scenic, adventure",0,Anytime
+8,Khajuraho View Point 83,Historical,24.892318,79.957685,"scenic, photography, cultural",0,Anytime
+8,Khajuraho View Point 84,Historical,24.918959,80.012436,"heritage, scenic, nature",100,Morning
+8,Khajuraho View Point 85,Historical,24.755647,79.961263,cultural,50,Evening
+9,Alleppey Backwaters,Nature,9.439816,76.396783,"trekking, wildlife, fort, photography",200,Evening
+9,Vembanad Lake,Nature,9.455444,76.319799,"trekking, photography, temple, cultural",200,Evening
+9,Kumarakom,Nature,9.508978,76.375724,"photography, adventure, cultural",500,Evening
+9,Kuttanad Rice Bowl,Nature,9.516665,76.377082,"mountain, temple",150,Evening
+9,Pathiramanal Island,Nature,9.498724,76.351005,"lake, photography, wildlife, temple",100,Evening
+9,Punnamada Lake,Nature,9.409759,76.390105,"mountain, cultural, beach",300,Morning
+9,Marari Beach,Nature,9.483541,76.317278,"scenic, adventure, cultural, temple",100,Evening
+9,Krishnapuram Palace,Nature,9.59494,76.203358,"wildlife, mountain, temple",150,Evening
+9,Mullakkal Temple,Nature,9.502864,76.226807,"lake, historical",150,Evening
+9,St Andrew's Basilica,Nature,9.515075,76.303844,"lake, wildlife, adventure, waterfall",300,Morning
+9,Champakulam,Nature,9.351385,76.393256,"wildlife, nature, lake",500,Morning
+9,Ambalappuzha Temple,Nature,9.433611,76.386237,"mountain, trekking",50,Morning
+9,Kainakary,Nature,9.449367,76.315586,"scenic, heritage, photography",150,Evening
+9,Thalavady,Nature,9.38392,76.360032,"scenic, heritage",50,Morning
+9,Karumadi Kuttan,Nature,9.469403,76.320472,"scenic, heritage, fort",100,Evening
+9,Kerala View Point 1,Nature,9.490498,76.206959,heritage,0,Evening
+9,Kerala View Point 2,Nature,9.553388,76.29372,"cultural, scenic",0,Evening
+9,Kerala View Point 3,Nature,9.681716,76.300432,"heritage, cultural",50,Anytime
+9,Kerala View Point 4,Nature,9.466934,76.230273,nature,0,Evening
+9,Kerala View Point 5,Nature,9.369011,76.409015,"scenic, cultural",50,Morning
+9,Kerala View Point 6,Nature,9.582992,76.293568,"nature, heritage",50,Evening
+9,Kerala View Point 7,Nature,9.507806,76.438149,"adventure, nature, photography",50,Anytime
+9,Kerala View Point 8,Nature,9.521257,76.377585,"scenic, heritage, adventure",50,Anytime
+9,Kerala View Point 9,Nature,9.505081,76.286599,heritage,100,Morning
+9,Kerala View Point 10,Nature,9.528936,76.48798,photography,0,Evening
+9,Kerala View Point 11,Nature,9.456466,76.408197,nature,100,Morning
+9,Kerala View Point 12,Nature,9.512609,76.291617,cultural,100,Morning
+9,Kerala View Point 13,Nature,9.569722,76.40112,heritage,50,Anytime
+9,Kerala View Point 14,Nature,9.544532,76.478689,"cultural, adventure",0,Evening
+9,Kerala View Point 15,Nature,9.644944,76.343117,"nature, scenic",0,Anytime
+9,Kerala View Point 16,Nature,9.489611,76.22461,"photography, nature",0,Evening
+9,Kerala View Point 17,Nature,9.620756,76.332957,heritage,100,Evening
+9,Kerala View Point 18,Nature,9.449393,76.264126,"cultural, scenic",0,Evening
+9,Kerala View Point 19,Nature,9.422857,76.479497,"photography, nature",0,Evening
+9,Kerala View Point 20,Nature,9.569962,76.219761,"cultural, scenic, photography",50,Evening
+9,Kerala View Point 21,Nature,9.382296,76.348549,scenic,0,Anytime
+9,Kerala View Point 22,Nature,9.416783,76.318635,photography,100,Evening
+9,Kerala View Point 23,Nature,9.622342,76.424353,"nature, photography, heritage",100,Evening
+9,Kerala View Point 24,Nature,9.36119,76.257911,"photography, heritage, adventure",50,Anytime
+9,Kerala View Point 25,Nature,9.517756,76.429181,cultural,0,Evening
+9,Kerala View Point 26,Nature,9.432351,76.368282,"adventure, photography, nature",0,Morning
+9,Kerala View Point 27,Nature,9.461707,76.478965,"nature, heritage, cultural",50,Anytime
+9,Kerala View Point 28,Nature,9.547893,76.323339,"scenic, photography",0,Evening
+9,Kerala View Point 29,Nature,9.378527,76.253884,"nature, photography",100,Morning
+9,Kerala View Point 30,Nature,9.296082,76.36058,"cultural, adventure, photography",0,Anytime
+9,Kerala View Point 31,Nature,9.551383,76.396116,"adventure, nature, scenic",50,Anytime
+9,Kerala View Point 32,Nature,9.448981,76.441206,nature,0,Evening
+9,Kerala View Point 33,Nature,9.624785,76.285571,"scenic, cultural",50,Evening
+9,Kerala View Point 34,Nature,9.592621,76.349989,"scenic, photography, nature",50,Anytime
+9,Kerala View Point 35,Nature,9.455959,76.437296,"photography, nature",50,Anytime
+9,Kerala View Point 36,Nature,9.401579,76.220005,"cultural, scenic, heritage",100,Evening
+9,Kerala View Point 37,Nature,9.466404,76.320517,adventure,50,Anytime
+9,Kerala View Point 38,Nature,9.366636,76.378053,adventure,100,Evening
+9,Kerala View Point 39,Nature,9.435659,76.234052,heritage,100,Evening
+9,Kerala View Point 40,Nature,9.550074,76.304447,"cultural, adventure, photography",50,Evening
+9,Kerala View Point 41,Nature,9.582705,76.375539,"nature, cultural, photography",100,Evening
+9,Kerala View Point 42,Nature,9.482264,76.426638,"adventure, nature, cultural",50,Morning
+9,Kerala View Point 43,Nature,9.53173,76.337222,"photography, adventure",50,Evening
+9,Kerala View Point 44,Nature,9.539037,76.382341,nature,100,Anytime
+9,Kerala View Point 45,Nature,9.410549,76.527455,"nature, heritage",100,Anytime
+9,Kerala View Point 46,Nature,9.503511,76.345812,"nature, cultural, heritage",100,Morning
+9,Kerala View Point 47,Nature,9.357531,76.349083,nature,50,Evening
+9,Kerala View Point 48,Nature,9.511845,76.246816,"cultural, scenic, heritage",0,Evening
+9,Kerala View Point 49,Nature,9.414935,76.266856,photography,100,Evening
+9,Kerala View Point 50,Nature,9.474492,76.355864,"cultural, heritage",50,Evening
+9,Kerala View Point 51,Nature,9.480261,76.36302,"photography, heritage",50,Evening
+9,Kerala View Point 52,Nature,9.552122,76.382231,photography,50,Evening
+9,Kerala View Point 53,Nature,9.527228,76.361655,"nature, heritage",0,Anytime
+9,Kerala View Point 54,Nature,9.521235,76.327059,"cultural, heritage, adventure",50,Anytime
+9,Kerala View Point 55,Nature,9.445313,76.331347,"heritage, photography, scenic",100,Morning
+9,Kerala View Point 56,Nature,9.550352,76.390599,"heritage, scenic, nature",0,Morning
+9,Kerala View Point 57,Nature,9.53873,76.300784,"heritage, adventure",0,Evening
+9,Kerala View Point 58,Nature,9.480783,76.321788,"cultural, adventure",100,Morning
+9,Kerala View Point 59,Nature,9.449535,76.410316,"adventure, scenic, cultural",0,Evening
+9,Kerala View Point 60,Nature,9.350853,76.500561,"scenic, adventure",50,Evening
+9,Kerala View Point 61,Nature,9.664011,76.342801,"adventure, nature",0,Morning
+9,Kerala View Point 62,Nature,9.530516,76.406733,"adventure, scenic",50,Anytime
+9,Kerala View Point 63,Nature,9.437465,76.384208,adventure,100,Morning
+9,Kerala View Point 64,Nature,9.603625,76.194583,"nature, adventure, heritage",0,Anytime
+9,Kerala View Point 65,Nature,9.382846,76.398816,cultural,0,Morning
+9,Kerala View Point 66,Nature,9.476493,76.30787,"cultural, heritage, photography",0,Evening
+9,Kerala View Point 67,Nature,9.471926,76.248642,"cultural, nature",100,Anytime
+9,Kerala View Point 68,Nature,9.465284,76.233172,"scenic, heritage, nature",100,Anytime
+9,Kerala View Point 69,Nature,9.602798,76.349461,"cultural, adventure, heritage",0,Anytime
+9,Kerala View Point 70,Nature,9.506624,76.392131,"photography, adventure",100,Anytime
+9,Kerala View Point 71,Nature,9.721317,76.254601,"photography, cultural",50,Evening
+9,Kerala View Point 72,Nature,9.350722,76.336345,"scenic, cultural",100,Morning
+9,Kerala View Point 73,Nature,9.351962,76.311707,"photography, nature",50,Evening
+9,Kerala View Point 74,Nature,9.568059,76.461039,"nature, photography, cultural",100,Morning
+9,Kerala View Point 75,Nature,9.372839,76.263338,"adventure, photography",50,Morning
+9,Kerala View Point 76,Nature,9.527177,76.399117,"heritage, adventure, photography",100,Evening
+9,Kerala View Point 77,Nature,9.562964,76.456809,"nature, photography",0,Evening
+9,Kerala View Point 78,Nature,9.556388,76.32921,"nature, photography, cultural",50,Morning
+9,Kerala View Point 79,Nature,9.583059,76.344385,"adventure, scenic",0,Evening
+9,Kerala View Point 80,Nature,9.520077,76.299262,cultural,0,Evening
+9,Kerala View Point 81,Nature,9.51064,76.20843,"heritage, adventure",0,Morning
+9,Kerala View Point 82,Nature,9.580878,76.25807,heritage,100,Evening
+9,Kerala View Point 83,Nature,9.427055,76.152677,nature,0,Anytime
+9,Kerala View Point 84,Nature,9.4323,76.262127,"scenic, heritage",0,Anytime
+9,Kerala View Point 85,Nature,9.515483,76.235237,"cultural, nature",50,Anytime
+10,Abbey Falls,Nature,12.315297,75.772896,"heritage, cultural, scenic",50,Evening
+10,Nagarhole National Park,Nature,12.249493,75.818806,"scenic, fort, cultural, nature",0,Morning
+10,Raja's Seat,Nature,12.326538,75.808897,"photography, waterfall, scenic, mountain",150,Evening
+10,Iruppu Falls,Nature,12.37901,75.807277,"mountain, trekking",100,Evening
+10,Talakaveri,Nature,12.320852,75.853031,"beach, nature",150,Morning
+10,Bhagamandala,Nature,12.321216,75.78167,"historical, nature, adventure, fort",150,Evening
+10,Omkareshwar Temple,Nature,12.370978,75.767899,"fort, beach",200,Morning
+10,Dubare Elephant Camp,Nature,12.395862,75.81492,"scenic, temple",150,Evening
+10,Madikeri Fort,Nature,12.415949,75.803905,"historical, waterfall, family, adventure",50,Evening
+10,Golden Temple Bylakuppe,Nature,12.384913,75.724942,"heritage, beach, cultural",50,Evening
+10,Pushpagiri Wildlife Sanctuary,Nature,12.401605,75.841365,"fort, lake, family",50,Morning
+10,Chelavara Falls,Nature,12.305227,75.850146,"scenic, trekking",100,Morning
+10,Cauvery River,Nature,12.274142,75.782033,"waterfall, family",150,Evening
+10,Mandalpatti Peak,Nature,12.294946,75.8529,"trekking, temple, fort",100,Morning
+10,Nisargadhama Forest Camp,Nature,12.399916,75.784452,"cultural, mountain",100,Morning
+10,Coorg View Point 1,Nature,12.235786,75.72875,"photography, cultural",50,Anytime
+10,Coorg View Point 2,Nature,12.344866,75.809243,"photography, nature",100,Anytime
+10,Coorg View Point 3,Nature,12.310293,75.740524,"photography, adventure",50,Anytime
+10,Coorg View Point 4,Nature,12.467774,75.7573,"cultural, heritage",0,Evening
+10,Coorg View Point 5,Nature,12.270872,75.898686,"heritage, cultural, nature",0,Evening
+10,Coorg View Point 6,Nature,12.314901,75.847853,"nature, scenic, adventure",100,Evening
+10,Coorg View Point 7,Nature,12.267487,75.847387,"adventure, heritage",50,Morning
+10,Coorg View Point 8,Nature,12.396316,75.717596,photography,100,Morning
+10,Coorg View Point 9,Nature,12.294774,75.734513,photography,100,Anytime
+10,Coorg View Point 10,Nature,12.295258,75.934986,"nature, adventure",50,Morning
+10,Coorg View Point 11,Nature,12.358052,75.962742,adventure,100,Evening
+10,Coorg View Point 12,Nature,12.456122,75.897371,"nature, photography, scenic",0,Morning
+10,Coorg View Point 13,Nature,12.45385,75.899694,"photography, nature",0,Evening
+10,Coorg View Point 14,Nature,12.473862,75.850473,"scenic, heritage",50,Evening
+10,Coorg View Point 15,Nature,12.392406,75.859534,photography,50,Anytime
+10,Coorg View Point 16,Nature,12.302343,75.874594,"heritage, cultural, scenic",0,Evening
+10,Coorg View Point 17,Nature,12.438124,75.758867,"nature, photography",100,Morning
+10,Coorg View Point 18,Nature,12.268921,75.762819,"cultural, photography, nature",100,Anytime
+10,Coorg View Point 19,Nature,12.446039,75.78793,adventure,0,Morning
+10,Coorg View Point 20,Nature,12.249169,75.723817,adventure,0,Morning
+10,Coorg View Point 21,Nature,12.265194,75.74987,photography,0,Evening
+10,Coorg View Point 22,Nature,12.225584,75.855349,"cultural, nature",50,Morning
+10,Coorg View Point 23,Nature,12.322353,75.849656,"heritage, nature, photography",0,Anytime
+10,Coorg View Point 24,Nature,12.153706,75.892694,"photography, scenic",0,Anytime
+10,Coorg View Point 25,Nature,12.330931,75.846901,"adventure, nature, cultural",50,Evening
+10,Coorg View Point 26,Nature,12.459206,75.836328,"cultural, adventure",50,Morning
+10,Coorg View Point 27,Nature,12.506428,75.656522,cultural,50,Anytime
+10,Coorg View Point 28,Nature,12.312095,75.662623,"scenic, nature, adventure",100,Morning
+10,Coorg View Point 29,Nature,12.362652,75.81302,"adventure, nature, scenic",0,Evening
+10,Coorg View Point 30,Nature,12.250125,75.980781,"scenic, adventure, heritage",0,Anytime
+10,Coorg View Point 31,Nature,12.308746,75.630405,scenic,50,Morning
+10,Coorg View Point 32,Nature,12.391915,75.862554,"adventure, nature, photography",100,Anytime
+10,Coorg View Point 33,Nature,12.299141,75.869969,photography,100,Anytime
+10,Coorg View Point 34,Nature,12.26148,75.773528,"scenic, adventure, cultural",0,Anytime
+10,Coorg View Point 35,Nature,12.368996,75.880847,"nature, photography, scenic",50,Anytime
+10,Coorg View Point 36,Nature,12.319563,75.768307,"heritage, cultural",50,Evening
+10,Coorg View Point 37,Nature,12.334203,75.643189,scenic,50,Evening
+10,Coorg View Point 38,Nature,12.315135,75.648455,"nature, scenic, cultural",0,Anytime
+10,Coorg View Point 39,Nature,12.270171,75.693108,"nature, adventure, heritage",100,Evening
+10,Coorg View Point 40,Nature,12.379761,75.748426,scenic,0,Morning
+10,Coorg View Point 41,Nature,12.436532,75.659121,heritage,50,Evening
+10,Coorg View Point 42,Nature,12.31802,75.813664,"cultural, heritage",50,Anytime
+10,Coorg View Point 43,Nature,12.376706,75.979187,cultural,50,Morning
+10,Coorg View Point 44,Nature,12.180162,75.746294,"nature, adventure",50,Evening
+10,Coorg View Point 45,Nature,12.497259,75.733214,"adventure, scenic, nature",0,Evening
+10,Coorg View Point 46,Nature,12.37284,75.731719,nature,100,Morning
+10,Coorg View Point 47,Nature,12.225982,75.741657,"cultural, nature",50,Anytime
+10,Coorg View Point 48,Nature,12.49571,75.713576,"scenic, cultural",50,Morning
+10,Coorg View Point 49,Nature,12.313643,75.786529,"heritage, adventure",50,Morning
+10,Coorg View Point 50,Nature,12.410807,75.897211,heritage,100,Morning
+10,Coorg View Point 51,Nature,12.34612,75.551722,"heritage, cultural, scenic",0,Evening
+10,Coorg View Point 52,Nature,12.266361,75.711058,"adventure, nature, cultural",0,Evening
+10,Coorg View Point 53,Nature,12.430195,75.733216,adventure,0,Evening
+10,Coorg View Point 54,Nature,12.472179,75.839555,"adventure, heritage",50,Morning
+10,Coorg View Point 55,Nature,12.428284,75.987362,adventure,100,Morning
+10,Coorg View Point 56,Nature,12.261994,75.677304,adventure,50,Anytime
+10,Coorg View Point 57,Nature,12.35246,75.883226,scenic,50,Evening
+10,Coorg View Point 58,Nature,12.284309,75.809811,cultural,0,Anytime
+10,Coorg View Point 59,Nature,12.434863,75.896345,"cultural, nature",50,Evening
+10,Coorg View Point 60,Nature,12.290958,75.828607,cultural,50,Morning
+10,Coorg View Point 61,Nature,12.262643,75.690903,"scenic, cultural, heritage",100,Anytime
+10,Coorg View Point 62,Nature,12.446158,75.636244,"cultural, adventure, scenic",0,Morning
+10,Coorg View Point 63,Nature,12.352779,75.777276,"cultural, heritage",50,Morning
+10,Coorg View Point 64,Nature,12.381401,75.7521,"heritage, scenic, adventure",100,Anytime
+10,Coorg View Point 65,Nature,12.428829,75.789122,adventure,0,Evening
+10,Coorg View Point 66,Nature,12.453615,75.824408,"adventure, nature, scenic",100,Morning
+10,Coorg View Point 67,Nature,12.253515,75.850305,"heritage, scenic, cultural",0,Anytime
+10,Coorg View Point 68,Nature,12.370907,75.798339,"heritage, cultural",0,Morning
+10,Coorg View Point 69,Nature,12.277631,75.875751,"cultural, scenic",100,Morning
+10,Coorg View Point 70,Nature,12.260282,75.738099,"heritage, photography",0,Evening
+10,Coorg View Point 71,Nature,12.379698,75.790034,adventure,0,Anytime
+10,Coorg View Point 72,Nature,12.180319,75.729949,heritage,50,Anytime
+10,Coorg View Point 73,Nature,12.369968,75.78532,"adventure, cultural",0,Anytime
+10,Coorg View Point 74,Nature,12.329412,75.827864,"heritage, adventure, cultural",100,Anytime
+10,Coorg View Point 75,Nature,12.374004,75.816189,scenic,100,Evening
+10,Coorg View Point 76,Nature,12.07126,75.802482,nature,50,Anytime
+10,Coorg View Point 77,Nature,12.296193,75.809351,"heritage, cultural, photography",100,Evening
+10,Coorg View Point 78,Nature,12.422915,75.721103,heritage,50,Morning
+10,Coorg View Point 79,Nature,12.343121,75.845063,"heritage, cultural",50,Evening
+10,Coorg View Point 80,Nature,12.312738,75.702174,"cultural, photography, adventure",0,Anytime
+10,Coorg View Point 81,Nature,12.241188,75.804136,"scenic, cultural",100,Anytime
+10,Coorg View Point 82,Nature,12.287871,75.652674,nature,0,Anytime
+10,Coorg View Point 83,Nature,12.27365,75.702854,"heritage, nature, photography",100,Morning
+10,Coorg View Point 84,Nature,12.397372,75.688158,"cultural, photography, heritage",100,Anytime
+10,Coorg View Point 85,Nature,12.451132,75.979677,"nature, scenic, heritage",100,Evening
+11,Eravikulam National Park,Nature,10.051871,77.028811,"waterfall, photography, historical, heritage",0,Morning
+11,Mattupetty Dam,Nature,10.136088,77.1137,"temple, cultural",300,Morning
+11,Echo Point,Nature,10.064279,77.037513,"lake, adventure",100,Evening
+11,Top Station,Nature,10.06732,77.016915,"wildlife, fort, historical, beach",200,Morning
+11,Anamudi Peak,Nature,10.134475,77.067271,"cultural, wildlife",150,Morning
+11,Chinnar Wildlife Sanctuary,Nature,10.052633,77.062731,"mountain, beach",200,Morning
+11,Attukal Waterfalls,Nature,10.069984,77.184675,"lake, fort, adventure, cultural",100,Evening
+11,Photo Point,Nature,10.07646,77.09651,"family, cultural",50,Morning
+11,Tea Museum,Nature,10.110635,77.051968,"photography, trekking, cultural",0,Morning
+11,Rajamala,Nature,10.110913,77.070025,"family, nature",50,Morning
+11,Lakkam Waterfalls,Nature,10.213239,77.054645,"temple, adventure, photography",200,Morning
+11,Pothamedu Viewpoint,Nature,9.95856,77.168952,"beach, family, waterfall, wildlife",500,Morning
+11,Marayoor Sandalwood Forest,Nature,10.063418,77.063823,"temple, family, trekking, historical",500,Morning
+11,Pallivasal Falls,Nature,10.061711,77.029554,"heritage, trekking, temple",0,Morning
+11,Kundala Lake,Nature,10.032967,76.959376,"beach, fort",150,Evening
+11,Munnar View Point 1,Nature,10.031501,77.10064,photography,50,Evening
+11,Munnar View Point 2,Nature,9.957187,77.099927,adventure,100,Morning
+11,Munnar View Point 3,Nature,10.27448,77.082444,cultural,0,Morning
+11,Munnar View Point 4,Nature,9.977742,77.091701,"cultural, photography, adventure",100,Anytime
+11,Munnar View Point 5,Nature,10.165509,77.163838,"scenic, nature, cultural",0,Morning
+11,Munnar View Point 6,Nature,10.103916,77.107855,"nature, photography, heritage",100,Evening
+11,Munnar View Point 7,Nature,10.156917,77.107681,"scenic, cultural",0,Evening
+11,Munnar View Point 8,Nature,10.114368,77.008392,"adventure, heritage, cultural",50,Morning
+11,Munnar View Point 9,Nature,10.165254,77.016634,cultural,100,Morning
+11,Munnar View Point 10,Nature,10.297098,77.008314,"nature, heritage, photography",100,Morning
+11,Munnar View Point 11,Nature,10.153107,76.957299,"scenic, photography",0,Anytime
+11,Munnar View Point 12,Nature,10.050761,77.012362,"heritage, adventure, photography",0,Evening
+11,Munnar View Point 13,Nature,9.979519,77.013547,"scenic, heritage",100,Evening
+11,Munnar View Point 14,Nature,10.11773,77.039708,"photography, scenic",100,Morning
+11,Munnar View Point 15,Nature,10.184337,76.984987,adventure,50,Anytime
+11,Munnar View Point 16,Nature,10.144686,77.012094,"photography, nature, adventure",50,Evening
+11,Munnar View Point 17,Nature,10.179234,77.122169,"scenic, heritage, adventure",100,Anytime
+11,Munnar View Point 18,Nature,10.16994,77.046591,"photography, scenic",50,Morning
+11,Munnar View Point 19,Nature,10.195249,76.926703,"heritage, nature, photography",100,Anytime
+11,Munnar View Point 20,Nature,10.124603,77.070558,"adventure, heritage, scenic",50,Anytime
+11,Munnar View Point 21,Nature,10.155619,77.053441,"adventure, photography",0,Morning
+11,Munnar View Point 22,Nature,10.010176,76.972152,"photography, cultural, heritage",0,Morning
+11,Munnar View Point 23,Nature,10.087955,77.038691,"adventure, heritage, scenic",0,Anytime
+11,Munnar View Point 24,Nature,10.157454,77.135807,"cultural, nature",50,Morning
+11,Munnar View Point 25,Nature,10.092726,77.061553,"cultural, scenic",50,Evening
+11,Munnar View Point 26,Nature,10.174069,77.039905,"scenic, photography",50,Evening
+11,Munnar View Point 27,Nature,10.072568,76.953681,"photography, heritage",100,Evening
+11,Munnar View Point 28,Nature,10.159185,77.052315,"nature, adventure",0,Morning
+11,Munnar View Point 29,Nature,10.179848,76.962939,cultural,0,Evening
+11,Munnar View Point 30,Nature,10.049587,77.135186,"adventure, scenic, nature",50,Anytime
+11,Munnar View Point 31,Nature,10.114995,76.96485,heritage,50,Anytime
+11,Munnar View Point 32,Nature,10.162705,76.955116,"photography, nature, cultural",0,Anytime
+11,Munnar View Point 33,Nature,10.155137,76.981128,"scenic, cultural",50,Morning
+11,Munnar View Point 34,Nature,10.185818,77.068531,"scenic, nature",100,Anytime
+11,Munnar View Point 35,Nature,10.116424,77.053017,"cultural, nature",100,Morning
+11,Munnar View Point 36,Nature,10.095914,77.066137,scenic,0,Morning
+11,Munnar View Point 37,Nature,10.145353,77.054463,"cultural, scenic, heritage",100,Morning
+11,Munnar View Point 38,Nature,10.205885,77.000609,"cultural, scenic, nature",0,Anytime
+11,Munnar View Point 39,Nature,10.157753,77.104634,"nature, photography",0,Morning
+11,Munnar View Point 40,Nature,10.187572,77.069174,scenic,50,Morning
+11,Munnar View Point 41,Nature,10.115254,77.084948,"cultural, scenic, photography",50,Anytime
+11,Munnar View Point 42,Nature,9.991626,77.091006,"nature, adventure",0,Evening
+11,Munnar View Point 43,Nature,10.350493,77.188234,heritage,100,Evening
+11,Munnar View Point 44,Nature,10.026509,76.915458,"scenic, nature",50,Evening
+11,Munnar View Point 45,Nature,10.093075,77.146166,nature,0,Evening
+11,Munnar View Point 46,Nature,10.085808,77.210636,"nature, scenic, photography",0,Morning
+11,Munnar View Point 47,Nature,10.02648,77.077498,adventure,100,Evening
+11,Munnar View Point 48,Nature,10.08021,77.118013,adventure,100,Evening
+11,Munnar View Point 49,Nature,10.152894,77.154591,"scenic, nature, heritage",0,Morning
+11,Munnar View Point 50,Nature,10.078985,77.160123,"heritage, nature, photography",100,Morning
+11,Munnar View Point 51,Nature,10.116499,77.168278,photography,100,Anytime
+11,Munnar View Point 52,Nature,10.208872,77.060964,cultural,50,Anytime
+11,Munnar View Point 53,Nature,10.034988,77.075795,"scenic, nature",100,Morning
+11,Munnar View Point 54,Nature,10.168152,76.939096,"cultural, adventure",100,Evening
+11,Munnar View Point 55,Nature,10.049313,77.114108,"adventure, scenic",50,Morning
+11,Munnar View Point 56,Nature,9.881868,76.976767,"heritage, scenic",0,Evening
+11,Munnar View Point 57,Nature,10.039858,77.052821,"adventure, cultural",100,Evening
+11,Munnar View Point 58,Nature,10.063155,77.035268,"scenic, nature",100,Evening
+11,Munnar View Point 59,Nature,9.982412,77.201081,"nature, scenic",50,Evening
+11,Munnar View Point 60,Nature,10.04027,76.907258,"heritage, adventure",100,Anytime
+11,Munnar View Point 61,Nature,10.17972,76.997493,"nature, scenic, heritage",50,Anytime
+11,Munnar View Point 62,Nature,9.991932,77.113741,cultural,50,Morning
+11,Munnar View Point 63,Nature,10.047392,77.072979,"adventure, heritage, scenic",50,Evening
+11,Munnar View Point 64,Nature,10.038215,77.022465,"adventure, nature",50,Anytime
+11,Munnar View Point 65,Nature,10.009494,76.962379,"cultural, scenic",50,Evening
+11,Munnar View Point 66,Nature,10.366624,76.993261,"cultural, adventure, photography",50,Morning
+11,Munnar View Point 67,Nature,9.971874,77.149937,"adventure, heritage",0,Anytime
+11,Munnar View Point 68,Nature,10.110221,77.060893,"nature, scenic, photography",100,Evening
+11,Munnar View Point 69,Nature,10.049867,77.026978,scenic,0,Anytime
+11,Munnar View Point 70,Nature,10.065109,77.150423,cultural,0,Morning
+11,Munnar View Point 71,Nature,10.069031,77.151018,photography,50,Anytime
+11,Munnar View Point 72,Nature,10.084607,77.043088,"scenic, adventure, cultural",100,Evening
+11,Munnar View Point 73,Nature,10.007193,77.231078,nature,0,Morning
+11,Munnar View Point 74,Nature,10.090098,77.059402,cultural,0,Anytime
+11,Munnar View Point 75,Nature,10.23761,77.09282,"heritage, cultural, photography",100,Morning
+11,Munnar View Point 76,Nature,10.131078,77.064278,"heritage, nature, scenic",100,Anytime
+11,Munnar View Point 77,Nature,10.026972,77.156841,heritage,0,Morning
+11,Munnar View Point 78,Nature,9.975592,76.981361,nature,100,Anytime
+11,Munnar View Point 79,Nature,10.026736,77.079601,"scenic, heritage, nature",100,Evening
+11,Munnar View Point 80,Nature,10.087633,76.910485,"scenic, photography",100,Evening
+11,Munnar View Point 81,Nature,10.274292,77.120287,"cultural, adventure, nature",100,Morning
+11,Munnar View Point 82,Nature,10.049622,77.094167,photography,0,Morning
+11,Munnar View Point 83,Nature,10.124659,77.033089,scenic,0,Evening
+11,Munnar View Point 84,Nature,10.120409,77.091948,"heritage, cultural",50,Evening
+11,Munnar View Point 85,Nature,10.176214,77.065025,"cultural, adventure, nature",0,Morning
+12,Kohora Range,Nature,26.694082,93.358557,"scenic, trekking",150,Morning
+12,Bagori Range,Nature,26.656329,93.330524,"nature, waterfall",150,Evening
+12,Agoratoli Range,Nature,26.637798,93.345758,"lake, trekking, wildlife",200,Morning
+12,Rhino Safaris,Nature,26.666207,93.419295,"lake, nature",50,Evening
+12,Elephant Safaris,Nature,26.659036,93.352369,"nature, beach, mountain",100,Morning
+12,Kaziranga Orchid Park,Nature,26.663381,93.366605,"family, fort, cultural",150,Evening
+12,Burapahar Range,Nature,26.762909,93.350043,"heritage, adventure",0,Morning
+12,Orang National Park,Nature,26.706056,93.386485,"historical, fort",150,Evening
+12,Gibbon Wildlife Sanctuary,Nature,26.681104,93.321094,"fort, beach, cultural",150,Evening
+12,Pobitora Wildlife Sanctuary,Nature,26.704183,93.272718,"heritage, beach, trekking",0,Evening
+12,Manas National Park,Nature,26.626972,93.34192,"fort, scenic",300,Morning
+12,Nameri National Park,Nature,26.666774,93.373204,"heritage, beach, trekking, wildlife",50,Morning
+12,Teok Tea Garden,Nature,26.747561,93.400508,"fort, mountain, family, scenic",0,Evening
+12,Karbi Anglong Hills,Nature,26.686443,93.352204,"scenic, cultural, heritage",150,Morning
+12,Bokakhat,Nature,26.661731,93.312275,"photography, family",200,Morning
+12,Kaziranga View Point 1,Nature,26.509401,93.266978,photography,0,Morning
+12,Kaziranga View Point 2,Nature,26.771668,93.312063,"nature, photography",0,Anytime
+12,Kaziranga View Point 3,Nature,26.636024,93.450684,"heritage, photography",0,Anytime
+12,Kaziranga View Point 4,Nature,26.466646,93.322119,"scenic, heritage, photography",100,Anytime
+12,Kaziranga View Point 5,Nature,26.590166,93.392486,"nature, heritage",0,Evening
+12,Kaziranga View Point 6,Nature,26.722552,93.414853,photography,50,Morning
+12,Kaziranga View Point 7,Nature,26.798657,93.41332,"photography, adventure",50,Evening
+12,Kaziranga View Point 8,Nature,26.697915,93.563671,nature,100,Anytime
+12,Kaziranga View Point 9,Nature,26.507764,93.545057,"photography, cultural, adventure",0,Morning
+12,Kaziranga View Point 10,Nature,26.817355,93.357124,"heritage, cultural, adventure",0,Anytime
+12,Kaziranga View Point 11,Nature,26.621437,93.316337,nature,50,Morning
+12,Kaziranga View Point 12,Nature,26.654918,93.464709,"heritage, nature, photography",100,Anytime
+12,Kaziranga View Point 13,Nature,26.480658,93.529779,"nature, adventure",0,Morning
+12,Kaziranga View Point 14,Nature,26.677925,93.463144,"photography, nature",0,Evening
+12,Kaziranga View Point 15,Nature,26.579632,93.426891,nature,50,Anytime
+12,Kaziranga View Point 16,Nature,26.708939,93.414121,"nature, photography",50,Morning
+12,Kaziranga View Point 17,Nature,26.622656,93.338387,adventure,50,Anytime
+12,Kaziranga View Point 18,Nature,26.579195,93.430127,"photography, nature",100,Morning
+12,Kaziranga View Point 19,Nature,26.785404,93.391585,"nature, heritage",0,Morning
+12,Kaziranga View Point 20,Nature,26.463651,93.477537,"photography, nature, cultural",0,Anytime
+12,Kaziranga View Point 21,Nature,26.687531,93.156648,adventure,100,Morning
+12,Kaziranga View Point 22,Nature,26.541738,93.284707,"photography, nature",100,Anytime
+12,Kaziranga View Point 23,Nature,26.677967,93.28728,photography,50,Anytime
+12,Kaziranga View Point 24,Nature,26.606804,93.442114,"nature, heritage, scenic",50,Anytime
+12,Kaziranga View Point 25,Nature,26.772991,93.444959,"heritage, adventure, cultural",0,Morning
+12,Kaziranga View Point 26,Nature,26.54712,93.44444,"heritage, scenic, photography",100,Morning
+12,Kaziranga View Point 27,Nature,26.639688,93.526004,scenic,50,Anytime
+12,Kaziranga View Point 28,Nature,26.698822,93.466312,adventure,50,Evening
+12,Kaziranga View Point 29,Nature,26.722492,93.403627,"cultural, photography, heritage",0,Evening
+12,Kaziranga View Point 30,Nature,26.648553,93.465597,cultural,0,Evening
+12,Kaziranga View Point 31,Nature,26.75248,93.342514,scenic,0,Morning
+12,Kaziranga View Point 32,Nature,26.642771,93.312004,"heritage, photography",50,Evening
+12,Kaziranga View Point 33,Nature,26.743404,93.387908,"cultural, adventure, scenic",50,Morning
+12,Kaziranga View Point 34,Nature,26.701013,93.34016,"nature, adventure",50,Anytime
+12,Kaziranga View Point 35,Nature,26.794624,93.249887,"nature, photography, cultural",0,Evening
+12,Kaziranga View Point 36,Nature,26.740571,93.447554,"cultural, scenic, nature",100,Morning
+12,Kaziranga View Point 37,Nature,26.652606,93.253012,"heritage, cultural",50,Anytime
+12,Kaziranga View Point 38,Nature,26.708601,93.464719,"adventure, nature",0,Evening
+12,Kaziranga View Point 39,Nature,26.819758,93.421569,"scenic, photography, adventure",0,Anytime
+12,Kaziranga View Point 40,Nature,26.628902,93.424464,"nature, adventure, heritage",0,Anytime
+12,Kaziranga View Point 41,Nature,26.718042,93.394748,"cultural, photography, scenic",100,Anytime
+12,Kaziranga View Point 42,Nature,26.607229,93.416877,"scenic, adventure",0,Anytime
+12,Kaziranga View Point 43,Nature,26.715592,93.563213,"cultural, nature, adventure",100,Anytime
+12,Kaziranga View Point 44,Nature,26.685,93.50463,nature,0,Morning
+12,Kaziranga View Point 45,Nature,26.789304,93.372995,nature,0,Morning
+12,Kaziranga View Point 46,Nature,26.776976,93.306329,"adventure, heritage, scenic",100,Anytime
+12,Kaziranga View Point 47,Nature,26.662626,93.326138,"cultural, heritage",100,Anytime
+12,Kaziranga View Point 48,Nature,26.665397,93.208657,"scenic, adventure, heritage",50,Anytime
+12,Kaziranga View Point 49,Nature,26.82195,93.344639,scenic,0,Anytime
+12,Kaziranga View Point 50,Nature,26.740956,93.388626,scenic,0,Evening
+12,Kaziranga View Point 51,Nature,26.65627,93.266828,"heritage, scenic, photography",50,Anytime
+12,Kaziranga View Point 52,Nature,26.604876,93.350146,"scenic, heritage",100,Anytime
+12,Kaziranga View Point 53,Nature,26.640029,93.291097,"adventure, scenic, photography",100,Anytime
+12,Kaziranga View Point 54,Nature,26.623033,93.405893,"scenic, adventure, photography",50,Evening
+12,Kaziranga View Point 55,Nature,26.748151,93.275682,scenic,100,Morning
+12,Kaziranga View Point 56,Nature,26.607593,93.386202,photography,0,Evening
+12,Kaziranga View Point 57,Nature,26.664923,93.3397,"adventure, scenic, photography",50,Anytime
+12,Kaziranga View Point 58,Nature,26.751792,93.383785,"scenic, cultural, nature",100,Evening
+12,Kaziranga View Point 59,Nature,26.548148,93.305041,"photography, heritage",50,Morning
+12,Kaziranga View Point 60,Nature,26.545113,93.354665,"heritage, adventure, photography",50,Morning
+12,Kaziranga View Point 61,Nature,26.571751,93.228111,"photography, scenic, heritage",100,Anytime
+12,Kaziranga View Point 62,Nature,26.51358,93.527752,scenic,100,Morning
+12,Kaziranga View Point 63,Nature,26.568771,93.343747,"nature, photography, heritage",0,Evening
+12,Kaziranga View Point 64,Nature,26.682758,93.378524,"heritage, cultural, nature",50,Evening
+12,Kaziranga View Point 65,Nature,26.727671,93.364919,"cultural, scenic, nature",50,Morning
+12,Kaziranga View Point 66,Nature,26.641712,93.386579,"heritage, photography, nature",100,Anytime
+12,Kaziranga View Point 67,Nature,26.694754,93.373057,adventure,0,Morning
+12,Kaziranga View Point 68,Nature,26.729271,93.318941,adventure,0,Evening
+12,Kaziranga View Point 69,Nature,26.661936,93.262934,photography,50,Anytime
+12,Kaziranga View Point 70,Nature,26.658405,93.317948,photography,100,Morning
+12,Kaziranga View Point 71,Nature,26.762429,93.252003,heritage,50,Evening
+12,Kaziranga View Point 72,Nature,26.639982,93.327066,"photography, nature, adventure",50,Morning
+12,Kaziranga View Point 73,Nature,26.731665,93.26689,cultural,100,Morning
+12,Kaziranga View Point 74,Nature,26.678298,93.375292,"heritage, cultural",50,Anytime
+12,Kaziranga View Point 75,Nature,26.751894,93.300608,"photography, cultural, nature",0,Anytime
+12,Kaziranga View Point 76,Nature,26.573408,93.407004,"adventure, nature",0,Evening
+12,Kaziranga View Point 77,Nature,26.566415,93.327181,"adventure, nature",0,Evening
+12,Kaziranga View Point 78,Nature,26.65891,93.41826,nature,50,Anytime
+12,Kaziranga View Point 79,Nature,26.554659,93.345311,"adventure, nature",100,Morning
+12,Kaziranga View Point 80,Nature,26.680083,93.300117,"heritage, adventure, scenic",100,Evening
+12,Kaziranga View Point 81,Nature,26.649391,93.440124,"cultural, nature",50,Evening
+12,Kaziranga View Point 82,Nature,26.637434,93.339884,"nature, scenic, adventure",100,Morning
+12,Kaziranga View Point 83,Nature,26.748849,93.351551,"adventure, nature, cultural",0,Anytime
+12,Kaziranga View Point 84,Nature,26.785067,93.237929,"scenic, adventure",100,Evening
+12,Kaziranga View Point 85,Nature,26.656129,93.431103,"photography, nature, adventure",0,Morning
+13,Pangong Lake,Adventure,34.116633,77.565381,"beach, scenic, trekking, mountain",0,Morning
+13,Nubra Valley,Adventure,34.215765,77.538366,"beach, cultural, fort, waterfall",500,Evening
+13,Khardung La Pass,Adventure,34.17673,77.614433,"photography, trekking",150,Morning
+13,Magnetic Hill,Adventure,34.156432,77.579101,"family, wildlife, waterfall, scenic",0,Morning
+13,Shanti Stupa,Adventure,34.101354,77.613652,"family, photography, lake, wildlife",500,Evening
+13,Leh Palace,Adventure,34.089883,77.596662,"fort, lake",100,Evening
+13,Hemis Monastery,Adventure,34.12668,77.557363,"wildlife, scenic, beach, nature",0,Evening
+13,Thiksey Monastery,Adventure,34.142537,77.602075,"heritage, trekking, temple",500,Morning
+13,Diskit Monastery,Adventure,34.230697,77.582667,"temple, beach, cultural, mountain",100,Evening
+13,Alchi Monastery,Adventure,34.116599,77.505122,"wildlife, waterfall, photography, heritage",0,Morning
+13,Zanskar Valley,Adventure,34.210597,77.585869,"heritage, waterfall",150,Morning
+13,Sham Valley,Adventure,34.141019,77.580026,"scenic, nature, cultural",150,Evening
+13,Tso Moriri,Adventure,34.190933,77.556596,"beach, mountain, photography, temple",200,Evening
+13,Changthang Plateau,Adventure,34.119299,77.511603,"lake, historical, family",200,Morning
+13,Wari La Pass,Adventure,34.098639,77.559862,"photography, nature",500,Evening
+13,Leh View Point 1,Adventure,34.238574,77.536421,"adventure, heritage",50,Evening
+13,Leh View Point 2,Adventure,34.173447,77.667062,"adventure, cultural",50,Morning
+13,Leh View Point 3,Adventure,34.183141,77.734996,heritage,100,Anytime
+13,Leh View Point 4,Adventure,34.15802,77.564542,"photography, scenic, heritage",100,Anytime
+13,Leh View Point 5,Adventure,34.122065,77.736486,photography,100,Morning
+13,Leh View Point 6,Adventure,34.250156,77.46035,"nature, photography",50,Morning
+13,Leh View Point 7,Adventure,34.321407,77.616938,"photography, heritage",100,Morning
+13,Leh View Point 8,Adventure,34.162924,77.618562,"heritage, nature",100,Evening
+13,Leh View Point 9,Adventure,34.075897,77.592852,"heritage, nature, cultural",0,Evening
+13,Leh View Point 10,Adventure,34.127904,77.548273,scenic,100,Evening
+13,Leh View Point 11,Adventure,34.229309,77.555943,"photography, cultural",50,Evening
+13,Leh View Point 12,Adventure,34.160571,77.603319,"photography, adventure",0,Evening
+13,Leh View Point 13,Adventure,34.228089,77.678542,"photography, cultural",50,Anytime
+13,Leh View Point 14,Adventure,34.153786,77.546838,"scenic, nature, adventure",50,Morning
+13,Leh View Point 15,Adventure,34.304904,77.370674,"adventure, scenic, photography",100,Evening
+13,Leh View Point 16,Adventure,34.221991,77.565576,heritage,0,Morning
+13,Leh View Point 17,Adventure,34.19824,77.580367,"adventure, heritage, scenic",0,Morning
+13,Leh View Point 18,Adventure,34.255119,77.61063,photography,50,Anytime
+13,Leh View Point 19,Adventure,34.038924,77.459823,"heritage, photography",0,Anytime
+13,Leh View Point 20,Adventure,34.135396,77.625711,scenic,100,Morning
+13,Leh View Point 21,Adventure,34.257177,77.523547,"scenic, nature, photography",50,Morning
+13,Leh View Point 22,Adventure,33.975689,77.611586,"adventure, nature",0,Anytime
+13,Leh View Point 23,Adventure,34.155989,77.588558,cultural,50,Anytime
+13,Leh View Point 24,Adventure,34.064503,77.672523,"adventure, heritage, scenic",0,Anytime
+13,Leh View Point 25,Adventure,34.087295,77.601744,"heritage, adventure",0,Anytime
+13,Leh View Point 26,Adventure,34.174655,77.621091,"photography, heritage, adventure",0,Anytime
+13,Leh View Point 27,Adventure,34.093032,77.503231,"photography, scenic, cultural",100,Anytime
+13,Leh View Point 28,Adventure,34.220845,77.621311,"nature, photography",100,Morning
+13,Leh View Point 29,Adventure,34.179405,77.667161,"scenic, nature",100,Evening
+13,Leh View Point 30,Adventure,34.179936,77.547497,"cultural, adventure",0,Morning
+13,Leh View Point 31,Adventure,34.194039,77.613138,nature,0,Morning
+13,Leh View Point 32,Adventure,34.190644,77.506455,photography,50,Morning
+13,Leh View Point 33,Adventure,34.074275,77.647513,"photography, heritage",100,Evening
+13,Leh View Point 34,Adventure,34.140728,77.421644,"heritage, cultural",0,Anytime
+13,Leh View Point 35,Adventure,34.042891,77.471618,"nature, adventure, cultural",50,Anytime
+13,Leh View Point 36,Adventure,34.237986,77.57323,scenic,0,Evening
+13,Leh View Point 37,Adventure,34.155428,77.54884,"cultural, photography, heritage",50,Morning
+13,Leh View Point 38,Adventure,34.067898,77.637884,"photography, heritage, cultural",0,Morning
+13,Leh View Point 39,Adventure,34.204786,77.520739,photography,0,Evening
+13,Leh View Point 40,Adventure,34.264765,77.636694,"heritage, nature, adventure",0,Anytime
+13,Leh View Point 41,Adventure,34.084293,77.554115,"heritage, scenic, photography",0,Evening
+13,Leh View Point 42,Adventure,34.123163,77.602091,"photography, cultural, nature",50,Anytime
+13,Leh View Point 43,Adventure,34.038309,77.520696,heritage,50,Morning
+13,Leh View Point 44,Adventure,34.216152,77.450151,"nature, adventure",50,Anytime
+13,Leh View Point 45,Adventure,34.13678,77.478999,adventure,100,Evening
+13,Leh View Point 46,Adventure,34.225656,77.604565,scenic,0,Morning
+13,Leh View Point 47,Adventure,34.035184,77.493706,"scenic, heritage, cultural",50,Anytime
+13,Leh View Point 48,Adventure,34.153713,77.392539,"nature, heritage, scenic",0,Evening
+13,Leh View Point 49,Adventure,34.064589,77.511182,"nature, scenic",100,Evening
+13,Leh View Point 50,Adventure,34.255387,77.530967,"scenic, heritage, adventure",100,Morning
+13,Leh View Point 51,Adventure,34.20535,77.539265,cultural,100,Evening
+13,Leh View Point 52,Adventure,34.212163,77.452923,cultural,100,Anytime
+13,Leh View Point 53,Adventure,34.094738,77.568355,scenic,50,Anytime
+13,Leh View Point 54,Adventure,34.166827,77.603003,nature,50,Evening
+13,Leh View Point 55,Adventure,34.168016,77.617576,"nature, heritage, scenic",100,Anytime
+13,Leh View Point 56,Adventure,34.151672,77.591024,photography,100,Morning
+13,Leh View Point 57,Adventure,34.071544,77.447655,scenic,50,Morning
+13,Leh View Point 58,Adventure,34.063171,77.442139,"cultural, photography",100,Morning
+13,Leh View Point 59,Adventure,34.170555,77.652227,"cultural, adventure, photography",0,Anytime
+13,Leh View Point 60,Adventure,34.076771,77.65778,"nature, adventure",100,Morning
+13,Leh View Point 61,Adventure,34.188743,77.5328,cultural,50,Evening
+13,Leh View Point 62,Adventure,34.124649,77.666338,"heritage, adventure",100,Anytime
+13,Leh View Point 63,Adventure,33.966701,77.666014,"scenic, photography, adventure",50,Anytime
+13,Leh View Point 64,Adventure,34.224282,77.529962,heritage,50,Morning
+13,Leh View Point 65,Adventure,34.145172,77.707243,"nature, cultural, adventure",50,Evening
+13,Leh View Point 66,Adventure,34.047809,77.562537,"scenic, photography",50,Anytime
+13,Leh View Point 67,Adventure,34.204379,77.593877,"photography, scenic, adventure",50,Evening
+13,Leh View Point 68,Adventure,34.156764,77.722441,"heritage, nature, adventure",50,Morning
+13,Leh View Point 69,Adventure,34.063945,77.492031,"heritage, nature",0,Morning
+13,Leh View Point 70,Adventure,33.951557,77.490807,nature,100,Morning
+13,Leh View Point 71,Adventure,34.099394,77.602689,scenic,100,Morning
+13,Leh View Point 72,Adventure,34.22938,77.499986,scenic,50,Evening
+13,Leh View Point 73,Adventure,34.141186,77.688774,heritage,0,Evening
+13,Leh View Point 74,Adventure,34.1376,77.618596,heritage,50,Anytime
+13,Leh View Point 75,Adventure,34.24227,77.502709,scenic,100,Anytime
+13,Leh View Point 76,Adventure,34.061933,77.706783,scenic,100,Anytime
+13,Leh View Point 77,Adventure,34.198937,77.470942,cultural,50,Anytime
+13,Leh View Point 78,Adventure,34.068067,77.56107,"scenic, photography",100,Anytime
+13,Leh View Point 79,Adventure,34.264092,77.655639,"scenic, cultural",0,Morning
+13,Leh View Point 80,Adventure,34.237965,77.542186,"scenic, photography",100,Morning
+13,Leh View Point 81,Adventure,34.151987,77.513232,heritage,50,Morning
+13,Leh View Point 82,Adventure,34.119347,77.487275,"photography, heritage, scenic",100,Anytime
+13,Leh View Point 83,Adventure,34.082848,77.519008,"adventure, heritage",50,Anytime
+13,Leh View Point 84,Adventure,34.140992,77.610756,"photography, heritage, adventure",100,Evening
+13,Leh View Point 85,Adventure,34.285903,77.54786,"adventure, scenic, cultural",0,Anytime
+14,Lakshman Jhula,Adventure,30.116297,78.258639,"nature, waterfall, lake, trekking",0,Morning
+14,Ram Jhula,Adventure,30.135044,78.204835,"wildlife, heritage, waterfall, trekking",50,Evening
+14,Triveni Ghat,Adventure,30.060121,78.300742,"historical, wildlife, scenic, adventure",300,Evening
+14,Parmarth Niketan,Adventure,30.115979,78.297597,"photography, cultural, historical",200,Morning
+14,Beatles Ashram,Adventure,30.157362,78.180914,"historical, beach, fort, temple",500,Evening
+14,Neelkanth Mahadev Temple,Adventure,30.024178,78.295663,"historical, beach, temple",300,Morning
+14,Rajaji National Park,Adventure,30.127571,78.300355,"family, nature, mountain, cultural",150,Evening
+14,Neer Garh Waterfall,Adventure,30.222335,78.221806,"waterfall, beach, cultural",50,Morning
+14,Kunjapuri Devi Temple,Adventure,30.10536,78.264056,"heritage, nature, trekking, cultural",200,Evening
+14,Swarg Ashram,Adventure,30.117969,78.286391,"heritage, lake",300,Evening
+14,Haridwar Har Ki Pauri,Adventure,30.06102,78.28699,"wildlife, family, fort",0,Morning
+14,Chilla Wildlife Sanctuary,Adventure,30.091073,78.27401,"scenic, temple, family",150,Evening
+14,Phool Chatti,Adventure,30.143589,78.391634,"adventure, scenic, temple, trekking",50,Evening
+14,Vashishtha Cave,Adventure,29.99121,78.332042,"adventure, scenic",150,Morning
+14,Jhari Falls,Adventure,30.119024,78.230516,"wildlife, lake, scenic, historical",200,Evening
+14,Rishikesh View Point 1,Adventure,30.057894,78.338165,adventure,50,Evening
+14,Rishikesh View Point 2,Adventure,30.090943,78.26368,"photography, adventure",100,Morning
+14,Rishikesh View Point 3,Adventure,30.031968,78.206872,"scenic, photography, cultural",100,Evening
+14,Rishikesh View Point 4,Adventure,30.009644,78.226807,heritage,100,Anytime
+14,Rishikesh View Point 5,Adventure,30.076619,78.295957,nature,100,Anytime
+14,Rishikesh View Point 6,Adventure,30.021057,78.328041,cultural,50,Morning
+14,Rishikesh View Point 7,Adventure,30.014267,78.329112,nature,0,Morning
+14,Rishikesh View Point 8,Adventure,30.017619,78.428967,scenic,0,Morning
+14,Rishikesh View Point 9,Adventure,30.138766,78.334882,"photography, heritage, scenic",100,Morning
+14,Rishikesh View Point 10,Adventure,30.07314,78.316169,photography,50,Morning
+14,Rishikesh View Point 11,Adventure,29.986727,78.189516,"heritage, scenic",50,Evening
+14,Rishikesh View Point 12,Adventure,30.062312,78.389032,nature,100,Evening
+14,Rishikesh View Point 13,Adventure,30.167426,78.088677,"adventure, heritage",0,Anytime
+14,Rishikesh View Point 14,Adventure,30.008015,78.260657,"scenic, photography",50,Morning
+14,Rishikesh View Point 15,Adventure,30.187406,78.287135,scenic,0,Evening
+14,Rishikesh View Point 16,Adventure,29.88391,78.173788,scenic,0,Evening
+14,Rishikesh View Point 17,Adventure,30.144506,78.283928,heritage,0,Morning
+14,Rishikesh View Point 18,Adventure,30.097694,78.356558,"photography, cultural, heritage",100,Evening
+14,Rishikesh View Point 19,Adventure,30.059206,78.323504,"nature, adventure",0,Evening
+14,Rishikesh View Point 20,Adventure,30.218248,78.285555,"scenic, cultural",50,Anytime
+14,Rishikesh View Point 21,Adventure,30.01535,78.233479,photography,50,Morning
+14,Rishikesh View Point 22,Adventure,30.014641,78.088319,scenic,0,Morning
+14,Rishikesh View Point 23,Adventure,30.023656,78.31844,"photography, cultural, scenic",50,Evening
+14,Rishikesh View Point 24,Adventure,30.087652,78.37631,nature,50,Evening
+14,Rishikesh View Point 25,Adventure,30.098414,78.338289,cultural,100,Morning
+14,Rishikesh View Point 26,Adventure,29.946126,78.23251,photography,100,Anytime
+14,Rishikesh View Point 27,Adventure,30.065384,78.201564,"photography, nature",0,Evening
+14,Rishikesh View Point 28,Adventure,30.20896,78.113205,photography,0,Anytime
+14,Rishikesh View Point 29,Adventure,30.07779,78.358201,photography,50,Anytime
+14,Rishikesh View Point 30,Adventure,30.147969,78.237215,nature,100,Anytime
+14,Rishikesh View Point 31,Adventure,30.014898,78.35488,"cultural, adventure, scenic",50,Anytime
+14,Rishikesh View Point 32,Adventure,30.045212,78.201159,"adventure, cultural",50,Morning
+14,Rishikesh View Point 33,Adventure,30.166906,78.29219,"cultural, nature",50,Morning
+14,Rishikesh View Point 34,Adventure,30.058738,78.293617,nature,50,Morning
+14,Rishikesh View Point 35,Adventure,30.122511,78.2633,"cultural, scenic",100,Morning
+14,Rishikesh View Point 36,Adventure,30.099198,78.094586,"heritage, photography",50,Morning
+14,Rishikesh View Point 37,Adventure,30.078452,78.216432,heritage,50,Evening
+14,Rishikesh View Point 38,Adventure,30.022953,78.212826,"photography, heritage, cultural",0,Morning
+14,Rishikesh View Point 39,Adventure,30.047169,78.243829,"heritage, scenic",100,Morning
+14,Rishikesh View Point 40,Adventure,30.100185,78.208918,"scenic, adventure",100,Evening
+14,Rishikesh View Point 41,Adventure,30.128347,78.326469,"nature, heritage",100,Anytime
+14,Rishikesh View Point 42,Adventure,30.144949,78.342411,scenic,0,Anytime
+14,Rishikesh View Point 43,Adventure,30.041431,78.245944,"heritage, adventure, scenic",100,Anytime
+14,Rishikesh View Point 44,Adventure,30.106628,78.233604,heritage,100,Anytime
+14,Rishikesh View Point 45,Adventure,29.99422,78.227411,"cultural, adventure",0,Evening
+14,Rishikesh View Point 46,Adventure,30.217675,78.208147,cultural,0,Evening
+14,Rishikesh View Point 47,Adventure,30.0234,78.223846,"photography, heritage, adventure",50,Anytime
+14,Rishikesh View Point 48,Adventure,30.131453,78.295441,heritage,100,Morning
+14,Rishikesh View Point 49,Adventure,30.143399,78.470203,heritage,100,Anytime
+14,Rishikesh View Point 50,Adventure,30.152584,78.33956,"heritage, scenic",0,Anytime
+14,Rishikesh View Point 51,Adventure,30.315672,78.306765,"scenic, photography, heritage",0,Anytime
+14,Rishikesh View Point 52,Adventure,30.055549,78.243371,"nature, adventure, heritage",50,Anytime
+14,Rishikesh View Point 53,Adventure,30.171444,78.167457,"nature, heritage",100,Morning
+14,Rishikesh View Point 54,Adventure,29.931173,78.201915,cultural,100,Morning
+14,Rishikesh View Point 55,Adventure,30.152489,78.315018,"heritage, nature",100,Morning
+14,Rishikesh View Point 56,Adventure,30.074101,78.353135,"heritage, adventure, scenic",100,Evening
+14,Rishikesh View Point 57,Adventure,30.135564,78.295118,"heritage, cultural, scenic",50,Morning
+14,Rishikesh View Point 58,Adventure,30.085518,78.339308,"photography, heritage, scenic",50,Evening
+14,Rishikesh View Point 59,Adventure,30.147325,78.245756,"photography, cultural, adventure",0,Evening
+14,Rishikesh View Point 60,Adventure,30.151973,78.215302,heritage,0,Evening
+14,Rishikesh View Point 61,Adventure,30.10569,78.299632,photography,50,Evening
+14,Rishikesh View Point 62,Adventure,30.060098,78.278328,"nature, adventure, cultural",0,Anytime
+14,Rishikesh View Point 63,Adventure,30.135543,78.181005,"nature, cultural",100,Morning
+14,Rishikesh View Point 64,Adventure,30.10162,78.44478,"adventure, cultural, heritage",100,Morning
+14,Rishikesh View Point 65,Adventure,30.020793,78.349998,"photography, cultural",50,Morning
+14,Rishikesh View Point 66,Adventure,30.079248,78.362239,nature,100,Evening
+14,Rishikesh View Point 67,Adventure,30.029025,78.268085,"nature, heritage",100,Anytime
+14,Rishikesh View Point 68,Adventure,30.26377,78.253744,"scenic, cultural",100,Anytime
+14,Rishikesh View Point 69,Adventure,30.137574,78.315162,"nature, scenic, heritage",0,Evening
+14,Rishikesh View Point 70,Adventure,29.924617,78.303298,"photography, cultural, scenic",0,Morning
+14,Rishikesh View Point 71,Adventure,29.987898,78.318232,"scenic, adventure",50,Morning
+14,Rishikesh View Point 72,Adventure,30.096317,78.178389,"cultural, adventure",50,Evening
+14,Rishikesh View Point 73,Adventure,29.991664,78.261779,"nature, scenic",50,Morning
+14,Rishikesh View Point 74,Adventure,30.285382,78.397466,"adventure, cultural, nature",100,Morning
+14,Rishikesh View Point 75,Adventure,30.115663,78.308825,photography,50,Anytime
+14,Rishikesh View Point 76,Adventure,30.13503,78.224844,"heritage, nature",100,Morning
+14,Rishikesh View Point 77,Adventure,30.03149,78.335686,scenic,100,Morning
+14,Rishikesh View Point 78,Adventure,30.038764,78.382844,"scenic, cultural, heritage",0,Evening
+14,Rishikesh View Point 79,Adventure,29.978637,78.195473,"nature, adventure, scenic",100,Evening
+14,Rishikesh View Point 80,Adventure,30.200153,78.244652,heritage,50,Anytime
+14,Rishikesh View Point 81,Adventure,30.077092,78.319235,"nature, scenic",50,Evening
+14,Rishikesh View Point 82,Adventure,30.179602,78.316382,"cultural, scenic, adventure",0,Morning
+14,Rishikesh View Point 83,Adventure,30.109881,78.331654,"adventure, photography",0,Morning
+14,Rishikesh View Point 84,Adventure,30.119632,78.354409,"cultural, photography",0,Evening
+14,Rishikesh View Point 85,Adventure,30.315452,78.308027,photography,50,Anytime
+15,Rohtang Pass,Adventure,32.200208,77.241137,"historical, heritage, lake",500,Evening
+15,Solang Valley,Adventure,32.235888,77.206057,"adventure, photography, wildlife, temple",500,Evening
+15,Hadimba Temple,Adventure,32.261533,77.160119,"cultural, trekking",500,Evening
+15,Old Manali,Adventure,32.22466,77.073782,"cultural, photography",500,Morning
+15,Beas River Rafting,Adventure,32.238128,77.21724,"wildlife, beach",300,Morning
+15,Kullu Valley,Adventure,32.243932,77.166199,"beach, photography, nature, trekking",500,Evening
+15,Bijli Mahadev Temple,Adventure,32.262055,77.142075,"nature, cultural, wildlife",200,Evening
+15,Jana Waterfall,Adventure,32.190302,77.215492,"historical, wildlife, heritage",500,Morning
+15,Naggar Castle,Adventure,32.272245,77.214753,"scenic, lake, beach, wildlife",200,Morning
+15,Great Himalayan National Park,Adventure,32.228174,77.24388,"fort, mountain",0,Morning
+15,Manikaran Gurudwara,Adventure,32.187012,77.17435,"lake, wildlife",0,Morning
+15,Malana Village,Adventure,32.28059,77.23218,"nature, heritage, cultural",50,Morning
+15,Chandrakhani Pass,Adventure,32.204581,77.29633,"wildlife, mountain",0,Evening
+15,Hampta Pass,Adventure,32.236674,77.193591,"photography, scenic, heritage, waterfall",500,Morning
+15,Bhrigu Lake,Adventure,32.292106,77.266797,"nature, family",150,Evening
+15,Manali View Point 1,Adventure,32.248123,77.283061,"scenic, cultural, heritage",0,Anytime
+15,Manali View Point 2,Adventure,32.206707,77.322675,adventure,50,Anytime
+15,Manali View Point 3,Adventure,32.246288,77.214355,"nature, heritage, scenic",0,Evening
+15,Manali View Point 4,Adventure,32.215458,77.206479,"nature, scenic, photography",0,Anytime
+15,Manali View Point 5,Adventure,32.184772,77.184204,"scenic, heritage",0,Anytime
+15,Manali View Point 6,Adventure,32.24457,77.104726,nature,50,Evening
+15,Manali View Point 7,Adventure,32.197506,77.021223,"adventure, scenic",100,Anytime
+15,Manali View Point 8,Adventure,32.143947,77.188075,"scenic, heritage, photography",0,Morning
+15,Manali View Point 9,Adventure,32.319959,77.16064,"scenic, heritage, cultural",100,Anytime
+15,Manali View Point 10,Adventure,32.240755,77.282135,"nature, adventure",50,Anytime
+15,Manali View Point 11,Adventure,32.309858,77.2547,"scenic, adventure, photography",50,Morning
+15,Manali View Point 12,Adventure,32.252737,77.14999,"heritage, photography",50,Evening
+15,Manali View Point 13,Adventure,32.274861,77.291802,"heritage, photography",0,Evening
+15,Manali View Point 14,Adventure,32.387796,77.381679,"adventure, nature",50,Anytime
+15,Manali View Point 15,Adventure,32.365576,77.192695,"scenic, nature",100,Evening
+15,Manali View Point 16,Adventure,32.147006,77.237359,"heritage, cultural",50,Morning
+15,Manali View Point 17,Adventure,32.330927,76.984934,"cultural, scenic, adventure",0,Evening
+15,Manali View Point 18,Adventure,32.124872,77.152654,"cultural, scenic",100,Morning
+15,Manali View Point 19,Adventure,32.181688,77.060475,"heritage, nature, cultural",50,Morning
+15,Manali View Point 20,Adventure,32.273604,77.288495,scenic,100,Anytime
+15,Manali View Point 21,Adventure,32.228127,77.056393,"cultural, scenic, photography",0,Evening
+15,Manali View Point 22,Adventure,32.259703,77.100403,"cultural, nature",50,Morning
+15,Manali View Point 23,Adventure,32.16251,77.265979,adventure,50,Anytime
+15,Manali View Point 24,Adventure,32.339217,77.166057,"nature, heritage",50,Anytime
+15,Manali View Point 25,Adventure,32.301689,77.103259,"nature, cultural, adventure",0,Evening
+15,Manali View Point 26,Adventure,32.285527,77.15849,"scenic, adventure, heritage",0,Anytime
+15,Manali View Point 27,Adventure,32.137154,77.116629,"scenic, nature, heritage",100,Evening
+15,Manali View Point 28,Adventure,32.276005,77.070752,"scenic, photography",100,Morning
+15,Manali View Point 29,Adventure,32.220666,77.274672,"adventure, nature",0,Anytime
+15,Manali View Point 30,Adventure,32.203774,77.065899,"adventure, heritage",0,Anytime
+15,Manali View Point 31,Adventure,32.22104,77.243412,"scenic, photography, heritage",50,Morning
+15,Manali View Point 32,Adventure,32.139386,77.284165,"scenic, cultural, adventure",100,Evening
+15,Manali View Point 33,Adventure,32.304267,77.217209,cultural,50,Evening
+15,Manali View Point 34,Adventure,32.289387,77.199374,heritage,0,Evening
+15,Manali View Point 35,Adventure,32.269942,77.194917,"adventure, photography, cultural",0,Morning
+15,Manali View Point 36,Adventure,32.313834,77.29263,"scenic, nature",0,Evening
+15,Manali View Point 37,Adventure,32.177534,77.133053,"nature, adventure",100,Morning
+15,Manali View Point 38,Adventure,32.211898,77.140498,"adventure, cultural, nature",100,Anytime
+15,Manali View Point 39,Adventure,32.333905,77.069231,photography,50,Morning
+15,Manali View Point 40,Adventure,32.286616,77.300136,scenic,50,Morning
+15,Manali View Point 41,Adventure,32.196901,77.306965,"cultural, photography, adventure",100,Anytime
+15,Manali View Point 42,Adventure,32.335787,77.161261,"scenic, cultural, photography",0,Evening
+15,Manali View Point 43,Adventure,32.308703,77.123071,"photography, adventure, nature",100,Evening
+15,Manali View Point 44,Adventure,32.155061,77.152097,heritage,50,Morning
+15,Manali View Point 45,Adventure,32.351225,77.152536,cultural,100,Anytime
+15,Manali View Point 46,Adventure,32.246534,77.10885,"photography, adventure",100,Evening
+15,Manali View Point 47,Adventure,32.312532,77.255717,"photography, heritage",100,Evening
+15,Manali View Point 48,Adventure,32.186856,77.003836,"nature, heritage, adventure",100,Morning
+15,Manali View Point 49,Adventure,32.214262,77.224603,"adventure, photography",0,Morning
+15,Manali View Point 50,Adventure,32.242144,77.195638,"photography, heritage",100,Evening
+15,Manali View Point 51,Adventure,32.271162,77.148324,"nature, heritage, scenic",0,Anytime
+15,Manali View Point 52,Adventure,32.142774,77.24832,photography,50,Evening
+15,Manali View Point 53,Adventure,32.172408,77.093071,scenic,50,Anytime
+15,Manali View Point 54,Adventure,32.283205,77.100735,"adventure, nature, scenic",100,Anytime
+15,Manali View Point 55,Adventure,32.177745,77.315646,"heritage, cultural",0,Anytime
+15,Manali View Point 56,Adventure,32.370285,77.284501,"scenic, cultural",100,Morning
+15,Manali View Point 57,Adventure,32.303949,77.281712,"heritage, nature",50,Morning
+15,Manali View Point 58,Adventure,32.400208,77.276731,"heritage, scenic",100,Morning
+15,Manali View Point 59,Adventure,32.263302,77.259036,photography,50,Morning
+15,Manali View Point 60,Adventure,32.206005,77.200906,"adventure, cultural, nature",50,Anytime
+15,Manali View Point 61,Adventure,32.258464,77.178153,cultural,100,Anytime
+15,Manali View Point 62,Adventure,32.218013,77.292229,scenic,0,Morning
+15,Manali View Point 63,Adventure,32.166962,77.201022,"scenic, heritage",50,Evening
+15,Manali View Point 64,Adventure,32.140054,77.028583,"heritage, adventure",0,Evening
+15,Manali View Point 65,Adventure,32.338815,77.29207,"nature, cultural, adventure",100,Anytime
+15,Manali View Point 66,Adventure,32.204367,77.193251,"nature, heritage, adventure",0,Anytime
+15,Manali View Point 67,Adventure,32.220057,77.16614,scenic,100,Anytime
+15,Manali View Point 68,Adventure,32.204158,77.226006,"adventure, scenic",0,Anytime
+15,Manali View Point 69,Adventure,32.212707,77.222401,photography,100,Anytime
+15,Manali View Point 70,Adventure,32.376617,77.220365,"photography, scenic, nature",50,Anytime
+15,Manali View Point 71,Adventure,32.253184,77.143481,"photography, scenic, heritage",100,Anytime
+15,Manali View Point 72,Adventure,32.242049,77.055564,"photography, scenic, nature",50,Morning
+15,Manali View Point 73,Adventure,32.366374,77.112556,"adventure, scenic, cultural",50,Anytime
+15,Manali View Point 74,Adventure,32.089712,77.180836,scenic,0,Evening
+15,Manali View Point 75,Adventure,32.271538,77.29516,"nature, cultural",50,Anytime
+15,Manali View Point 76,Adventure,32.262783,77.263239,"adventure, scenic",50,Evening
+15,Manali View Point 77,Adventure,32.317587,77.255758,heritage,0,Evening
+15,Manali View Point 78,Adventure,32.152509,77.230075,heritage,0,Morning
+15,Manali View Point 79,Adventure,32.132397,77.348752,"photography, scenic, cultural",0,Morning
+15,Manali View Point 80,Adventure,32.299012,77.139216,"heritage, nature",0,Evening
+15,Manali View Point 81,Adventure,32.273268,77.108355,scenic,0,Morning
+15,Manali View Point 82,Adventure,32.118825,77.259342,heritage,50,Morning
+15,Manali View Point 83,Adventure,32.164732,77.174719,"adventure, cultural, scenic",100,Evening
+15,Manali View Point 84,Adventure,32.259644,77.174606,"heritage, adventure",50,Anytime
+15,Manali View Point 85,Adventure,32.160957,77.194056,photography,100,Anytime
+16,Key Monastery,Adventure,32.253501,78.077065,"photography, cultural",100,Morning
+16,Tabo Monastery,Adventure,32.368344,77.934684,"mountain, trekking",150,Morning
+16,Pin Valley National Park,Adventure,32.206174,78.044647,"beach, nature",150,Morning
+16,Chandratal Lake,Adventure,32.296638,78.050817,"waterfall, family, mountain",300,Evening
+16,Dhankar Monastery,Adventure,32.30225,77.959509,"wildlife, cultural, temple",150,Evening
+16,Kunzum Pass,Adventure,32.230217,78.10658,"temple, scenic, mountain, family",500,Evening
+16,Kibber Village,Adventure,32.203088,77.888548,"scenic, mountain, family, temple",150,Evening
+16,Kaza Town,Adventure,32.205261,78.055366,"cultural, wildlife",150,Morning
+16,Hikkim Village,Adventure,32.24256,77.969256,"historical, family",0,Evening
+16,Langza Fossil Village,Adventure,32.210024,77.966971,"family, photography, trekking",100,Morning
+16,Komic Village,Adventure,32.185449,77.98955,"adventure, nature, temple",100,Evening
+16,Chicham Bridge,Adventure,32.251374,77.914099,"family, temple, wildlife, cultural",300,Morning
+16,Parachute Camping,Adventure,32.314387,78.028324,"lake, fort",0,Morning
+16,Kye Gompa,Adventure,32.190767,77.984823,"scenic, beach",500,Evening
+16,Rangrik,Adventure,32.214363,78.033812,"scenic, nature, waterfall, photography",200,Evening
+16,Spiti View Point 1,Adventure,32.258207,78.017993,adventure,50,Morning
+16,Spiti View Point 2,Adventure,32.185667,78.032623,"heritage, cultural, adventure",100,Evening
+16,Spiti View Point 3,Adventure,32.080181,77.936271,"photography, cultural",100,Anytime
+16,Spiti View Point 4,Adventure,32.192003,77.926122,"photography, scenic",50,Anytime
+16,Spiti View Point 5,Adventure,32.228603,77.926455,"heritage, cultural, photography",50,Evening
+16,Spiti View Point 6,Adventure,32.383143,77.916891,"adventure, nature, photography",100,Evening
+16,Spiti View Point 7,Adventure,32.366999,77.873082,"photography, nature",0,Morning
+16,Spiti View Point 8,Adventure,32.406509,78.08022,scenic,100,Evening
+16,Spiti View Point 9,Adventure,32.309427,77.924275,"photography, cultural",100,Evening
+16,Spiti View Point 10,Adventure,32.220286,78.012905,"adventure, nature, cultural",0,Evening
+16,Spiti View Point 11,Adventure,32.238039,78.135308,"adventure, scenic, cultural",100,Evening
+16,Spiti View Point 12,Adventure,32.301405,78.020242,"cultural, adventure, scenic",50,Anytime
+16,Spiti View Point 13,Adventure,32.326028,78.128151,"nature, scenic",0,Evening
+16,Spiti View Point 14,Adventure,32.200664,77.98572,"nature, heritage, photography",100,Morning
+16,Spiti View Point 15,Adventure,32.419036,78.014312,"heritage, nature, adventure",0,Morning
+16,Spiti View Point 16,Adventure,32.194662,78.021139,photography,50,Anytime
+16,Spiti View Point 17,Adventure,32.332057,78.09097,"adventure, scenic",0,Anytime
+16,Spiti View Point 18,Adventure,32.236053,78.082427,"photography, heritage, cultural",0,Evening
+16,Spiti View Point 19,Adventure,32.266123,78.022123,"photography, heritage, adventure",0,Anytime
+16,Spiti View Point 20,Adventure,32.222098,78.045343,"photography, adventure",100,Anytime
+16,Spiti View Point 21,Adventure,32.212808,78.039151,nature,50,Evening
+16,Spiti View Point 22,Adventure,32.242137,77.917451,"scenic, cultural, photography",0,Evening
+16,Spiti View Point 23,Adventure,32.203757,78.012828,cultural,100,Evening
+16,Spiti View Point 24,Adventure,32.394877,78.020698,adventure,50,Anytime
+16,Spiti View Point 25,Adventure,32.267959,78.205606,photography,50,Anytime
+16,Spiti View Point 26,Adventure,32.119762,77.910748,"adventure, photography",50,Morning
+16,Spiti View Point 27,Adventure,32.183834,78.006854,"heritage, adventure, scenic",50,Morning
+16,Spiti View Point 28,Adventure,32.227531,77.99263,"cultural, nature",50,Evening
+16,Spiti View Point 29,Adventure,32.147407,78.111419,"scenic, cultural, adventure",50,Evening
+16,Spiti View Point 30,Adventure,32.209778,78.128247,adventure,0,Morning
+16,Spiti View Point 31,Adventure,32.164737,78.190275,"photography, heritage",0,Morning
+16,Spiti View Point 32,Adventure,32.112838,78.032341,cultural,0,Anytime
+16,Spiti View Point 33,Adventure,32.16623,78.036345,"cultural, adventure, nature",100,Evening
+16,Spiti View Point 34,Adventure,32.167739,77.861872,"photography, adventure",50,Evening
+16,Spiti View Point 35,Adventure,32.183645,78.161189,"heritage, nature, cultural",0,Evening
+16,Spiti View Point 36,Adventure,32.166098,78.074176,scenic,0,Morning
+16,Spiti View Point 37,Adventure,32.246556,77.997126,"nature, heritage, cultural",0,Morning
+16,Spiti View Point 38,Adventure,32.409569,78.008338,photography,100,Anytime
+16,Spiti View Point 39,Adventure,32.259655,78.040353,"photography, cultural",50,Evening
+16,Spiti View Point 40,Adventure,32.3721,77.913613,adventure,50,Morning
+16,Spiti View Point 41,Adventure,32.425634,78.155056,"nature, photography, heritage",0,Evening
+16,Spiti View Point 42,Adventure,32.277913,78.082953,scenic,100,Evening
+16,Spiti View Point 43,Adventure,32.227855,78.045507,nature,0,Anytime
+16,Spiti View Point 44,Adventure,32.279699,77.960811,nature,100,Morning
+16,Spiti View Point 45,Adventure,32.367652,78.05143,"heritage, scenic, nature",100,Anytime
+16,Spiti View Point 46,Adventure,32.257429,77.964165,nature,100,Anytime
+16,Spiti View Point 47,Adventure,32.339679,78.029825,"adventure, nature, heritage",50,Anytime
+16,Spiti View Point 48,Adventure,32.204086,77.946618,photography,50,Morning
+16,Spiti View Point 49,Adventure,32.233178,77.939923,"heritage, cultural, scenic",0,Anytime
+16,Spiti View Point 50,Adventure,32.273767,78.09545,"nature, cultural",0,Evening
+16,Spiti View Point 51,Adventure,32.214658,78.052389,"adventure, nature",50,Evening
+16,Spiti View Point 52,Adventure,32.34371,78.019673,"nature, heritage",100,Morning
+16,Spiti View Point 53,Adventure,32.237667,78.033941,"nature, cultural, scenic",0,Evening
+16,Spiti View Point 54,Adventure,32.210853,78.005368,"photography, adventure, cultural",50,Evening
+16,Spiti View Point 55,Adventure,32.1846,78.067859,scenic,50,Morning
+16,Spiti View Point 56,Adventure,32.240375,78.081406,"adventure, cultural",100,Evening
+16,Spiti View Point 57,Adventure,32.327841,77.949447,heritage,50,Evening
+16,Spiti View Point 58,Adventure,32.179161,78.088851,cultural,0,Morning
+16,Spiti View Point 59,Adventure,32.22575,78.039957,"nature, scenic, photography",0,Evening
+16,Spiti View Point 60,Adventure,32.252786,77.957659,"scenic, heritage",100,Evening
+16,Spiti View Point 61,Adventure,32.286584,78.053414,cultural,0,Anytime
+16,Spiti View Point 62,Adventure,32.165422,78.020286,"photography, adventure, nature",100,Morning
+16,Spiti View Point 63,Adventure,32.237378,78.093305,"photography, nature",50,Anytime
+16,Spiti View Point 64,Adventure,32.33995,78.032831,"adventure, cultural",50,Evening
+16,Spiti View Point 65,Adventure,32.111644,78.091589,adventure,0,Evening
+16,Spiti View Point 66,Adventure,32.421946,78.090932,"nature, cultural, scenic",50,Morning
+16,Spiti View Point 67,Adventure,32.224275,78.065583,scenic,0,Evening
+16,Spiti View Point 68,Adventure,32.31012,78.04254,"adventure, cultural",100,Anytime
+16,Spiti View Point 69,Adventure,32.351295,77.942913,heritage,50,Evening
+16,Spiti View Point 70,Adventure,32.213778,78.07023,"cultural, heritage, scenic",100,Anytime
+16,Spiti View Point 71,Adventure,32.301966,77.989729,cultural,100,Morning
+16,Spiti View Point 72,Adventure,32.209884,77.980174,heritage,100,Anytime
+16,Spiti View Point 73,Adventure,32.186531,78.075021,"nature, adventure, photography",50,Morning
+16,Spiti View Point 74,Adventure,32.2431,78.137281,nature,50,Anytime
+16,Spiti View Point 75,Adventure,32.15861,78.020924,"scenic, photography, adventure",0,Morning
+16,Spiti View Point 76,Adventure,32.304967,78.061041,heritage,0,Anytime
+16,Spiti View Point 77,Adventure,32.158243,78.125671,cultural,100,Morning
+16,Spiti View Point 78,Adventure,32.25377,78.186864,"cultural, scenic",50,Morning
+16,Spiti View Point 79,Adventure,32.235532,78.126141,"nature, cultural, adventure",100,Evening
+16,Spiti View Point 80,Adventure,32.21743,78.014612,"adventure, nature",0,Evening
+16,Spiti View Point 81,Adventure,32.285622,77.897322,nature,0,Evening
+16,Spiti View Point 82,Adventure,32.084576,77.97934,heritage,0,Anytime
+16,Spiti View Point 83,Adventure,32.142135,77.853051,photography,100,Evening
+16,Spiti View Point 84,Adventure,32.305502,77.970212,"heritage, photography",50,Evening
+16,Spiti View Point 85,Adventure,32.218606,78.044635,"cultural, nature",50,Anytime
+17,Amber Fort,City,26.937626,75.801445,"waterfall, temple, adventure",100,Morning
+17,City Palace,City,26.922504,75.810773,"lake, waterfall",300,Evening
+17,Hawa Mahal,City,26.887414,75.751665,"cultural, waterfall",500,Morning
+17,Jantar Mantar,City,26.79655,75.819215,"historical, heritage",50,Morning
+17,Nahargarh Fort,City,26.878122,75.886475,"scenic, mountain, beach, photography",50,Evening
+17,Jaigarh Fort,City,26.949293,75.834804,"scenic, cultural, family, temple",200,Evening
+17,Birla Mandir,City,26.947687,75.813834,"mountain, fort, family",50,Morning
+17,Albert Hall Museum,City,26.936199,75.815754,"nature, historical, trekking, fort",100,Evening
+17,Jal Mahal,City,26.921148,75.756478,"waterfall, mountain, nature",100,Morning
+17,Chokhi Dhani,City,26.853466,75.808442,"photography, wildlife, nature",0,Evening
+17,Elefantastic,City,26.976976,75.78103,"trekking, lake, waterfall",150,Evening
+17,Sanganer Village,City,26.919971,75.721422,"trekking, family",50,Evening
+17,Gaitore Ki Chhatriyan,City,26.889701,75.725857,"adventure, scenic",0,Evening
+17,Panna Meena Ka Kund,City,26.85443,75.792237,"trekking, temple",500,Evening
+17,Sisodia Rani Garden,City,26.909521,75.826683,"trekking, adventure, heritage, temple",200,Evening
+17,Jaipur View Point 1,City,26.973696,75.717382,photography,50,Evening
+17,Jaipur View Point 2,City,26.757553,75.711423,"cultural, photography, heritage",50,Anytime
+17,Jaipur View Point 3,City,26.855553,75.831464,"cultural, photography",50,Morning
+17,Jaipur View Point 4,City,26.961393,75.783575,"adventure, scenic, cultural",0,Morning
+17,Jaipur View Point 5,City,26.971612,75.992282,photography,50,Anytime
+17,Jaipur View Point 6,City,26.902923,75.768649,"nature, photography",50,Anytime
+17,Jaipur View Point 7,City,26.845149,75.812804,"adventure, photography, cultural",0,Evening
+17,Jaipur View Point 8,City,27.003392,75.747408,adventure,100,Anytime
+17,Jaipur View Point 9,City,26.88111,75.745574,"adventure, nature",0,Evening
+17,Jaipur View Point 10,City,26.820336,75.798037,"photography, adventure, heritage",100,Evening
+17,Jaipur View Point 11,City,26.925996,75.783992,"scenic, cultural, photography",50,Anytime
+17,Jaipur View Point 12,City,27.059523,75.819313,adventure,100,Evening
+17,Jaipur View Point 13,City,26.823088,75.837885,"nature, cultural, adventure",50,Evening
+17,Jaipur View Point 14,City,26.885243,75.760989,"nature, heritage",50,Evening
+17,Jaipur View Point 15,City,26.898521,75.764476,"scenic, photography, heritage",0,Anytime
+17,Jaipur View Point 16,City,26.933995,75.956533,"cultural, scenic",50,Anytime
+17,Jaipur View Point 17,City,26.882932,75.794424,"heritage, nature, adventure",50,Evening
+17,Jaipur View Point 18,City,26.931145,75.746287,"adventure, photography",0,Evening
+17,Jaipur View Point 19,City,26.880285,75.86678,"nature, scenic, adventure",0,Evening
+17,Jaipur View Point 20,City,26.871577,75.716256,"adventure, cultural",50,Morning
+17,Jaipur View Point 21,City,27.055034,75.690881,"photography, cultural",0,Anytime
+17,Jaipur View Point 22,City,26.98307,75.771187,"adventure, photography, nature",100,Evening
+17,Jaipur View Point 23,City,26.81518,75.757158,"heritage, adventure, nature",50,Anytime
+17,Jaipur View Point 24,City,26.894349,75.65689,"heritage, cultural",0,Morning
+17,Jaipur View Point 25,City,26.946628,75.813472,"photography, scenic, nature",50,Morning
+17,Jaipur View Point 26,City,26.884533,75.825174,nature,0,Morning
+17,Jaipur View Point 27,City,26.928728,75.890794,nature,0,Anytime
+17,Jaipur View Point 28,City,26.826163,75.763892,"cultural, adventure, photography",0,Morning
+17,Jaipur View Point 29,City,26.992489,75.830606,photography,50,Anytime
+17,Jaipur View Point 30,City,26.728273,75.653762,photography,0,Evening
+17,Jaipur View Point 31,City,26.912461,75.918485,cultural,0,Morning
+17,Jaipur View Point 32,City,26.877861,75.839215,adventure,0,Evening
+17,Jaipur View Point 33,City,26.919008,75.833612,"adventure, cultural",50,Morning
+17,Jaipur View Point 34,City,26.998059,75.862836,"scenic, heritage",50,Evening
+17,Jaipur View Point 35,City,26.985122,75.738105,"scenic, nature",100,Morning
+17,Jaipur View Point 36,City,26.900302,75.828781,"cultural, scenic, adventure",0,Evening
+17,Jaipur View Point 37,City,26.950995,75.834877,adventure,0,Anytime
+17,Jaipur View Point 38,City,26.770901,75.883065,"scenic, nature",0,Morning
+17,Jaipur View Point 39,City,26.776135,75.727228,adventure,0,Morning
+17,Jaipur View Point 40,City,26.928025,75.784947,"heritage, photography, cultural",100,Anytime
+17,Jaipur View Point 41,City,27.025898,75.693637,"scenic, photography",0,Anytime
+17,Jaipur View Point 42,City,26.883273,75.629757,"photography, adventure",50,Anytime
+17,Jaipur View Point 43,City,26.922928,75.770653,"heritage, photography",100,Anytime
+17,Jaipur View Point 44,City,26.8132,75.892035,"scenic, heritage, cultural",100,Anytime
+17,Jaipur View Point 45,City,26.998799,75.793067,"nature, photography, cultural",0,Evening
+17,Jaipur View Point 46,City,27.003479,75.779905,nature,0,Evening
+17,Jaipur View Point 47,City,26.9695,75.856348,"heritage, cultural, adventure",100,Anytime
+17,Jaipur View Point 48,City,26.826912,75.821897,"adventure, cultural, scenic",100,Morning
+17,Jaipur View Point 49,City,26.925871,75.705372,"cultural, adventure, heritage",0,Evening
+17,Jaipur View Point 50,City,26.810203,75.827132,cultural,50,Evening
+17,Jaipur View Point 51,City,26.889847,75.670108,"heritage, scenic",100,Anytime
+17,Jaipur View Point 52,City,26.958758,75.862087,"adventure, heritage, cultural",50,Evening
+17,Jaipur View Point 53,City,26.818715,75.787176,"photography, cultural",50,Evening
+17,Jaipur View Point 54,City,27.033874,75.714388,"photography, nature, adventure",0,Evening
+17,Jaipur View Point 55,City,27.048974,75.761395,photography,100,Evening
+17,Jaipur View Point 56,City,26.906786,75.675727,scenic,100,Morning
+17,Jaipur View Point 57,City,26.803747,75.734823,cultural,0,Morning
+17,Jaipur View Point 58,City,26.983253,75.974547,heritage,100,Evening
+17,Jaipur View Point 59,City,27.120874,75.77744,"cultural, adventure, scenic",0,Anytime
+17,Jaipur View Point 60,City,26.883886,75.70856,scenic,50,Morning
+17,Jaipur View Point 61,City,27.001576,75.729216,adventure,0,Evening
+17,Jaipur View Point 62,City,26.893424,75.827057,"scenic, nature, heritage",0,Anytime
+17,Jaipur View Point 63,City,26.948507,75.738459,"heritage, nature",100,Anytime
+17,Jaipur View Point 64,City,26.904789,75.740593,"adventure, scenic, cultural",100,Evening
+17,Jaipur View Point 65,City,26.845802,75.705283,"nature, adventure, heritage",0,Evening
+17,Jaipur View Point 66,City,26.794674,75.816253,"scenic, nature",0,Anytime
+17,Jaipur View Point 67,City,26.893148,75.696458,nature,0,Morning
+17,Jaipur View Point 68,City,26.814169,75.687817,"scenic, heritage, adventure",0,Anytime
+17,Jaipur View Point 69,City,26.863428,75.877354,cultural,100,Morning
+17,Jaipur View Point 70,City,26.857897,75.831911,adventure,50,Evening
+17,Jaipur View Point 71,City,27.037244,75.800778,heritage,0,Evening
+17,Jaipur View Point 72,City,26.851212,75.780141,"cultural, photography, scenic",100,Anytime
+17,Jaipur View Point 73,City,26.908933,75.92551,adventure,100,Anytime
+17,Jaipur View Point 74,City,26.773809,75.876549,nature,50,Morning
+17,Jaipur View Point 75,City,26.772957,75.852233,"photography, nature",100,Morning
+17,Jaipur View Point 76,City,26.879655,75.933369,"adventure, nature, scenic",100,Evening
+17,Jaipur View Point 77,City,26.966296,75.833179,"scenic, cultural",0,Morning
+17,Jaipur View Point 78,City,26.837056,75.931723,"adventure, cultural, photography",50,Anytime
+17,Jaipur View Point 79,City,27.137605,75.948216,heritage,50,Evening
+17,Jaipur View Point 80,City,26.832152,75.77211,"nature, adventure, photography",50,Anytime
+17,Jaipur View Point 81,City,26.817316,75.738538,scenic,0,Anytime
+17,Jaipur View Point 82,City,26.935082,75.845671,scenic,100,Evening
+17,Jaipur View Point 83,City,26.955046,75.649637,heritage,100,Morning
+17,Jaipur View Point 84,City,26.909492,75.828706,"heritage, scenic",50,Evening
+17,Jaipur View Point 85,City,26.988293,75.821553,adventure,100,Evening
+18,Dashashwamedh Ghat,City,25.342033,82.961993,"temple, fort",200,Evening
+18,Assi Ghat,City,25.331193,83.10313,"fort, photography, heritage, beach",150,Evening
+18,Manikarnika Ghat,City,25.377946,82.992137,"scenic, nature",0,Evening
+18,Kashi Vishwanath Temple,City,25.354036,82.977693,"temple, mountain",50,Evening
+18,Sarnath,City,25.321149,83.021422,"lake, mountain, nature",300,Evening
+18,Ramnagar Fort,City,25.287653,82.967427,"nature, mountain",500,Evening
+18,Bharat Mata Temple,City,25.249095,83.012713,"mountain, family, photography, lake",300,Morning
+18,New Vishwanath Temple BHU,City,25.37108,83.004054,"nature, temple, historical",500,Morning
+18,Durga Temple,City,25.305886,82.971692,"adventure, beach, fort",100,Evening
+18,Tulsi Manas Temple,City,25.324945,83.028645,"waterfall, family, nature",500,Morning
+18,Sankat Mochan Hanuman Temple,City,25.369422,82.902164,"mountain, photography",200,Morning
+18,Alamgir Mosque,City,25.273688,82.995623,"mountain, family, heritage",500,Morning
+18,Man Mandir Ghat,City,25.250675,83.019832,"mountain, lake",150,Morning
+18,Kedar Ghat,City,25.303832,83.009259,"historical, nature, temple, scenic",200,Evening
+18,Panchganga Ghat,City,25.31931,82.968963,"scenic, historical, wildlife",100,Evening
+18,Varanasi View Point 1,City,25.230636,82.930104,"cultural, adventure",0,Morning
+18,Varanasi View Point 2,City,25.308376,82.962022,"photography, nature, scenic",100,Morning
+18,Varanasi View Point 3,City,25.375539,82.922482,"nature, heritage",100,Anytime
+18,Varanasi View Point 4,City,25.315231,83.094258,adventure,100,Anytime
+18,Varanasi View Point 5,City,25.383324,82.982288,photography,100,Morning
+18,Varanasi View Point 6,City,25.200956,82.864005,"cultural, nature, scenic",100,Anytime
+18,Varanasi View Point 7,City,25.368591,83.033084,"nature, adventure, cultural",50,Morning
+18,Varanasi View Point 8,City,25.161997,83.029883,"photography, scenic",0,Anytime
+18,Varanasi View Point 9,City,25.272631,82.941471,"scenic, nature, heritage",0,Anytime
+18,Varanasi View Point 10,City,25.388712,83.032489,"heritage, cultural, nature",100,Anytime
+18,Varanasi View Point 11,City,25.309703,83.028957,"nature, cultural",100,Anytime
+18,Varanasi View Point 12,City,25.288519,82.910715,photography,0,Morning
+18,Varanasi View Point 13,City,25.418396,83.079962,adventure,100,Anytime
+18,Varanasi View Point 14,City,25.266115,82.931199,nature,100,Evening
+18,Varanasi View Point 15,City,25.388906,82.918422,"adventure, cultural, nature",0,Morning
+18,Varanasi View Point 16,City,25.381665,82.891944,"photography, heritage, adventure",0,Morning
+18,Varanasi View Point 17,City,25.294669,83.052187,"nature, scenic",0,Morning
+18,Varanasi View Point 18,City,25.240075,82.926866,"cultural, scenic",0,Morning
+18,Varanasi View Point 19,City,25.3477,82.830045,heritage,0,Anytime
+18,Varanasi View Point 20,City,25.323429,83.066799,"adventure, scenic",50,Evening
+18,Varanasi View Point 21,City,25.386784,82.96993,nature,50,Morning
+18,Varanasi View Point 22,City,25.31925,83.093245,"photography, scenic, heritage",100,Evening
+18,Varanasi View Point 23,City,25.427246,82.966333,photography,0,Anytime
+18,Varanasi View Point 24,City,25.267229,83.042484,"heritage, cultural",0,Anytime
+18,Varanasi View Point 25,City,25.408045,83.084199,"cultural, photography",0,Anytime
+18,Varanasi View Point 26,City,25.364289,82.945411,"heritage, nature",50,Morning
+18,Varanasi View Point 27,City,25.184006,83.128962,"heritage, cultural, scenic",100,Anytime
+18,Varanasi View Point 28,City,25.445827,82.912541,heritage,100,Morning
+18,Varanasi View Point 29,City,25.332855,82.956238,"scenic, adventure",50,Anytime
+18,Varanasi View Point 30,City,25.322898,82.94187,heritage,0,Morning
+18,Varanasi View Point 31,City,25.372922,82.883175,"adventure, scenic",100,Anytime
+18,Varanasi View Point 32,City,25.286091,83.043781,"adventure, scenic",100,Evening
+18,Varanasi View Point 33,City,25.159718,82.998583,cultural,100,Anytime
+18,Varanasi View Point 34,City,25.273777,83.103129,"heritage, cultural, photography",100,Morning
+18,Varanasi View Point 35,City,25.343928,82.910937,"photography, cultural, adventure",0,Evening
+18,Varanasi View Point 36,City,25.433763,82.975642,"photography, cultural",100,Anytime
+18,Varanasi View Point 37,City,25.328101,83.044883,"heritage, photography",100,Anytime
+18,Varanasi View Point 38,City,25.269138,83.089683,heritage,0,Anytime
+18,Varanasi View Point 39,City,25.363765,82.922599,"heritage, nature",0,Morning
+18,Varanasi View Point 40,City,25.283005,82.873389,heritage,0,Evening
+18,Varanasi View Point 41,City,25.342218,82.959678,cultural,0,Anytime
+18,Varanasi View Point 42,City,25.342616,82.837764,heritage,0,Evening
+18,Varanasi View Point 43,City,25.275687,82.895331,cultural,100,Morning
+18,Varanasi View Point 44,City,25.357039,82.925755,"cultural, heritage, adventure",50,Morning
+18,Varanasi View Point 45,City,25.355227,82.931254,heritage,50,Evening
+18,Varanasi View Point 46,City,25.447687,82.978028,"scenic, photography, cultural",0,Anytime
+18,Varanasi View Point 47,City,25.390868,82.964831,"adventure, photography",0,Anytime
+18,Varanasi View Point 48,City,25.391429,82.91206,"scenic, photography",50,Morning
+18,Varanasi View Point 49,City,25.314242,82.936697,cultural,100,Morning
+18,Varanasi View Point 50,City,25.46709,82.878811,"adventure, heritage",0,Anytime
+18,Varanasi View Point 51,City,25.48322,82.863956,photography,100,Morning
+18,Varanasi View Point 52,City,25.37648,82.924152,"cultural, photography",0,Morning
+18,Varanasi View Point 53,City,25.337989,82.960232,"heritage, scenic",0,Anytime
+18,Varanasi View Point 54,City,25.251163,82.980384,"photography, heritage, nature",0,Evening
+18,Varanasi View Point 55,City,25.284232,83.01961,adventure,100,Morning
+18,Varanasi View Point 56,City,25.237161,83.011698,"cultural, heritage, nature",100,Evening
+18,Varanasi View Point 57,City,25.386729,82.965241,"scenic, adventure",0,Morning
+18,Varanasi View Point 58,City,25.211775,83.112485,adventure,0,Anytime
+18,Varanasi View Point 59,City,25.354959,82.916214,nature,0,Morning
+18,Varanasi View Point 60,City,25.357108,82.839847,adventure,50,Anytime
+18,Varanasi View Point 61,City,25.411709,83.143859,"cultural, adventure, scenic",50,Morning
+18,Varanasi View Point 62,City,25.383527,82.893655,scenic,50,Morning
+18,Varanasi View Point 63,City,25.158474,83.083022,"photography, scenic",100,Evening
+18,Varanasi View Point 64,City,25.305802,82.942586,heritage,50,Evening
+18,Varanasi View Point 65,City,25.410799,82.92667,"adventure, nature, heritage",50,Anytime
+18,Varanasi View Point 66,City,25.378586,82.975798,"heritage, cultural, nature",100,Evening
+18,Varanasi View Point 67,City,25.337357,83.104241,"heritage, nature, scenic",0,Anytime
+18,Varanasi View Point 68,City,25.278487,82.927475,"adventure, heritage",50,Morning
+18,Varanasi View Point 69,City,25.301421,82.877669,"cultural, scenic",0,Anytime
+18,Varanasi View Point 70,City,25.392514,83.038183,"adventure, cultural, nature",100,Evening
+18,Varanasi View Point 71,City,25.316851,82.899971,"adventure, nature, heritage",50,Morning
+18,Varanasi View Point 72,City,25.097985,82.907206,"photography, cultural",0,Morning
+18,Varanasi View Point 73,City,25.29911,82.821969,"photography, cultural, adventure",50,Anytime
+18,Varanasi View Point 74,City,25.51716,83.007141,"cultural, nature",0,Anytime
+18,Varanasi View Point 75,City,25.361154,82.9619,adventure,100,Evening
+18,Varanasi View Point 76,City,25.376603,82.94983,"nature, heritage",100,Evening
+18,Varanasi View Point 77,City,25.304642,83.086299,photography,50,Evening
+18,Varanasi View Point 78,City,25.40544,82.973024,scenic,50,Anytime
+18,Varanasi View Point 79,City,25.479398,82.967338,"photography, nature",100,Anytime
+18,Varanasi View Point 80,City,25.277137,82.984057,adventure,0,Morning
+18,Varanasi View Point 81,City,25.34167,82.878507,"cultural, adventure",50,Anytime
+18,Varanasi View Point 82,City,25.356599,83.143074,"cultural, scenic, heritage",100,Morning
+18,Varanasi View Point 83,City,25.393605,83.027026,"nature, heritage, adventure",100,Evening
+18,Varanasi View Point 84,City,25.356032,82.894072,photography,50,Morning
+18,Varanasi View Point 85,City,25.237883,82.986949,"photography, nature, scenic",0,Morning
+19,Mysore Palace,City,12.27439,76.567067,"temple, fort, beach, family",0,Morning
+19,Chamundeshwari Temple,City,12.27827,76.661934,"trekking, mountain",200,Evening
+19,Brindavan Gardens,City,12.324815,76.597762,"wildlife, temple, fort",0,Morning
+19,St Philomena's Cathedral,City,12.293504,76.660138,"nature, beach, historical",300,Morning
+19,Mysore Zoo,City,12.232387,76.600778,"lake, cultural",300,Evening
+19,Karanji Lake,City,12.29514,76.593939,"beach, nature, lake, trekking",0,Morning
+19,Jaganmohan Palace,City,12.279403,76.764189,"nature, wildlife, temple, photography",50,Evening
+19,Lalitha Mahal Palace,City,12.220439,76.710633,"cultural, mountain, historical",300,Morning
+19,Devaraja Market,City,12.312883,76.578199,"family, historical, heritage",150,Evening
+19,Railway Museum,City,12.329729,76.641545,"trekking, cultural",500,Morning
+19,Srirangapatna,City,12.356067,76.672425,"temple, scenic, trekking, heritage",0,Evening
+19,Ranganathittu Bird Sanctuary,City,12.305616,76.624078,"lake, historical, mountain",50,Evening
+19,Shivanasamudra Falls,City,12.354246,76.619798,"family, mountain",500,Evening
+19,Nagarhole National Park,City,12.225791,76.544606,"temple, waterfall, wildlife, adventure",150,Evening
+19,Bylakuppe Tibetan Settlement,City,12.234,76.679548,"heritage, scenic, lake, temple",0,Evening
+19,Mysore View Point 1,City,12.266742,76.577639,"photography, cultural, adventure",50,Evening
+19,Mysore View Point 2,City,12.261114,76.705755,"scenic, cultural",0,Evening
+19,Mysore View Point 3,City,12.346466,76.65236,"photography, cultural, scenic",100,Evening
+19,Mysore View Point 4,City,12.247816,76.608156,"cultural, adventure",0,Morning
+19,Mysore View Point 5,City,12.285214,76.567829,"adventure, photography",100,Anytime
+19,Mysore View Point 6,City,12.286959,76.563658,nature,50,Anytime
+19,Mysore View Point 7,City,12.325065,76.677654,"heritage, photography, scenic",0,Evening
+19,Mysore View Point 8,City,12.385177,76.660238,"heritage, nature",50,Morning
+19,Mysore View Point 9,City,12.314101,76.572542,adventure,0,Anytime
+19,Mysore View Point 10,City,12.291999,76.557598,"scenic, adventure, heritage",100,Evening
+19,Mysore View Point 11,City,12.159457,76.618187,"scenic, nature, photography",100,Anytime
+19,Mysore View Point 12,City,12.255499,76.688314,"adventure, scenic, heritage",0,Morning
+19,Mysore View Point 13,City,12.218863,76.864479,"scenic, cultural, photography",0,Anytime
+19,Mysore View Point 14,City,12.257406,76.633774,"scenic, adventure, photography",100,Anytime
+19,Mysore View Point 15,City,12.250452,76.701626,photography,0,Morning
+19,Mysore View Point 16,City,12.278697,76.561058,scenic,0,Anytime
+19,Mysore View Point 17,City,12.149122,76.685313,"adventure, cultural, nature",0,Anytime
+19,Mysore View Point 18,City,12.347785,76.666818,heritage,100,Anytime
+19,Mysore View Point 19,City,12.278581,76.613863,"nature, photography",100,Anytime
+19,Mysore View Point 20,City,12.358001,76.631316,scenic,0,Evening
+19,Mysore View Point 21,City,12.385762,76.631476,scenic,100,Evening
+19,Mysore View Point 22,City,12.284974,76.669068,"adventure, heritage, photography",0,Morning
+19,Mysore View Point 23,City,12.407139,76.733539,adventure,50,Evening
+19,Mysore View Point 24,City,12.291941,76.609501,nature,100,Morning
+19,Mysore View Point 25,City,12.199135,76.694766,"photography, heritage, scenic",100,Evening
+19,Mysore View Point 26,City,12.153096,76.775818,"heritage, adventure, nature",50,Evening
+19,Mysore View Point 27,City,12.363251,76.579723,nature,0,Anytime
+19,Mysore View Point 28,City,12.394271,76.683255,"heritage, cultural, scenic",0,Evening
+19,Mysore View Point 29,City,12.333215,76.618046,adventure,100,Anytime
+19,Mysore View Point 30,City,12.340012,76.526058,"heritage, cultural, photography",0,Morning
+19,Mysore View Point 31,City,12.300828,76.58501,"cultural, nature, scenic",100,Evening
+19,Mysore View Point 32,City,12.272756,76.584287,photography,100,Evening
+19,Mysore View Point 33,City,12.244784,76.742476,cultural,0,Morning
+19,Mysore View Point 34,City,12.181171,76.672093,"cultural, photography, heritage",50,Anytime
+19,Mysore View Point 35,City,12.205345,76.74512,"adventure, cultural, nature",100,Anytime
+19,Mysore View Point 36,City,12.330024,76.527025,"heritage, scenic, nature",50,Anytime
+19,Mysore View Point 37,City,12.322573,76.583731,"photography, cultural",50,Morning
+19,Mysore View Point 38,City,12.31395,76.533126,"heritage, nature, adventure",100,Evening
+19,Mysore View Point 39,City,12.394277,76.479607,"adventure, scenic",0,Morning
+19,Mysore View Point 40,City,12.231194,76.552842,"scenic, heritage, cultural",100,Anytime
+19,Mysore View Point 41,City,12.32614,76.599999,cultural,50,Anytime
+19,Mysore View Point 42,City,12.281048,76.588077,"scenic, heritage",50,Anytime
+19,Mysore View Point 43,City,12.186324,76.621117,"adventure, heritage",50,Morning
+19,Mysore View Point 44,City,12.191568,76.492837,"heritage, photography, cultural",0,Anytime
+19,Mysore View Point 45,City,12.345874,76.540275,photography,100,Anytime
+19,Mysore View Point 46,City,12.412369,76.752813,heritage,0,Morning
+19,Mysore View Point 47,City,12.366655,76.548537,scenic,0,Evening
+19,Mysore View Point 48,City,12.465528,76.451205,"cultural, nature, scenic",100,Morning
+19,Mysore View Point 49,City,12.22516,76.706058,"heritage, nature, photography",100,Morning
+19,Mysore View Point 50,City,12.356176,76.581389,"photography, cultural",50,Anytime
+19,Mysore View Point 51,City,12.232948,76.622169,"scenic, heritage",50,Morning
+19,Mysore View Point 52,City,12.288842,76.601845,"adventure, cultural, heritage",50,Evening
+19,Mysore View Point 53,City,12.42844,76.58471,"scenic, adventure",50,Evening
+19,Mysore View Point 54,City,12.413117,76.671874,"nature, heritage, photography",0,Morning
+19,Mysore View Point 55,City,12.377335,76.519807,"photography, scenic",50,Anytime
+19,Mysore View Point 56,City,12.378039,76.718808,"cultural, photography",50,Evening
+19,Mysore View Point 57,City,12.242517,76.707235,cultural,100,Evening
+19,Mysore View Point 58,City,12.177407,76.60143,"scenic, adventure",100,Evening
+19,Mysore View Point 59,City,12.389168,76.624842,"scenic, nature, cultural",50,Morning
+19,Mysore View Point 60,City,12.274662,76.751765,"cultural, nature",100,Anytime
+19,Mysore View Point 61,City,12.139521,76.625188,"adventure, heritage",50,Evening
+19,Mysore View Point 62,City,12.290517,76.575661,scenic,100,Anytime
+19,Mysore View Point 63,City,12.405732,76.566595,"nature, scenic",100,Evening
+19,Mysore View Point 64,City,12.223998,76.44162,scenic,100,Anytime
+19,Mysore View Point 65,City,12.38466,76.613054,"photography, cultural, heritage",50,Morning
+19,Mysore View Point 66,City,12.269595,76.622343,"photography, heritage, nature",0,Evening
+19,Mysore View Point 67,City,12.391261,76.768429,"heritage, scenic",0,Anytime
+19,Mysore View Point 68,City,12.157203,76.602366,"photography, cultural",50,Evening
+19,Mysore View Point 69,City,12.204987,76.621507,"nature, cultural",0,Evening
+19,Mysore View Point 70,City,12.288515,76.501905,"nature, heritage, photography",0,Morning
+19,Mysore View Point 71,City,12.325293,76.603465,"scenic, photography, cultural",0,Morning
+19,Mysore View Point 72,City,12.358239,76.641824,cultural,50,Anytime
+19,Mysore View Point 73,City,12.158503,76.688571,"cultural, heritage",100,Anytime
+19,Mysore View Point 74,City,12.188595,76.540881,cultural,50,Anytime
+19,Mysore View Point 75,City,12.270457,76.616592,cultural,100,Evening
+19,Mysore View Point 76,City,12.155522,76.627576,"adventure, nature",50,Evening
+19,Mysore View Point 77,City,12.28868,76.629151,adventure,0,Morning
+19,Mysore View Point 78,City,12.160763,76.650913,scenic,50,Evening
+19,Mysore View Point 79,City,12.345362,76.531672,"adventure, photography",100,Evening
+19,Mysore View Point 80,City,12.209756,76.702387,adventure,100,Anytime
+19,Mysore View Point 81,City,12.422198,76.62609,"photography, nature, heritage",100,Anytime
+19,Mysore View Point 82,City,12.259834,76.655258,scenic,100,Evening
+19,Mysore View Point 83,City,12.404307,76.571397,adventure,0,Morning
+19,Mysore View Point 84,City,12.257078,76.598578,"adventure, nature",0,Anytime
+19,Mysore View Point 85,City,12.182464,76.707623,"cultural, scenic, adventure",100,Evening
+20,Victoria Memorial,City,22.585657,88.263036,"beach, adventure, family, temple",300,Morning
+20,Howrah Bridge,City,22.572032,88.447013,"photography, scenic, beach",150,Morning
+20,Dakshineswar Kali Temple,City,22.58637,88.4441,"nature, lake, fort",300,Evening
+20,Belur Math,City,22.544593,88.412209,"wildlife, waterfall, historical, mountain",300,Evening
+20,Indian Museum,City,22.638346,88.360263,"heritage, fort, mountain, scenic",100,Morning
+20,College Street,City,22.552043,88.418899,"lake, nature, photography, trekking",0,Evening
+20,Park Street,City,22.599604,88.4116,"waterfall, wildlife, cultural, historical",0,Morning
+20,Princep Ghat,City,22.593255,88.359917,"scenic, photography, cultural",500,Morning
+20,Eden Gardens,City,22.568163,88.346161,"heritage, fort",300,Evening
+20,Science City,City,22.592614,88.355034,"family, photography",300,Evening
+20,Marble Palace,City,22.585268,88.324265,"nature, historical",150,Evening
+20,Kumartuli,City,22.530018,88.393107,"temple, waterfall, photography",200,Morning
+20,Jorasanko Thakur Bari,City,22.592024,88.342402,"lake, scenic, cultural",200,Morning
+20,Kalighat Temple,City,22.641445,88.322846,"cultural, family, mountain",50,Morning
+20,Alipore Zoo,City,22.594467,88.386786,"trekking, nature",50,Evening
+20,Kolkata View Point 1,City,22.576879,88.465195,"heritage, nature, scenic",100,Morning
+20,Kolkata View Point 2,City,22.702781,88.271837,"photography, scenic, nature",50,Morning
+20,Kolkata View Point 3,City,22.390592,88.324765,"cultural, scenic",0,Evening
+20,Kolkata View Point 4,City,22.493965,88.328932,"cultural, nature",50,Anytime
+20,Kolkata View Point 5,City,22.718162,88.579627,"heritage, photography",50,Morning
+20,Kolkata View Point 6,City,22.496746,88.381841,"heritage, scenic, adventure",0,Evening
+20,Kolkata View Point 7,City,22.588736,88.39156,nature,50,Evening
+20,Kolkata View Point 8,City,22.462962,88.462763,"nature, cultural, heritage",100,Anytime
+20,Kolkata View Point 9,City,22.644756,88.325497,heritage,0,Morning
+20,Kolkata View Point 10,City,22.671061,88.248549,cultural,0,Anytime
+20,Kolkata View Point 11,City,22.437139,88.385088,"photography, nature, adventure",0,Evening
+20,Kolkata View Point 12,City,22.6071,88.350794,heritage,100,Morning
+20,Kolkata View Point 13,City,22.661188,88.311301,cultural,0,Evening
+20,Kolkata View Point 14,City,22.668951,88.426948,"heritage, nature, cultural",50,Morning
+20,Kolkata View Point 15,City,22.721628,88.222067,scenic,50,Anytime
+20,Kolkata View Point 16,City,22.533693,88.291404,"scenic, photography",50,Morning
+20,Kolkata View Point 17,City,22.634756,88.489743,"photography, scenic",100,Morning
+20,Kolkata View Point 18,City,22.542837,88.411852,"cultural, heritage",50,Anytime
+20,Kolkata View Point 19,City,22.68809,88.389999,"scenic, heritage, nature",0,Anytime
+20,Kolkata View Point 20,City,22.628717,88.20524,heritage,0,Evening
+20,Kolkata View Point 21,City,22.697868,88.339999,"adventure, nature",50,Morning
+20,Kolkata View Point 22,City,22.78618,88.295833,"heritage, photography",0,Anytime
+20,Kolkata View Point 23,City,22.610566,88.429944,"heritage, scenic, cultural",50,Anytime
+20,Kolkata View Point 24,City,22.372477,88.506092,"scenic, nature",50,Anytime
+20,Kolkata View Point 25,City,22.632048,88.244344,heritage,50,Evening
+20,Kolkata View Point 26,City,22.60218,88.393017,heritage,50,Evening
+20,Kolkata View Point 27,City,22.561851,88.316216,"scenic, adventure",50,Evening
+20,Kolkata View Point 28,City,22.567158,88.432807,"heritage, photography, adventure",0,Evening
+20,Kolkata View Point 29,City,22.63827,88.364579,"heritage, nature, photography",50,Anytime
+20,Kolkata View Point 30,City,22.590892,88.353737,"adventure, cultural, nature",100,Evening
+20,Kolkata View Point 31,City,22.494762,88.359317,"photography, nature, scenic",50,Morning
+20,Kolkata View Point 32,City,22.513834,88.284257,"adventure, scenic",50,Morning
+20,Kolkata View Point 33,City,22.379077,88.331193,"scenic, adventure",100,Evening
+20,Kolkata View Point 34,City,22.635438,88.461749,"photography, adventure, heritage",0,Anytime
+20,Kolkata View Point 35,City,22.608294,88.260259,"scenic, cultural",50,Morning
+20,Kolkata View Point 36,City,22.560223,88.271509,"heritage, photography",100,Morning
+20,Kolkata View Point 37,City,22.725353,88.332919,"scenic, adventure",100,Morning
+20,Kolkata View Point 38,City,22.533057,88.437727,heritage,100,Morning
+20,Kolkata View Point 39,City,22.569472,88.449631,nature,50,Anytime
+20,Kolkata View Point 40,City,22.48275,88.371022,adventure,50,Evening
+20,Kolkata View Point 41,City,22.613182,88.154468,"nature, heritage",0,Morning
+20,Kolkata View Point 42,City,22.517988,88.314794,"cultural, heritage",0,Evening
+20,Kolkata View Point 43,City,22.577019,88.339089,"photography, nature, cultural",50,Morning
+20,Kolkata View Point 44,City,22.596284,88.345142,"cultural, heritage",100,Morning
+20,Kolkata View Point 45,City,22.664393,88.532757,"heritage, adventure, nature",100,Evening
+20,Kolkata View Point 46,City,22.452555,88.365875,"cultural, heritage, scenic",50,Anytime
+20,Kolkata View Point 47,City,22.659507,88.307666,"photography, nature",50,Anytime
+20,Kolkata View Point 48,City,22.594987,88.333514,photography,0,Morning
+20,Kolkata View Point 49,City,22.492326,88.282559,"photography, heritage",50,Morning
+20,Kolkata View Point 50,City,22.374925,88.37718,"photography, scenic, cultural",100,Morning
+20,Kolkata View Point 51,City,22.591146,88.287753,"nature, adventure",50,Evening
+20,Kolkata View Point 52,City,22.550214,88.24852,"photography, scenic, heritage",50,Anytime
+20,Kolkata View Point 53,City,22.615203,88.331853,scenic,0,Evening
+20,Kolkata View Point 54,City,22.634247,88.33813,cultural,0,Morning
+20,Kolkata View Point 55,City,22.493584,88.321026,cultural,0,Morning
+20,Kolkata View Point 56,City,22.693248,88.531586,"photography, adventure, cultural",0,Evening
+20,Kolkata View Point 57,City,22.452038,88.436358,"heritage, adventure",50,Anytime
+20,Kolkata View Point 58,City,22.483939,88.303109,photography,0,Evening
+20,Kolkata View Point 59,City,22.589318,88.403047,"cultural, photography",100,Evening
+20,Kolkata View Point 60,City,22.514344,88.412712,nature,100,Morning
+20,Kolkata View Point 61,City,22.667338,88.422178,"cultural, heritage",50,Anytime
+20,Kolkata View Point 62,City,22.495302,88.328324,nature,100,Anytime
+20,Kolkata View Point 63,City,22.64262,88.488011,"heritage, adventure",100,Evening
+20,Kolkata View Point 64,City,22.470924,88.388121,"adventure, nature, cultural",0,Evening
+20,Kolkata View Point 65,City,22.631344,88.25218,"photography, adventure",50,Anytime
+20,Kolkata View Point 66,City,22.654111,88.533088,"heritage, adventure, photography",0,Anytime
+20,Kolkata View Point 67,City,22.625706,88.409155,"nature, cultural",100,Anytime
+20,Kolkata View Point 68,City,22.512501,88.324672,cultural,0,Morning
+20,Kolkata View Point 69,City,22.520821,88.293146,"adventure, heritage",50,Anytime
+20,Kolkata View Point 70,City,22.553229,88.388636,heritage,50,Evening
+20,Kolkata View Point 71,City,22.503992,88.336108,adventure,0,Evening
+20,Kolkata View Point 72,City,22.598115,88.194559,adventure,100,Morning
+20,Kolkata View Point 73,City,22.648542,88.380943,"photography, adventure, cultural",100,Evening
+20,Kolkata View Point 74,City,22.590736,88.456408,scenic,100,Evening
+20,Kolkata View Point 75,City,22.647652,88.412483,"cultural, scenic",100,Anytime
+20,Kolkata View Point 76,City,22.594971,88.363118,nature,100,Morning
+20,Kolkata View Point 77,City,22.526128,88.287039,nature,100,Morning
+20,Kolkata View Point 78,City,22.603586,88.395428,scenic,0,Evening
+20,Kolkata View Point 79,City,22.583892,88.25638,"cultural, scenic",0,Anytime
+20,Kolkata View Point 80,City,22.360183,88.368348,"nature, heritage",0,Evening
+20,Kolkata View Point 81,City,22.425888,88.389333,scenic,0,Evening
+20,Kolkata View Point 82,City,22.728491,88.390398,"photography, nature, cultural",50,Evening
+20,Kolkata View Point 83,City,22.537678,88.280233,"photography, heritage, nature",100,Morning
+20,Kolkata View Point 84,City,22.526465,88.360948,"scenic, adventure",50,Anytime
+20,Kolkata View Point 85,City,22.658433,88.37512,"scenic, heritage, photography",50,Anytime

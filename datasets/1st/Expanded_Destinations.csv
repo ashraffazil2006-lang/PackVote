@@ -1,0 +1,1001 @@
+DestinationID,Name,State,Type,Popularity,BestTimeToVisit,Latitude,Longitude,Description
+1,Goa Beaches,Goa,Beach,9.1497,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+2,Kovalam Beach,Kerala,Beach,8.3862,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+3,Andaman Islands,Andaman & Nicobar,Beach,8.7648,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+4,Radhanagar Beach,Andaman & Nicobar,Beach,8.3523,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+5,Taj Mahal,Uttar Pradesh,Historical,9.3766,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+6,Hampi Ruins,Karnataka,Historical,8.5766,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+7,Ajanta Ellora Caves,Maharashtra,Historical,8.9579,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+8,Khajuraho Temples,Madhya Pradesh,Historical,8.3767,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+9,Kerala Backwaters,Kerala,Nature,8.8531,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+10,Coorg,Karnataka,Nature,8.5543,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+11,Munnar,Kerala,Nature,8.6537,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+12,Kaziranga,Assam,Nature,8.0534,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+13,Leh Ladakh,Jammu & Kashmir,Adventure,9.0242,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+14,Rishikesh,Uttarakhand,Adventure,8.6087,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+15,Manali,Himachal Pradesh,Adventure,8.7275,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+16,Spiti Valley,Himachal Pradesh,Adventure,7.9438,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+17,Jaipur City,Rajasthan,City,9.0987,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+18,Varanasi,Uttar Pradesh,City,9.0314,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+19,Mysore,Karnataka,City,8.6092,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+20,Kolkata,West Bengal,City,8.3588,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+21,Goa Beaches,Goa,Beach,9.2466,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+22,Kovalam Beach,Kerala,Beach,8.3774,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+23,Andaman Islands,Andaman & Nicobar,Beach,8.7068,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+24,Radhanagar Beach,Andaman & Nicobar,Beach,8.0575,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+25,Taj Mahal,Uttar Pradesh,Historical,9.3456,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+26,Hampi Ruins,Karnataka,Historical,8.6111,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+27,Ajanta Ellora Caves,Maharashtra,Historical,8.6849,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+28,Khajuraho Temples,Madhya Pradesh,Historical,8.3376,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+29,Kerala Backwaters,Kerala,Nature,8.8399,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+30,Coorg,Karnataka,Nature,8.4708,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+31,Munnar,Kerala,Nature,8.6398,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+32,Kaziranga,Assam,Nature,8.2852,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+33,Leh Ladakh,Jammu & Kashmir,Adventure,8.9987,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+34,Rishikesh,Uttarakhand,Adventure,8.6942,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+35,Manali,Himachal Pradesh,Adventure,8.9823,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+36,Spiti Valley,Himachal Pradesh,Adventure,7.8779,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+37,Jaipur City,Rajasthan,City,9.2209,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+38,Varanasi,Uttar Pradesh,City,8.804,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+39,Mysore,Karnataka,City,8.5672,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+40,Kolkata,West Bengal,City,8.5197,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+41,Goa Beaches,Goa,Beach,9.1738,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+42,Kovalam Beach,Kerala,Beach,8.4171,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+43,Andaman Islands,Andaman & Nicobar,Beach,8.6884,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+44,Radhanagar Beach,Andaman & Nicobar,Beach,8.1699,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+45,Taj Mahal,Uttar Pradesh,Historical,9.2521,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+46,Hampi Ruins,Karnataka,Historical,8.528,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+47,Ajanta Ellora Caves,Maharashtra,Historical,8.7539,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+48,Khajuraho Temples,Madhya Pradesh,Historical,8.4057,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+49,Kerala Backwaters,Kerala,Nature,8.9344,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+50,Coorg,Karnataka,Nature,8.3237,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+51,Munnar,Kerala,Nature,8.7324,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+52,Kaziranga,Assam,Nature,8.0615,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+53,Leh Ladakh,Jammu & Kashmir,Adventure,8.9323,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+54,Rishikesh,Uttarakhand,Adventure,8.8612,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+55,Manali,Himachal Pradesh,Adventure,9.0031,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+56,Spiti Valley,Himachal Pradesh,Adventure,8.0931,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+57,Jaipur City,Rajasthan,City,9.1161,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+58,Varanasi,Uttar Pradesh,City,8.9691,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+59,Mysore,Karnataka,City,8.7331,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+60,Kolkata,West Bengal,City,8.5976,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+61,Goa Beaches,Goa,Beach,9.0521,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+62,Kovalam Beach,Kerala,Beach,8.3814,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+63,Andaman Islands,Andaman & Nicobar,Beach,8.5894,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+64,Radhanagar Beach,Andaman & Nicobar,Beach,8.0804,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+65,Taj Mahal,Uttar Pradesh,Historical,9.4813,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+66,Hampi Ruins,Karnataka,Historical,8.7356,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+67,Ajanta Ellora Caves,Maharashtra,Historical,8.7928,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+68,Khajuraho Temples,Madhya Pradesh,Historical,8.4004,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+69,Kerala Backwaters,Kerala,Nature,8.9362,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+70,Coorg,Karnataka,Nature,8.4355,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+71,Munnar,Kerala,Nature,8.7361,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+72,Kaziranga,Assam,Nature,8.2538,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+73,Leh Ladakh,Jammu & Kashmir,Adventure,8.9964,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+74,Rishikesh,Uttarakhand,Adventure,8.9565,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+75,Manali,Himachal Pradesh,Adventure,8.638,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+76,Spiti Valley,Himachal Pradesh,Adventure,8.0822,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+77,Jaipur City,Rajasthan,City,9.2087,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+78,Varanasi,Uttar Pradesh,City,8.9701,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+79,Mysore,Karnataka,City,8.7092,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+80,Kolkata,West Bengal,City,8.3012,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+81,Goa Beaches,Goa,Beach,9.078,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+82,Kovalam Beach,Kerala,Beach,8.4357,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+83,Andaman Islands,Andaman & Nicobar,Beach,8.8478,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+84,Radhanagar Beach,Andaman & Nicobar,Beach,8.1482,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+85,Taj Mahal,Uttar Pradesh,Historical,9.3192,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+86,Hampi Ruins,Karnataka,Historical,8.5498,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+87,Ajanta Ellora Caves,Maharashtra,Historical,8.8915,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+88,Khajuraho Temples,Madhya Pradesh,Historical,8.3329,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+89,Kerala Backwaters,Kerala,Nature,8.847,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+90,Coorg,Karnataka,Nature,8.5513,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+91,Munnar,Kerala,Nature,8.7097,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+92,Kaziranga,Assam,Nature,8.1969,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+93,Leh Ladakh,Jammu & Kashmir,Adventure,8.9298,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+94,Rishikesh,Uttarakhand,Adventure,8.7672,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+95,Manali,Himachal Pradesh,Adventure,8.8608,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+96,Spiti Valley,Himachal Pradesh,Adventure,7.8536,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+97,Jaipur City,Rajasthan,City,9.2296,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+98,Varanasi,Uttar Pradesh,City,9.0261,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+99,Mysore,Karnataka,City,8.7005,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+100,Kolkata,West Bengal,City,8.4765,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+101,Goa Beaches,Goa,Beach,8.9585,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+102,Kovalam Beach,Kerala,Beach,8.3579,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+103,Andaman Islands,Andaman & Nicobar,Beach,8.6657,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+104,Radhanagar Beach,Andaman & Nicobar,Beach,8.1198,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+105,Taj Mahal,Uttar Pradesh,Historical,9.3839,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+106,Hampi Ruins,Karnataka,Historical,8.6404,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+107,Ajanta Ellora Caves,Maharashtra,Historical,8.9886,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+108,Khajuraho Temples,Madhya Pradesh,Historical,8.3175,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+109,Kerala Backwaters,Kerala,Nature,8.9258,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+110,Coorg,Karnataka,Nature,8.4926,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+111,Munnar,Kerala,Nature,8.5081,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+112,Kaziranga,Assam,Nature,8.0973,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+113,Leh Ladakh,Jammu & Kashmir,Adventure,9.006,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+114,Rishikesh,Uttarakhand,Adventure,9.0463,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+115,Manali,Himachal Pradesh,Adventure,8.8808,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+116,Spiti Valley,Himachal Pradesh,Adventure,8.0302,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+117,Jaipur City,Rajasthan,City,9.1965,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+118,Varanasi,Uttar Pradesh,City,8.8831,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+119,Mysore,Karnataka,City,8.8143,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+120,Kolkata,West Bengal,City,8.5752,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+121,Goa Beaches,Goa,Beach,9.1791,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+122,Kovalam Beach,Kerala,Beach,8.3091,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+123,Andaman Islands,Andaman & Nicobar,Beach,8.8403,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+124,Radhanagar Beach,Andaman & Nicobar,Beach,8.0598,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+125,Taj Mahal,Uttar Pradesh,Historical,9.4587,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+126,Hampi Ruins,Karnataka,Historical,8.819,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+127,Ajanta Ellora Caves,Maharashtra,Historical,8.7009,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+128,Khajuraho Temples,Madhya Pradesh,Historical,8.2434,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+129,Kerala Backwaters,Kerala,Nature,8.91,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+130,Coorg,Karnataka,Nature,8.4497,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+131,Munnar,Kerala,Nature,8.5449,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+132,Kaziranga,Assam,Nature,8.1069,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+133,Leh Ladakh,Jammu & Kashmir,Adventure,8.8938,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+134,Rishikesh,Uttarakhand,Adventure,8.8474,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+135,Manali,Himachal Pradesh,Adventure,8.8081,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+136,Spiti Valley,Himachal Pradesh,Adventure,8.155,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+137,Jaipur City,Rajasthan,City,9.1217,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+138,Varanasi,Uttar Pradesh,City,8.9678,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+139,Mysore,Karnataka,City,8.7814,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+140,Kolkata,West Bengal,City,8.3769,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+141,Goa Beaches,Goa,Beach,9.1227,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+142,Kovalam Beach,Kerala,Beach,8.5307,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+143,Andaman Islands,Andaman & Nicobar,Beach,8.5393,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+144,Radhanagar Beach,Andaman & Nicobar,Beach,8.2185,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+145,Taj Mahal,Uttar Pradesh,Historical,9.426,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+146,Hampi Ruins,Karnataka,Historical,8.6782,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+147,Ajanta Ellora Caves,Maharashtra,Historical,8.6763,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+148,Khajuraho Temples,Madhya Pradesh,Historical,8.168,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+149,Kerala Backwaters,Kerala,Nature,8.9522,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+150,Coorg,Karnataka,Nature,8.5297,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+151,Munnar,Kerala,Nature,8.725,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+152,Kaziranga,Assam,Nature,8.1346,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+153,Leh Ladakh,Jammu & Kashmir,Adventure,8.932,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+154,Rishikesh,Uttarakhand,Adventure,8.8232,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+155,Manali,Himachal Pradesh,Adventure,8.9293,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+156,Spiti Valley,Himachal Pradesh,Adventure,7.9286,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+157,Jaipur City,Rajasthan,City,9.3866,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+158,Varanasi,Uttar Pradesh,City,9.0474,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+159,Mysore,Karnataka,City,8.5809,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+160,Kolkata,West Bengal,City,8.5657,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+161,Goa Beaches,Goa,Beach,9.0025,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+162,Kovalam Beach,Kerala,Beach,8.4787,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+163,Andaman Islands,Andaman & Nicobar,Beach,8.8159,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+164,Radhanagar Beach,Andaman & Nicobar,Beach,8.1179,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+165,Taj Mahal,Uttar Pradesh,Historical,9.4963,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+166,Hampi Ruins,Karnataka,Historical,8.6413,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+167,Ajanta Ellora Caves,Maharashtra,Historical,8.8822,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+168,Khajuraho Temples,Madhya Pradesh,Historical,8.4897,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+169,Kerala Backwaters,Kerala,Nature,8.8755,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+170,Coorg,Karnataka,Nature,8.4246,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+171,Munnar,Kerala,Nature,8.611,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+172,Kaziranga,Assam,Nature,8.0184,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+173,Leh Ladakh,Jammu & Kashmir,Adventure,8.9923,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+174,Rishikesh,Uttarakhand,Adventure,8.8341,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+175,Manali,Himachal Pradesh,Adventure,8.9277,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+176,Spiti Valley,Himachal Pradesh,Adventure,8.0827,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+177,Jaipur City,Rajasthan,City,9.2013,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+178,Varanasi,Uttar Pradesh,City,9.1454,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+179,Mysore,Karnataka,City,8.6735,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+180,Kolkata,West Bengal,City,8.772,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+181,Goa Beaches,Goa,Beach,9.1626,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+182,Kovalam Beach,Kerala,Beach,8.3143,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+183,Andaman Islands,Andaman & Nicobar,Beach,8.5929,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+184,Radhanagar Beach,Andaman & Nicobar,Beach,8.2482,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+185,Taj Mahal,Uttar Pradesh,Historical,9.3777,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+186,Hampi Ruins,Karnataka,Historical,8.6714,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+187,Ajanta Ellora Caves,Maharashtra,Historical,8.8473,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+188,Khajuraho Temples,Madhya Pradesh,Historical,8.2927,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+189,Kerala Backwaters,Kerala,Nature,8.8153,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+190,Coorg,Karnataka,Nature,8.3485,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+191,Munnar,Kerala,Nature,8.6553,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+192,Kaziranga,Assam,Nature,8.1856,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+193,Leh Ladakh,Jammu & Kashmir,Adventure,9.0214,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+194,Rishikesh,Uttarakhand,Adventure,8.6754,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+195,Manali,Himachal Pradesh,Adventure,8.9173,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+196,Spiti Valley,Himachal Pradesh,Adventure,8.0385,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+197,Jaipur City,Rajasthan,City,9.1116,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+198,Varanasi,Uttar Pradesh,City,9.0154,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+199,Mysore,Karnataka,City,8.7058,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+200,Kolkata,West Bengal,City,8.3857,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+201,Goa Beaches,Goa,Beach,9.1358,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+202,Kovalam Beach,Kerala,Beach,8.4561,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+203,Andaman Islands,Andaman & Nicobar,Beach,8.8083,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+204,Radhanagar Beach,Andaman & Nicobar,Beach,8.3054,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+205,Taj Mahal,Uttar Pradesh,Historical,9.2622,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+206,Hampi Ruins,Karnataka,Historical,8.5062,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+207,Ajanta Ellora Caves,Maharashtra,Historical,8.8515,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+208,Khajuraho Temples,Madhya Pradesh,Historical,8.3514,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+209,Kerala Backwaters,Kerala,Nature,8.9515,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+210,Coorg,Karnataka,Nature,8.8853,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+211,Munnar,Kerala,Nature,8.7571,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+212,Kaziranga,Assam,Nature,8.2136,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+213,Leh Ladakh,Jammu & Kashmir,Adventure,9.0954,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+214,Rishikesh,Uttarakhand,Adventure,8.8651,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+215,Manali,Himachal Pradesh,Adventure,8.8685,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+216,Spiti Valley,Himachal Pradesh,Adventure,8.0759,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+217,Jaipur City,Rajasthan,City,9.1227,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+218,Varanasi,Uttar Pradesh,City,8.9763,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+219,Mysore,Karnataka,City,8.6515,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+220,Kolkata,West Bengal,City,8.5082,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+221,Goa Beaches,Goa,Beach,9.3315,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+222,Kovalam Beach,Kerala,Beach,8.2133,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+223,Andaman Islands,Andaman & Nicobar,Beach,8.7686,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+224,Radhanagar Beach,Andaman & Nicobar,Beach,8.0387,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+225,Taj Mahal,Uttar Pradesh,Historical,9.3528,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+226,Hampi Ruins,Karnataka,Historical,8.7089,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+227,Ajanta Ellora Caves,Maharashtra,Historical,8.8064,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+228,Khajuraho Temples,Madhya Pradesh,Historical,8.1922,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+229,Kerala Backwaters,Kerala,Nature,8.8285,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+230,Coorg,Karnataka,Nature,8.568,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+231,Munnar,Kerala,Nature,8.627,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+232,Kaziranga,Assam,Nature,8.1216,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+233,Leh Ladakh,Jammu & Kashmir,Adventure,9.0046,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+234,Rishikesh,Uttarakhand,Adventure,8.7348,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+235,Manali,Himachal Pradesh,Adventure,9.1144,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+236,Spiti Valley,Himachal Pradesh,Adventure,8.0634,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+237,Jaipur City,Rajasthan,City,8.9975,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+238,Varanasi,Uttar Pradesh,City,9.0186,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+239,Mysore,Karnataka,City,8.6338,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+240,Kolkata,West Bengal,City,8.5852,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+241,Goa Beaches,Goa,Beach,9.0207,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+242,Kovalam Beach,Kerala,Beach,8.3885,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+243,Andaman Islands,Andaman & Nicobar,Beach,8.7505,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+244,Radhanagar Beach,Andaman & Nicobar,Beach,8.2866,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+245,Taj Mahal,Uttar Pradesh,Historical,9.28,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+246,Hampi Ruins,Karnataka,Historical,8.5665,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+247,Ajanta Ellora Caves,Maharashtra,Historical,8.7525,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+248,Khajuraho Temples,Madhya Pradesh,Historical,8.2347,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+249,Kerala Backwaters,Kerala,Nature,9.0765,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+250,Coorg,Karnataka,Nature,8.5405,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+251,Munnar,Kerala,Nature,8.5739,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+252,Kaziranga,Assam,Nature,8.1918,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+253,Leh Ladakh,Jammu & Kashmir,Adventure,9.2122,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+254,Rishikesh,Uttarakhand,Adventure,8.9032,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+255,Manali,Himachal Pradesh,Adventure,8.7481,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+256,Spiti Valley,Himachal Pradesh,Adventure,7.9516,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+257,Jaipur City,Rajasthan,City,9.3267,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+258,Varanasi,Uttar Pradesh,City,8.9292,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+259,Mysore,Karnataka,City,8.7444,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+260,Kolkata,West Bengal,City,8.5775,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+261,Goa Beaches,Goa,Beach,9.0073,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+262,Kovalam Beach,Kerala,Beach,8.394,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+263,Andaman Islands,Andaman & Nicobar,Beach,8.3759,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+264,Radhanagar Beach,Andaman & Nicobar,Beach,8.0976,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+265,Taj Mahal,Uttar Pradesh,Historical,9.3747,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+266,Hampi Ruins,Karnataka,Historical,8.4752,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+267,Ajanta Ellora Caves,Maharashtra,Historical,8.9632,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+268,Khajuraho Temples,Madhya Pradesh,Historical,8.157,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+269,Kerala Backwaters,Kerala,Nature,8.856,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+270,Coorg,Karnataka,Nature,8.5131,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+271,Munnar,Kerala,Nature,8.8441,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+272,Kaziranga,Assam,Nature,7.9564,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+273,Leh Ladakh,Jammu & Kashmir,Adventure,9.1163,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+274,Rishikesh,Uttarakhand,Adventure,8.801,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+275,Manali,Himachal Pradesh,Adventure,8.8018,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+276,Spiti Valley,Himachal Pradesh,Adventure,8.0462,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+277,Jaipur City,Rajasthan,City,9.2199,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+278,Varanasi,Uttar Pradesh,City,8.94,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+279,Mysore,Karnataka,City,8.707,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+280,Kolkata,West Bengal,City,8.4615,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+281,Goa Beaches,Goa,Beach,9.1114,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+282,Kovalam Beach,Kerala,Beach,8.4662,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+283,Andaman Islands,Andaman & Nicobar,Beach,8.8586,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+284,Radhanagar Beach,Andaman & Nicobar,Beach,8.0762,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+285,Taj Mahal,Uttar Pradesh,Historical,9.6133,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+286,Hampi Ruins,Karnataka,Historical,8.4048,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+287,Ajanta Ellora Caves,Maharashtra,Historical,8.7848,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+288,Khajuraho Temples,Madhya Pradesh,Historical,8.3588,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+289,Kerala Backwaters,Kerala,Nature,8.9281,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+290,Coorg,Karnataka,Nature,8.4377,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+291,Munnar,Kerala,Nature,8.6792,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+292,Kaziranga,Assam,Nature,8.0507,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+293,Leh Ladakh,Jammu & Kashmir,Adventure,8.9411,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+294,Rishikesh,Uttarakhand,Adventure,8.885,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+295,Manali,Himachal Pradesh,Adventure,8.9357,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+296,Spiti Valley,Himachal Pradesh,Adventure,7.9307,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+297,Jaipur City,Rajasthan,City,9.29,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+298,Varanasi,Uttar Pradesh,City,9.0307,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+299,Mysore,Karnataka,City,8.7813,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+300,Kolkata,West Bengal,City,8.563,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+301,Goa Beaches,Goa,Beach,9.0171,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+302,Kovalam Beach,Kerala,Beach,8.344,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+303,Andaman Islands,Andaman & Nicobar,Beach,8.7747,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+304,Radhanagar Beach,Andaman & Nicobar,Beach,8.261,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+305,Taj Mahal,Uttar Pradesh,Historical,9.3979,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+306,Hampi Ruins,Karnataka,Historical,8.6117,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+307,Ajanta Ellora Caves,Maharashtra,Historical,8.9278,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+308,Khajuraho Temples,Madhya Pradesh,Historical,8.2408,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+309,Kerala Backwaters,Kerala,Nature,8.9547,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+310,Coorg,Karnataka,Nature,8.4798,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+311,Munnar,Kerala,Nature,8.6782,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+312,Kaziranga,Assam,Nature,8.2099,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+313,Leh Ladakh,Jammu & Kashmir,Adventure,9.0825,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+314,Rishikesh,Uttarakhand,Adventure,8.8814,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+315,Manali,Himachal Pradesh,Adventure,9.0305,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+316,Spiti Valley,Himachal Pradesh,Adventure,8.0021,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+317,Jaipur City,Rajasthan,City,9.2682,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+318,Varanasi,Uttar Pradesh,City,8.969,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+319,Mysore,Karnataka,City,8.7324,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+320,Kolkata,West Bengal,City,8.487,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+321,Goa Beaches,Goa,Beach,9.1097,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+322,Kovalam Beach,Kerala,Beach,8.4595,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+323,Andaman Islands,Andaman & Nicobar,Beach,8.6182,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+324,Radhanagar Beach,Andaman & Nicobar,Beach,8.4092,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+325,Taj Mahal,Uttar Pradesh,Historical,9.2994,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+326,Hampi Ruins,Karnataka,Historical,8.4786,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+327,Ajanta Ellora Caves,Maharashtra,Historical,8.9158,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+328,Khajuraho Temples,Madhya Pradesh,Historical,8.3792,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+329,Kerala Backwaters,Kerala,Nature,8.9624,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+330,Coorg,Karnataka,Nature,8.5628,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+331,Munnar,Kerala,Nature,8.6988,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+332,Kaziranga,Assam,Nature,8.0103,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+333,Leh Ladakh,Jammu & Kashmir,Adventure,9.0076,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+334,Rishikesh,Uttarakhand,Adventure,8.7323,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+335,Manali,Himachal Pradesh,Adventure,8.9975,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+336,Spiti Valley,Himachal Pradesh,Adventure,7.9853,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+337,Jaipur City,Rajasthan,City,9.1175,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+338,Varanasi,Uttar Pradesh,City,8.9679,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+339,Mysore,Karnataka,City,8.7413,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+340,Kolkata,West Bengal,City,8.4436,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+341,Goa Beaches,Goa,Beach,9.0178,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+342,Kovalam Beach,Kerala,Beach,8.4244,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+343,Andaman Islands,Andaman & Nicobar,Beach,8.7245,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+344,Radhanagar Beach,Andaman & Nicobar,Beach,8.1493,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+345,Taj Mahal,Uttar Pradesh,Historical,9.3529,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+346,Hampi Ruins,Karnataka,Historical,8.6232,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+347,Ajanta Ellora Caves,Maharashtra,Historical,8.6552,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+348,Khajuraho Temples,Madhya Pradesh,Historical,8.1593,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+349,Kerala Backwaters,Kerala,Nature,8.8282,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+350,Coorg,Karnataka,Nature,8.4787,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+351,Munnar,Kerala,Nature,8.7311,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+352,Kaziranga,Assam,Nature,8.2475,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+353,Leh Ladakh,Jammu & Kashmir,Adventure,9.0858,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+354,Rishikesh,Uttarakhand,Adventure,8.784,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+355,Manali,Himachal Pradesh,Adventure,8.8981,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+356,Spiti Valley,Himachal Pradesh,Adventure,7.8997,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+357,Jaipur City,Rajasthan,City,9.1981,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+358,Varanasi,Uttar Pradesh,City,8.9711,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+359,Mysore,Karnataka,City,8.7323,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+360,Kolkata,West Bengal,City,8.4173,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+361,Goa Beaches,Goa,Beach,9.1519,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+362,Kovalam Beach,Kerala,Beach,8.5533,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+363,Andaman Islands,Andaman & Nicobar,Beach,8.6891,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+364,Radhanagar Beach,Andaman & Nicobar,Beach,8.2402,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+365,Taj Mahal,Uttar Pradesh,Historical,9.469,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+366,Hampi Ruins,Karnataka,Historical,8.5599,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+367,Ajanta Ellora Caves,Maharashtra,Historical,8.8224,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+368,Khajuraho Temples,Madhya Pradesh,Historical,8.3013,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+369,Kerala Backwaters,Kerala,Nature,8.9098,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+370,Coorg,Karnataka,Nature,8.4227,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+371,Munnar,Kerala,Nature,8.7025,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+372,Kaziranga,Assam,Nature,8.1498,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+373,Leh Ladakh,Jammu & Kashmir,Adventure,9.1451,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+374,Rishikesh,Uttarakhand,Adventure,8.8959,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+375,Manali,Himachal Pradesh,Adventure,9.1153,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+376,Spiti Valley,Himachal Pradesh,Adventure,7.9233,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+377,Jaipur City,Rajasthan,City,9.2872,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+378,Varanasi,Uttar Pradesh,City,9.0183,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+379,Mysore,Karnataka,City,8.919,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+380,Kolkata,West Bengal,City,8.4192,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+381,Goa Beaches,Goa,Beach,9.016,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+382,Kovalam Beach,Kerala,Beach,8.3401,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+383,Andaman Islands,Andaman & Nicobar,Beach,8.4876,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+384,Radhanagar Beach,Andaman & Nicobar,Beach,8.1474,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+385,Taj Mahal,Uttar Pradesh,Historical,9.3241,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+386,Hampi Ruins,Karnataka,Historical,8.615,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+387,Ajanta Ellora Caves,Maharashtra,Historical,8.8342,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+388,Khajuraho Temples,Madhya Pradesh,Historical,8.4876,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+389,Kerala Backwaters,Kerala,Nature,8.995,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+390,Coorg,Karnataka,Nature,8.4423,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+391,Munnar,Kerala,Nature,8.6102,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+392,Kaziranga,Assam,Nature,8.1492,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+393,Leh Ladakh,Jammu & Kashmir,Adventure,8.868,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+394,Rishikesh,Uttarakhand,Adventure,8.9831,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+395,Manali,Himachal Pradesh,Adventure,9.0179,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+396,Spiti Valley,Himachal Pradesh,Adventure,7.9531,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+397,Jaipur City,Rajasthan,City,9.0287,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+398,Varanasi,Uttar Pradesh,City,9.1354,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+399,Mysore,Karnataka,City,8.6885,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+400,Kolkata,West Bengal,City,8.6238,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+401,Goa Beaches,Goa,Beach,8.9406,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+402,Kovalam Beach,Kerala,Beach,8.3401,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+403,Andaman Islands,Andaman & Nicobar,Beach,8.7005,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+404,Radhanagar Beach,Andaman & Nicobar,Beach,8.2047,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+405,Taj Mahal,Uttar Pradesh,Historical,9.355,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+406,Hampi Ruins,Karnataka,Historical,8.6623,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+407,Ajanta Ellora Caves,Maharashtra,Historical,8.6932,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+408,Khajuraho Temples,Madhya Pradesh,Historical,8.2858,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+409,Kerala Backwaters,Kerala,Nature,8.912,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+410,Coorg,Karnataka,Nature,8.5514,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+411,Munnar,Kerala,Nature,8.7712,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+412,Kaziranga,Assam,Nature,7.9875,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+413,Leh Ladakh,Jammu & Kashmir,Adventure,8.8466,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+414,Rishikesh,Uttarakhand,Adventure,8.9278,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+415,Manali,Himachal Pradesh,Adventure,8.9332,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+416,Spiti Valley,Himachal Pradesh,Adventure,7.9252,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+417,Jaipur City,Rajasthan,City,9.3551,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+418,Varanasi,Uttar Pradesh,City,9.0116,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+419,Mysore,Karnataka,City,8.8179,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+420,Kolkata,West Bengal,City,8.5068,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+421,Goa Beaches,Goa,Beach,9.3061,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+422,Kovalam Beach,Kerala,Beach,8.5755,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+423,Andaman Islands,Andaman & Nicobar,Beach,8.6751,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+424,Radhanagar Beach,Andaman & Nicobar,Beach,8.2972,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+425,Taj Mahal,Uttar Pradesh,Historical,9.4645,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+426,Hampi Ruins,Karnataka,Historical,8.7369,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+427,Ajanta Ellora Caves,Maharashtra,Historical,8.7035,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+428,Khajuraho Temples,Madhya Pradesh,Historical,8.3686,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+429,Kerala Backwaters,Kerala,Nature,9.0058,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+430,Coorg,Karnataka,Nature,8.3241,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+431,Munnar,Kerala,Nature,8.5817,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+432,Kaziranga,Assam,Nature,7.8961,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+433,Leh Ladakh,Jammu & Kashmir,Adventure,8.9731,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+434,Rishikesh,Uttarakhand,Adventure,8.8718,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+435,Manali,Himachal Pradesh,Adventure,9.0502,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+436,Spiti Valley,Himachal Pradesh,Adventure,8.0074,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+437,Jaipur City,Rajasthan,City,9.3629,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+438,Varanasi,Uttar Pradesh,City,8.862,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+439,Mysore,Karnataka,City,8.5297,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+440,Kolkata,West Bengal,City,8.4944,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+441,Goa Beaches,Goa,Beach,9.1384,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+442,Kovalam Beach,Kerala,Beach,8.3967,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+443,Andaman Islands,Andaman & Nicobar,Beach,8.4933,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+444,Radhanagar Beach,Andaman & Nicobar,Beach,8.1911,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+445,Taj Mahal,Uttar Pradesh,Historical,9.2696,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+446,Hampi Ruins,Karnataka,Historical,8.667,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+447,Ajanta Ellora Caves,Maharashtra,Historical,8.8367,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+448,Khajuraho Temples,Madhya Pradesh,Historical,8.206,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+449,Kerala Backwaters,Kerala,Nature,8.8486,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+450,Coorg,Karnataka,Nature,8.3941,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+451,Munnar,Kerala,Nature,8.6937,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+452,Kaziranga,Assam,Nature,8.1955,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+453,Leh Ladakh,Jammu & Kashmir,Adventure,8.9014,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+454,Rishikesh,Uttarakhand,Adventure,8.8504,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+455,Manali,Himachal Pradesh,Adventure,8.847,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+456,Spiti Valley,Himachal Pradesh,Adventure,7.9207,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+457,Jaipur City,Rajasthan,City,9.1893,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+458,Varanasi,Uttar Pradesh,City,8.8965,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+459,Mysore,Karnataka,City,8.6446,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+460,Kolkata,West Bengal,City,8.3802,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+461,Goa Beaches,Goa,Beach,9.2965,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+462,Kovalam Beach,Kerala,Beach,8.4035,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+463,Andaman Islands,Andaman & Nicobar,Beach,8.63,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+464,Radhanagar Beach,Andaman & Nicobar,Beach,8.2214,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+465,Taj Mahal,Uttar Pradesh,Historical,9.3888,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+466,Hampi Ruins,Karnataka,Historical,8.5779,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+467,Ajanta Ellora Caves,Maharashtra,Historical,8.8614,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+468,Khajuraho Temples,Madhya Pradesh,Historical,8.3758,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+469,Kerala Backwaters,Kerala,Nature,8.8469,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+470,Coorg,Karnataka,Nature,8.4424,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+471,Munnar,Kerala,Nature,8.6725,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+472,Kaziranga,Assam,Nature,7.8698,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+473,Leh Ladakh,Jammu & Kashmir,Adventure,8.8485,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+474,Rishikesh,Uttarakhand,Adventure,8.9367,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+475,Manali,Himachal Pradesh,Adventure,9.0645,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+476,Spiti Valley,Himachal Pradesh,Adventure,7.9751,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+477,Jaipur City,Rajasthan,City,9.2577,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+478,Varanasi,Uttar Pradesh,City,9.0311,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+479,Mysore,Karnataka,City,9.0079,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+480,Kolkata,West Bengal,City,8.612,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+481,Goa Beaches,Goa,Beach,9.0872,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+482,Kovalam Beach,Kerala,Beach,8.3044,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+483,Andaman Islands,Andaman & Nicobar,Beach,8.5394,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+484,Radhanagar Beach,Andaman & Nicobar,Beach,8.2203,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+485,Taj Mahal,Uttar Pradesh,Historical,9.3244,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+486,Hampi Ruins,Karnataka,Historical,8.4578,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+487,Ajanta Ellora Caves,Maharashtra,Historical,8.7353,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+488,Khajuraho Temples,Madhya Pradesh,Historical,8.1918,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+489,Kerala Backwaters,Kerala,Nature,9.0687,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+490,Coorg,Karnataka,Nature,8.5882,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+491,Munnar,Kerala,Nature,8.6992,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+492,Kaziranga,Assam,Nature,8.248,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+493,Leh Ladakh,Jammu & Kashmir,Adventure,9.0077,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+494,Rishikesh,Uttarakhand,Adventure,8.7139,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+495,Manali,Himachal Pradesh,Adventure,9.0523,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+496,Spiti Valley,Himachal Pradesh,Adventure,8.0539,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+497,Jaipur City,Rajasthan,City,9.0963,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+498,Varanasi,Uttar Pradesh,City,8.981,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+499,Mysore,Karnataka,City,8.6124,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+500,Kolkata,West Bengal,City,8.3617,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+501,Goa Beaches,Goa,Beach,9.1926,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+502,Kovalam Beach,Kerala,Beach,8.5909,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+503,Andaman Islands,Andaman & Nicobar,Beach,8.5601,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+504,Radhanagar Beach,Andaman & Nicobar,Beach,8.2563,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+505,Taj Mahal,Uttar Pradesh,Historical,9.3349,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+506,Hampi Ruins,Karnataka,Historical,8.5513,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+507,Ajanta Ellora Caves,Maharashtra,Historical,8.7408,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+508,Khajuraho Temples,Madhya Pradesh,Historical,8.2136,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+509,Kerala Backwaters,Kerala,Nature,8.9049,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+510,Coorg,Karnataka,Nature,8.4169,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+511,Munnar,Kerala,Nature,8.727,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+512,Kaziranga,Assam,Nature,8.095,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+513,Leh Ladakh,Jammu & Kashmir,Adventure,8.9761,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+514,Rishikesh,Uttarakhand,Adventure,8.7092,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+515,Manali,Himachal Pradesh,Adventure,8.8423,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+516,Spiti Valley,Himachal Pradesh,Adventure,8.0755,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+517,Jaipur City,Rajasthan,City,9.2501,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+518,Varanasi,Uttar Pradesh,City,8.9022,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+519,Mysore,Karnataka,City,8.7099,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+520,Kolkata,West Bengal,City,8.5751,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+521,Goa Beaches,Goa,Beach,8.9331,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+522,Kovalam Beach,Kerala,Beach,8.4543,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+523,Andaman Islands,Andaman & Nicobar,Beach,8.6337,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+524,Radhanagar Beach,Andaman & Nicobar,Beach,8.2571,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+525,Taj Mahal,Uttar Pradesh,Historical,9.3237,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+526,Hampi Ruins,Karnataka,Historical,8.4195,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+527,Ajanta Ellora Caves,Maharashtra,Historical,8.6372,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+528,Khajuraho Temples,Madhya Pradesh,Historical,8.3048,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+529,Kerala Backwaters,Kerala,Nature,8.926,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+530,Coorg,Karnataka,Nature,8.4096,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+531,Munnar,Kerala,Nature,8.7639,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+532,Kaziranga,Assam,Nature,7.9338,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+533,Leh Ladakh,Jammu & Kashmir,Adventure,8.9934,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+534,Rishikesh,Uttarakhand,Adventure,8.6789,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+535,Manali,Himachal Pradesh,Adventure,8.8348,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+536,Spiti Valley,Himachal Pradesh,Adventure,8.0047,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+537,Jaipur City,Rajasthan,City,9.114,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+538,Varanasi,Uttar Pradesh,City,8.9615,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+539,Mysore,Karnataka,City,8.8006,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+540,Kolkata,West Bengal,City,8.4423,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+541,Goa Beaches,Goa,Beach,9.1836,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+542,Kovalam Beach,Kerala,Beach,8.287,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+543,Andaman Islands,Andaman & Nicobar,Beach,8.753,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+544,Radhanagar Beach,Andaman & Nicobar,Beach,8.3442,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+545,Taj Mahal,Uttar Pradesh,Historical,9.1528,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+546,Hampi Ruins,Karnataka,Historical,8.5203,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+547,Ajanta Ellora Caves,Maharashtra,Historical,8.8577,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+548,Khajuraho Temples,Madhya Pradesh,Historical,8.2797,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+549,Kerala Backwaters,Kerala,Nature,8.9371,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+550,Coorg,Karnataka,Nature,8.4396,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+551,Munnar,Kerala,Nature,8.7087,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+552,Kaziranga,Assam,Nature,8.0844,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+553,Leh Ladakh,Jammu & Kashmir,Adventure,9.1168,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+554,Rishikesh,Uttarakhand,Adventure,8.8254,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+555,Manali,Himachal Pradesh,Adventure,8.9338,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+556,Spiti Valley,Himachal Pradesh,Adventure,7.9588,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+557,Jaipur City,Rajasthan,City,9.1512,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+558,Varanasi,Uttar Pradesh,City,8.9567,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+559,Mysore,Karnataka,City,8.7394,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+560,Kolkata,West Bengal,City,8.4579,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+561,Goa Beaches,Goa,Beach,9.129,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+562,Kovalam Beach,Kerala,Beach,8.6075,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+563,Andaman Islands,Andaman & Nicobar,Beach,8.7871,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+564,Radhanagar Beach,Andaman & Nicobar,Beach,8.1674,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+565,Taj Mahal,Uttar Pradesh,Historical,9.5201,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+566,Hampi Ruins,Karnataka,Historical,8.5592,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+567,Ajanta Ellora Caves,Maharashtra,Historical,8.5962,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+568,Khajuraho Temples,Madhya Pradesh,Historical,8.1992,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+569,Kerala Backwaters,Kerala,Nature,8.7129,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+570,Coorg,Karnataka,Nature,8.4648,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+571,Munnar,Kerala,Nature,8.7018,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+572,Kaziranga,Assam,Nature,8.2676,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+573,Leh Ladakh,Jammu & Kashmir,Adventure,9.0327,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+574,Rishikesh,Uttarakhand,Adventure,8.7781,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+575,Manali,Himachal Pradesh,Adventure,8.9829,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+576,Spiti Valley,Himachal Pradesh,Adventure,7.7789,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+577,Jaipur City,Rajasthan,City,9.2236,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+578,Varanasi,Uttar Pradesh,City,9.0771,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+579,Mysore,Karnataka,City,8.5521,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+580,Kolkata,West Bengal,City,8.6144,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+581,Goa Beaches,Goa,Beach,9.1338,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+582,Kovalam Beach,Kerala,Beach,8.3585,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+583,Andaman Islands,Andaman & Nicobar,Beach,8.7633,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+584,Radhanagar Beach,Andaman & Nicobar,Beach,8.4271,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+585,Taj Mahal,Uttar Pradesh,Historical,9.4182,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+586,Hampi Ruins,Karnataka,Historical,8.6248,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+587,Ajanta Ellora Caves,Maharashtra,Historical,8.7541,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+588,Khajuraho Temples,Madhya Pradesh,Historical,8.215,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+589,Kerala Backwaters,Kerala,Nature,8.983,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+590,Coorg,Karnataka,Nature,8.4144,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+591,Munnar,Kerala,Nature,8.7072,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+592,Kaziranga,Assam,Nature,8.0522,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+593,Leh Ladakh,Jammu & Kashmir,Adventure,9.0479,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+594,Rishikesh,Uttarakhand,Adventure,8.8334,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+595,Manali,Himachal Pradesh,Adventure,9.0038,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+596,Spiti Valley,Himachal Pradesh,Adventure,7.949,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+597,Jaipur City,Rajasthan,City,9.173,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+598,Varanasi,Uttar Pradesh,City,8.9021,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+599,Mysore,Karnataka,City,8.6556,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+600,Kolkata,West Bengal,City,8.5377,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+601,Goa Beaches,Goa,Beach,9.1757,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+602,Kovalam Beach,Kerala,Beach,8.3078,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+603,Andaman Islands,Andaman & Nicobar,Beach,8.787,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+604,Radhanagar Beach,Andaman & Nicobar,Beach,8.3356,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+605,Taj Mahal,Uttar Pradesh,Historical,9.4413,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+606,Hampi Ruins,Karnataka,Historical,8.7877,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+607,Ajanta Ellora Caves,Maharashtra,Historical,8.7226,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+608,Khajuraho Temples,Madhya Pradesh,Historical,8.1755,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+609,Kerala Backwaters,Kerala,Nature,8.7221,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+610,Coorg,Karnataka,Nature,8.6496,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+611,Munnar,Kerala,Nature,8.7654,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+612,Kaziranga,Assam,Nature,8.0944,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+613,Leh Ladakh,Jammu & Kashmir,Adventure,9.028,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+614,Rishikesh,Uttarakhand,Adventure,8.6875,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+615,Manali,Himachal Pradesh,Adventure,9.1446,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+616,Spiti Valley,Himachal Pradesh,Adventure,8.0129,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+617,Jaipur City,Rajasthan,City,9.2109,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+618,Varanasi,Uttar Pradesh,City,9.0726,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+619,Mysore,Karnataka,City,8.7481,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+620,Kolkata,West Bengal,City,8.5224,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+621,Goa Beaches,Goa,Beach,9.021,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+622,Kovalam Beach,Kerala,Beach,8.4471,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+623,Andaman Islands,Andaman & Nicobar,Beach,8.8882,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+624,Radhanagar Beach,Andaman & Nicobar,Beach,8.3345,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+625,Taj Mahal,Uttar Pradesh,Historical,9.5593,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+626,Hampi Ruins,Karnataka,Historical,8.5489,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+627,Ajanta Ellora Caves,Maharashtra,Historical,8.701,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+628,Khajuraho Temples,Madhya Pradesh,Historical,8.2874,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+629,Kerala Backwaters,Kerala,Nature,8.9056,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+630,Coorg,Karnataka,Nature,8.6094,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+631,Munnar,Kerala,Nature,8.5308,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+632,Kaziranga,Assam,Nature,8.253,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+633,Leh Ladakh,Jammu & Kashmir,Adventure,8.9842,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+634,Rishikesh,Uttarakhand,Adventure,8.7573,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+635,Manali,Himachal Pradesh,Adventure,8.7988,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+636,Spiti Valley,Himachal Pradesh,Adventure,7.8345,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+637,Jaipur City,Rajasthan,City,9.2823,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+638,Varanasi,Uttar Pradesh,City,9.0073,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+639,Mysore,Karnataka,City,8.571,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+640,Kolkata,West Bengal,City,8.3705,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+641,Goa Beaches,Goa,Beach,9.0664,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+642,Kovalam Beach,Kerala,Beach,8.5669,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+643,Andaman Islands,Andaman & Nicobar,Beach,8.674,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+644,Radhanagar Beach,Andaman & Nicobar,Beach,8.0497,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+645,Taj Mahal,Uttar Pradesh,Historical,9.3754,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+646,Hampi Ruins,Karnataka,Historical,8.5727,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+647,Ajanta Ellora Caves,Maharashtra,Historical,8.5303,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+648,Khajuraho Temples,Madhya Pradesh,Historical,8.2946,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+649,Kerala Backwaters,Kerala,Nature,8.8769,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+650,Coorg,Karnataka,Nature,8.5696,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+651,Munnar,Kerala,Nature,8.8849,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+652,Kaziranga,Assam,Nature,8.2127,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+653,Leh Ladakh,Jammu & Kashmir,Adventure,8.9731,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+654,Rishikesh,Uttarakhand,Adventure,8.6893,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+655,Manali,Himachal Pradesh,Adventure,9.1573,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+656,Spiti Valley,Himachal Pradesh,Adventure,8.0059,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+657,Jaipur City,Rajasthan,City,9.2014,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+658,Varanasi,Uttar Pradesh,City,8.9976,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+659,Mysore,Karnataka,City,8.7198,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+660,Kolkata,West Bengal,City,8.4856,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+661,Goa Beaches,Goa,Beach,9.0426,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+662,Kovalam Beach,Kerala,Beach,8.3453,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+663,Andaman Islands,Andaman & Nicobar,Beach,8.6967,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+664,Radhanagar Beach,Andaman & Nicobar,Beach,8.1457,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+665,Taj Mahal,Uttar Pradesh,Historical,9.3287,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+666,Hampi Ruins,Karnataka,Historical,8.6106,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+667,Ajanta Ellora Caves,Maharashtra,Historical,8.7745,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+668,Khajuraho Temples,Madhya Pradesh,Historical,8.4504,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+669,Kerala Backwaters,Kerala,Nature,8.6349,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+670,Coorg,Karnataka,Nature,8.6092,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+671,Munnar,Kerala,Nature,8.8246,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+672,Kaziranga,Assam,Nature,7.8927,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+673,Leh Ladakh,Jammu & Kashmir,Adventure,8.9657,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+674,Rishikesh,Uttarakhand,Adventure,8.7629,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+675,Manali,Himachal Pradesh,Adventure,8.7592,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+676,Spiti Valley,Himachal Pradesh,Adventure,7.9222,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+677,Jaipur City,Rajasthan,City,9.0889,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+678,Varanasi,Uttar Pradesh,City,9.1752,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+679,Mysore,Karnataka,City,8.7936,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+680,Kolkata,West Bengal,City,8.6272,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+681,Goa Beaches,Goa,Beach,9.1722,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+682,Kovalam Beach,Kerala,Beach,8.2871,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+683,Andaman Islands,Andaman & Nicobar,Beach,8.6475,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+684,Radhanagar Beach,Andaman & Nicobar,Beach,8.2489,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+685,Taj Mahal,Uttar Pradesh,Historical,9.2778,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+686,Hampi Ruins,Karnataka,Historical,8.6713,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+687,Ajanta Ellora Caves,Maharashtra,Historical,8.776,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+688,Khajuraho Temples,Madhya Pradesh,Historical,8.2625,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+689,Kerala Backwaters,Kerala,Nature,8.9711,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+690,Coorg,Karnataka,Nature,8.5444,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+691,Munnar,Kerala,Nature,8.6639,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+692,Kaziranga,Assam,Nature,8.2159,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+693,Leh Ladakh,Jammu & Kashmir,Adventure,8.8919,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+694,Rishikesh,Uttarakhand,Adventure,8.8616,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+695,Manali,Himachal Pradesh,Adventure,8.9593,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+696,Spiti Valley,Himachal Pradesh,Adventure,7.969,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+697,Jaipur City,Rajasthan,City,9.2326,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+698,Varanasi,Uttar Pradesh,City,8.8749,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+699,Mysore,Karnataka,City,8.7924,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+700,Kolkata,West Bengal,City,8.4815,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+701,Goa Beaches,Goa,Beach,9.0477,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+702,Kovalam Beach,Kerala,Beach,8.5049,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+703,Andaman Islands,Andaman & Nicobar,Beach,8.6296,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+704,Radhanagar Beach,Andaman & Nicobar,Beach,8.0592,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+705,Taj Mahal,Uttar Pradesh,Historical,9.2443,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+706,Hampi Ruins,Karnataka,Historical,8.6606,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+707,Ajanta Ellora Caves,Maharashtra,Historical,8.672,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+708,Khajuraho Temples,Madhya Pradesh,Historical,8.4755,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+709,Kerala Backwaters,Kerala,Nature,8.6918,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+710,Coorg,Karnataka,Nature,8.6696,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+711,Munnar,Kerala,Nature,8.7211,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+712,Kaziranga,Assam,Nature,8.0903,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+713,Leh Ladakh,Jammu & Kashmir,Adventure,8.9455,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+714,Rishikesh,Uttarakhand,Adventure,8.8399,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+715,Manali,Himachal Pradesh,Adventure,8.8962,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+716,Spiti Valley,Himachal Pradesh,Adventure,8.1103,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+717,Jaipur City,Rajasthan,City,9.2114,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+718,Varanasi,Uttar Pradesh,City,9.015,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+719,Mysore,Karnataka,City,8.6636,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+720,Kolkata,West Bengal,City,8.4943,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+721,Goa Beaches,Goa,Beach,9.1308,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+722,Kovalam Beach,Kerala,Beach,8.229,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+723,Andaman Islands,Andaman & Nicobar,Beach,8.5652,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+724,Radhanagar Beach,Andaman & Nicobar,Beach,8.2743,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+725,Taj Mahal,Uttar Pradesh,Historical,9.4171,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+726,Hampi Ruins,Karnataka,Historical,8.5816,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+727,Ajanta Ellora Caves,Maharashtra,Historical,8.8018,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+728,Khajuraho Temples,Madhya Pradesh,Historical,8.3348,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+729,Kerala Backwaters,Kerala,Nature,8.846,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+730,Coorg,Karnataka,Nature,8.4222,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+731,Munnar,Kerala,Nature,8.7196,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+732,Kaziranga,Assam,Nature,8.0022,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+733,Leh Ladakh,Jammu & Kashmir,Adventure,9.0408,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+734,Rishikesh,Uttarakhand,Adventure,8.6297,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+735,Manali,Himachal Pradesh,Adventure,9.0029,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+736,Spiti Valley,Himachal Pradesh,Adventure,8.0473,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+737,Jaipur City,Rajasthan,City,9.2256,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+738,Varanasi,Uttar Pradesh,City,9.0983,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+739,Mysore,Karnataka,City,8.8665,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+740,Kolkata,West Bengal,City,8.6014,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+741,Goa Beaches,Goa,Beach,8.9159,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+742,Kovalam Beach,Kerala,Beach,8.272,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+743,Andaman Islands,Andaman & Nicobar,Beach,8.6375,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+744,Radhanagar Beach,Andaman & Nicobar,Beach,8.2026,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+745,Taj Mahal,Uttar Pradesh,Historical,9.4518,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+746,Hampi Ruins,Karnataka,Historical,8.5274,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+747,Ajanta Ellora Caves,Maharashtra,Historical,8.8187,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+748,Khajuraho Temples,Madhya Pradesh,Historical,8.2245,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+749,Kerala Backwaters,Kerala,Nature,8.8388,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+750,Coorg,Karnataka,Nature,8.3593,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+751,Munnar,Kerala,Nature,8.6077,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+752,Kaziranga,Assam,Nature,7.9648,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+753,Leh Ladakh,Jammu & Kashmir,Adventure,8.9024,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+754,Rishikesh,Uttarakhand,Adventure,8.9054,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+755,Manali,Himachal Pradesh,Adventure,8.8051,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+756,Spiti Valley,Himachal Pradesh,Adventure,8.2632,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+757,Jaipur City,Rajasthan,City,9.2493,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+758,Varanasi,Uttar Pradesh,City,9.0185,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+759,Mysore,Karnataka,City,8.6142,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+760,Kolkata,West Bengal,City,8.57,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+761,Goa Beaches,Goa,Beach,9.0424,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+762,Kovalam Beach,Kerala,Beach,8.4122,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+763,Andaman Islands,Andaman & Nicobar,Beach,8.956,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+764,Radhanagar Beach,Andaman & Nicobar,Beach,8.1904,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+765,Taj Mahal,Uttar Pradesh,Historical,9.5149,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+766,Hampi Ruins,Karnataka,Historical,8.5297,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+767,Ajanta Ellora Caves,Maharashtra,Historical,8.7965,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+768,Khajuraho Temples,Madhya Pradesh,Historical,8.4771,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+769,Kerala Backwaters,Kerala,Nature,8.8373,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+770,Coorg,Karnataka,Nature,8.6812,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+771,Munnar,Kerala,Nature,8.7708,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+772,Kaziranga,Assam,Nature,8.0438,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+773,Leh Ladakh,Jammu & Kashmir,Adventure,9.0632,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+774,Rishikesh,Uttarakhand,Adventure,8.8973,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+775,Manali,Himachal Pradesh,Adventure,8.9622,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+776,Spiti Valley,Himachal Pradesh,Adventure,7.843,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+777,Jaipur City,Rajasthan,City,9.1273,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+778,Varanasi,Uttar Pradesh,City,8.9752,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+779,Mysore,Karnataka,City,8.6926,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+780,Kolkata,West Bengal,City,8.5621,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+781,Goa Beaches,Goa,Beach,9.1178,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+782,Kovalam Beach,Kerala,Beach,8.2665,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+783,Andaman Islands,Andaman & Nicobar,Beach,8.738,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+784,Radhanagar Beach,Andaman & Nicobar,Beach,8.2611,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+785,Taj Mahal,Uttar Pradesh,Historical,9.456,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+786,Hampi Ruins,Karnataka,Historical,8.7081,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+787,Ajanta Ellora Caves,Maharashtra,Historical,8.8834,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+788,Khajuraho Temples,Madhya Pradesh,Historical,8.3459,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+789,Kerala Backwaters,Kerala,Nature,8.893,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+790,Coorg,Karnataka,Nature,8.3339,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+791,Munnar,Kerala,Nature,8.743,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+792,Kaziranga,Assam,Nature,8.1208,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+793,Leh Ladakh,Jammu & Kashmir,Adventure,9.0272,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+794,Rishikesh,Uttarakhand,Adventure,8.6723,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+795,Manali,Himachal Pradesh,Adventure,8.7919,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+796,Spiti Valley,Himachal Pradesh,Adventure,8.1053,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+797,Jaipur City,Rajasthan,City,9.196,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+798,Varanasi,Uttar Pradesh,City,9.0682,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+799,Mysore,Karnataka,City,8.7028,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+800,Kolkata,West Bengal,City,8.503,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+801,Goa Beaches,Goa,Beach,9.1938,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+802,Kovalam Beach,Kerala,Beach,8.3484,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+803,Andaman Islands,Andaman & Nicobar,Beach,8.7096,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+804,Radhanagar Beach,Andaman & Nicobar,Beach,8.1538,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+805,Taj Mahal,Uttar Pradesh,Historical,9.3566,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+806,Hampi Ruins,Karnataka,Historical,8.5691,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+807,Ajanta Ellora Caves,Maharashtra,Historical,8.8222,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+808,Khajuraho Temples,Madhya Pradesh,Historical,8.2521,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+809,Kerala Backwaters,Kerala,Nature,9.0256,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+810,Coorg,Karnataka,Nature,8.4105,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+811,Munnar,Kerala,Nature,8.6813,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+812,Kaziranga,Assam,Nature,8.056,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+813,Leh Ladakh,Jammu & Kashmir,Adventure,9.1447,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+814,Rishikesh,Uttarakhand,Adventure,8.8197,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+815,Manali,Himachal Pradesh,Adventure,9.0032,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+816,Spiti Valley,Himachal Pradesh,Adventure,7.8514,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+817,Jaipur City,Rajasthan,City,9.2267,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+818,Varanasi,Uttar Pradesh,City,9.089,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+819,Mysore,Karnataka,City,8.7082,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+820,Kolkata,West Bengal,City,8.6065,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+821,Goa Beaches,Goa,Beach,9.0483,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+822,Kovalam Beach,Kerala,Beach,8.5409,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+823,Andaman Islands,Andaman & Nicobar,Beach,8.9299,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+824,Radhanagar Beach,Andaman & Nicobar,Beach,8.1637,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+825,Taj Mahal,Uttar Pradesh,Historical,9.3554,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+826,Hampi Ruins,Karnataka,Historical,8.7453,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+827,Ajanta Ellora Caves,Maharashtra,Historical,8.958,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+828,Khajuraho Temples,Madhya Pradesh,Historical,8.2477,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+829,Kerala Backwaters,Kerala,Nature,8.858,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+830,Coorg,Karnataka,Nature,8.4718,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+831,Munnar,Kerala,Nature,8.5656,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+832,Kaziranga,Assam,Nature,8.0081,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+833,Leh Ladakh,Jammu & Kashmir,Adventure,8.8996,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+834,Rishikesh,Uttarakhand,Adventure,8.7232,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+835,Manali,Himachal Pradesh,Adventure,8.8965,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+836,Spiti Valley,Himachal Pradesh,Adventure,8.0234,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+837,Jaipur City,Rajasthan,City,9.3551,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+838,Varanasi,Uttar Pradesh,City,8.9002,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+839,Mysore,Karnataka,City,8.7984,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+840,Kolkata,West Bengal,City,8.4786,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+841,Goa Beaches,Goa,Beach,9.0951,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+842,Kovalam Beach,Kerala,Beach,8.4675,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+843,Andaman Islands,Andaman & Nicobar,Beach,8.5877,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+844,Radhanagar Beach,Andaman & Nicobar,Beach,8.2382,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+845,Taj Mahal,Uttar Pradesh,Historical,9.4166,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+846,Hampi Ruins,Karnataka,Historical,8.6492,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+847,Ajanta Ellora Caves,Maharashtra,Historical,8.8289,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+848,Khajuraho Temples,Madhya Pradesh,Historical,8.5455,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+849,Kerala Backwaters,Kerala,Nature,8.8362,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+850,Coorg,Karnataka,Nature,8.4469,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+851,Munnar,Kerala,Nature,8.6377,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+852,Kaziranga,Assam,Nature,8.0445,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+853,Leh Ladakh,Jammu & Kashmir,Adventure,8.9363,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+854,Rishikesh,Uttarakhand,Adventure,8.9189,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+855,Manali,Himachal Pradesh,Adventure,9.0421,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+856,Spiti Valley,Himachal Pradesh,Adventure,7.9429,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+857,Jaipur City,Rajasthan,City,9.1168,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+858,Varanasi,Uttar Pradesh,City,9.0471,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+859,Mysore,Karnataka,City,8.6448,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+860,Kolkata,West Bengal,City,8.5633,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+861,Goa Beaches,Goa,Beach,9.1203,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+862,Kovalam Beach,Kerala,Beach,8.2484,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+863,Andaman Islands,Andaman & Nicobar,Beach,8.8548,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+864,Radhanagar Beach,Andaman & Nicobar,Beach,8.3796,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+865,Taj Mahal,Uttar Pradesh,Historical,9.3387,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+866,Hampi Ruins,Karnataka,Historical,8.5612,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+867,Ajanta Ellora Caves,Maharashtra,Historical,8.8286,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+868,Khajuraho Temples,Madhya Pradesh,Historical,8.3334,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+869,Kerala Backwaters,Kerala,Nature,8.9659,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+870,Coorg,Karnataka,Nature,8.701,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+871,Munnar,Kerala,Nature,8.6823,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+872,Kaziranga,Assam,Nature,8.0202,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+873,Leh Ladakh,Jammu & Kashmir,Adventure,8.8621,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+874,Rishikesh,Uttarakhand,Adventure,8.7269,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+875,Manali,Himachal Pradesh,Adventure,8.8967,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+876,Spiti Valley,Himachal Pradesh,Adventure,8.1795,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+877,Jaipur City,Rajasthan,City,9.1482,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+878,Varanasi,Uttar Pradesh,City,9.0224,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+879,Mysore,Karnataka,City,8.6984,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+880,Kolkata,West Bengal,City,8.6188,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+881,Goa Beaches,Goa,Beach,9.3527,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+882,Kovalam Beach,Kerala,Beach,8.3469,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+883,Andaman Islands,Andaman & Nicobar,Beach,8.6511,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+884,Radhanagar Beach,Andaman & Nicobar,Beach,8.3044,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+885,Taj Mahal,Uttar Pradesh,Historical,9.4682,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+886,Hampi Ruins,Karnataka,Historical,8.7847,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+887,Ajanta Ellora Caves,Maharashtra,Historical,8.8584,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+888,Khajuraho Temples,Madhya Pradesh,Historical,8.2641,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+889,Kerala Backwaters,Kerala,Nature,8.9591,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+890,Coorg,Karnataka,Nature,8.6109,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+891,Munnar,Kerala,Nature,8.782,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+892,Kaziranga,Assam,Nature,8.1507,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+893,Leh Ladakh,Jammu & Kashmir,Adventure,9.1067,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+894,Rishikesh,Uttarakhand,Adventure,8.9169,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+895,Manali,Himachal Pradesh,Adventure,9.0382,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+896,Spiti Valley,Himachal Pradesh,Adventure,8.0649,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+897,Jaipur City,Rajasthan,City,9.1833,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+898,Varanasi,Uttar Pradesh,City,9.0147,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+899,Mysore,Karnataka,City,8.8207,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+900,Kolkata,West Bengal,City,8.4183,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+901,Goa Beaches,Goa,Beach,9.1369,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+902,Kovalam Beach,Kerala,Beach,8.3607,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+903,Andaman Islands,Andaman & Nicobar,Beach,8.7029,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+904,Radhanagar Beach,Andaman & Nicobar,Beach,8.3278,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+905,Taj Mahal,Uttar Pradesh,Historical,9.4191,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+906,Hampi Ruins,Karnataka,Historical,8.6046,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+907,Ajanta Ellora Caves,Maharashtra,Historical,8.664,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+908,Khajuraho Temples,Madhya Pradesh,Historical,8.3746,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+909,Kerala Backwaters,Kerala,Nature,8.9645,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+910,Coorg,Karnataka,Nature,8.7163,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+911,Munnar,Kerala,Nature,8.6692,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+912,Kaziranga,Assam,Nature,8.1219,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+913,Leh Ladakh,Jammu & Kashmir,Adventure,9.0249,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+914,Rishikesh,Uttarakhand,Adventure,8.9577,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+915,Manali,Himachal Pradesh,Adventure,8.8905,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+916,Spiti Valley,Himachal Pradesh,Adventure,8.0279,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+917,Jaipur City,Rajasthan,City,9.2608,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+918,Varanasi,Uttar Pradesh,City,9.0187,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+919,Mysore,Karnataka,City,8.6554,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+920,Kolkata,West Bengal,City,8.5194,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+921,Goa Beaches,Goa,Beach,9.2074,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+922,Kovalam Beach,Kerala,Beach,8.2973,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+923,Andaman Islands,Andaman & Nicobar,Beach,8.7133,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+924,Radhanagar Beach,Andaman & Nicobar,Beach,8.13,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+925,Taj Mahal,Uttar Pradesh,Historical,9.5195,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+926,Hampi Ruins,Karnataka,Historical,8.4477,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+927,Ajanta Ellora Caves,Maharashtra,Historical,8.7441,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+928,Khajuraho Temples,Madhya Pradesh,Historical,8.3377,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+929,Kerala Backwaters,Kerala,Nature,9.0566,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+930,Coorg,Karnataka,Nature,8.4934,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+931,Munnar,Kerala,Nature,8.6445,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+932,Kaziranga,Assam,Nature,8.2881,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+933,Leh Ladakh,Jammu & Kashmir,Adventure,8.8552,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+934,Rishikesh,Uttarakhand,Adventure,8.5801,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+935,Manali,Himachal Pradesh,Adventure,8.944,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+936,Spiti Valley,Himachal Pradesh,Adventure,7.9498,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+937,Jaipur City,Rajasthan,City,9.0979,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+938,Varanasi,Uttar Pradesh,City,9.0708,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+939,Mysore,Karnataka,City,8.7244,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+940,Kolkata,West Bengal,City,8.4436,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+941,Goa Beaches,Goa,Beach,8.972,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+942,Kovalam Beach,Kerala,Beach,8.4872,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+943,Andaman Islands,Andaman & Nicobar,Beach,8.765,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+944,Radhanagar Beach,Andaman & Nicobar,Beach,8.1901,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+945,Taj Mahal,Uttar Pradesh,Historical,9.5847,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+946,Hampi Ruins,Karnataka,Historical,8.493,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+947,Ajanta Ellora Caves,Maharashtra,Historical,8.6474,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+948,Khajuraho Temples,Madhya Pradesh,Historical,8.2308,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+949,Kerala Backwaters,Kerala,Nature,8.8954,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+950,Coorg,Karnataka,Nature,8.5243,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+951,Munnar,Kerala,Nature,8.6759,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+952,Kaziranga,Assam,Nature,8.1352,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+953,Leh Ladakh,Jammu & Kashmir,Adventure,8.8748,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+954,Rishikesh,Uttarakhand,Adventure,8.9444,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+955,Manali,Himachal Pradesh,Adventure,8.8918,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+956,Spiti Valley,Himachal Pradesh,Adventure,8.1117,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+957,Jaipur City,Rajasthan,City,9.2343,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+958,Varanasi,Uttar Pradesh,City,9.0457,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+959,Mysore,Karnataka,City,8.757,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+960,Kolkata,West Bengal,City,8.5448,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+961,Goa Beaches,Goa,Beach,9.1643,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+962,Kovalam Beach,Kerala,Beach,8.5329,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+963,Andaman Islands,Andaman & Nicobar,Beach,8.7197,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+964,Radhanagar Beach,Andaman & Nicobar,Beach,8.2709,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+965,Taj Mahal,Uttar Pradesh,Historical,9.391,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+966,Hampi Ruins,Karnataka,Historical,8.744,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+967,Ajanta Ellora Caves,Maharashtra,Historical,8.7324,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+968,Khajuraho Temples,Madhya Pradesh,Historical,8.4801,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+969,Kerala Backwaters,Kerala,Nature,8.896,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+970,Coorg,Karnataka,Nature,8.3569,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+971,Munnar,Kerala,Nature,8.7128,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+972,Kaziranga,Assam,Nature,8.0319,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+973,Leh Ladakh,Jammu & Kashmir,Adventure,9.0841,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+974,Rishikesh,Uttarakhand,Adventure,8.7347,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+975,Manali,Himachal Pradesh,Adventure,8.8554,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+976,Spiti Valley,Himachal Pradesh,Adventure,7.811,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+977,Jaipur City,Rajasthan,City,9.1548,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+978,Varanasi,Uttar Pradesh,City,8.7576,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+979,Mysore,Karnataka,City,8.5416,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+980,Kolkata,West Bengal,City,8.576,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"
+981,Goa Beaches,Goa,Beach,9.1786,Nov-Mar,15.2993,74.124,Pristine beaches with vibrant nightlife and Portuguese heritage
+982,Kovalam Beach,Kerala,Beach,8.4425,Oct-Mar,8.4004,76.9787,Crescent-shaped beaches with lighthouse and Ayurvedic resorts
+983,Andaman Islands,Andaman & Nicobar,Beach,8.6033,Oct-Apr,11.7401,92.6586,"Crystal-clear waters, coral reefs and exotic marine life"
+984,Radhanagar Beach,Andaman & Nicobar,Beach,8.1952,Oct-Feb,11.981,92.97,Asia's best beach with dense forest backdrop
+985,Taj Mahal,Uttar Pradesh,Historical,9.3996,Oct-Mar,27.1751,78.0421,"Iconic Mughal marble mausoleum, a UNESCO World Heritage Site"
+986,Hampi Ruins,Karnataka,Historical,8.4842,Oct-Mar,15.335,76.46,Ancient Vijayanagara Empire ruins set among boulder-strewn landscape
+987,Ajanta Ellora Caves,Maharashtra,Historical,8.9503,Oct-Mar,20.5519,75.7033,"World-famous rock-cut Buddhist, Jain and Hindu cave monuments"
+988,Khajuraho Temples,Madhya Pradesh,Historical,8.3877,Oct-Mar,24.8318,79.9199,"Medieval temples with intricate erotic sculptures, UNESCO listed"
+989,Kerala Backwaters,Kerala,Nature,8.8779,Sep-Feb,9.4981,76.3388,"Serene network of canals, lagoons and lakes through lush greenery"
+990,Coorg,Karnataka,Nature,8.5027,Oct-Mar,12.3375,75.8069,"Scotland of India with coffee plantations, waterfalls and forests"
+991,Munnar,Kerala,Nature,8.7208,Sep-Feb,10.0889,77.0595,Rolling tea gardens and misty mountains at 1600m altitude
+992,Kaziranga,Assam,Nature,7.8958,Nov-Apr,26.678,93.369,UNESCO sanctuary housing 2/3 of world's one-horned rhinoceroses
+993,Leh Ladakh,Jammu & Kashmir,Adventure,8.9753,May-Sep,34.1526,77.5771,"High-altitude desert with monasteries, passes and starry skies"
+994,Rishikesh,Uttarakhand,Adventure,8.7318,Feb-Nov,30.0869,78.2676,Yoga capital of the world and white-water rafting on the Ganges
+995,Manali,Himachal Pradesh,Adventure,8.7998,Mar-Oct,32.2432,77.1892,"Gateway to Rohtang Pass with skiing, trekking and river sports"
+996,Spiti Valley,Himachal Pradesh,Adventure,7.9719,May-Sep,32.2461,78.0335,Cold desert mountain valley between India and Tibet
+997,Jaipur City,Rajasthan,City,9.3798,Oct-Mar,26.9124,75.7873,"Pink City with grand forts, palaces and vibrant bazaars"
+998,Varanasi,Uttar Pradesh,City,9.0641,Oct-Mar,25.3176,82.9739,"Oldest living city on earth, spiritual capital on the Ganges"
+999,Mysore,Karnataka,City,8.6429,Sep-Feb,12.2958,76.6394,City of palaces with grand Dasara celebrations and sandalwood
+1000,Kolkata,West Bengal,City,8.5573,Oct-Mar,22.5726,88.3639,"Cultural capital with colonial architecture, art and street food"

@@ -1,0 +1,48 @@
+{
+  "kmeans": {
+    "n_clusters": 4,
+    "inertia": 44540.1161
+  },
+  "knn": {
+    "best_k": 11,
+    "MAE": 0.6821,
+    "RMSE": 0.8688,
+    "R2": -0.3482
+  },
+  "decision_tree": {
+    "best_depth": 4,
+    "Accuracy": 0.6333,
+    "Precision": 0.8656,
+    "Recall": 0.6688,
+    "F1": 0.7546
+  },
+  "random_forest": {
+    "best_n_estimators": 200,
+    "Accuracy": 0.6008,
+    "Precision": 0.8581,
+    "Recall": 0.6307,
+    "F1": 0.7271
+  },
+  "naive_bayes": {
+    "best_alpha": 0.1,
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0
+  },
+  "linear_regression": {
+    "MAE": 1030.0958,
+    "RMSE": 1324.4409,
+    "R2": 0.9544
+  },
+  "svd_cf": {
+    "n_components": 15,
+    "explained_variance_ratio": 0.7731,
+    "n_users": 4562,
+    "n_destinations": 20
+  },
+  "tfidf_similarity": {
+    "n_destinations": 20,
+    "vocab_size": 385
+  }
+}

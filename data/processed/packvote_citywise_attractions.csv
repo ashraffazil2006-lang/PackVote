@@ -1,0 +1,496 @@
+City,City_Normalized,Attraction,Characteristics,Latitude,Longitude
+ajanta_ellora_caves,ajantaelloracaves,Ajanta Cave 1,"adventure, photography",20.59304,75.700648
+ajanta_ellora_caves,ajantaelloracaves,Ajanta Cave 2,"cultural, adventure, beach",20.563502,75.784627
+ajanta_ellora_caves,ajantaelloracaves,Ajanta Cave 16,"heritage, beach",20.610472,75.661433
+ajanta_ellora_caves,ajantaelloracaves,Ajanta Cave 17,"beach, heritage",20.621673,75.758376
+ajanta_ellora_caves,ajantaelloracaves,Ellora Cave 16 Kailash,"nature, adventure, scenic",20.611675,75.67828
+ajanta_ellora_caves,ajantaelloracaves,Ellora Jain Caves,"adventure, family",20.560362,75.687635
+ajanta_ellora_caves,ajantaelloracaves,Aurangabad Caves,"adventure, beach",20.556741,75.773371
+ajanta_ellora_caves,ajantaelloracaves,Bibi Ka Maqbara,"trekking, scenic, cultural",20.557502,75.634503
+ajanta_ellora_caves,ajantaelloracaves,Daulatabad Fort,"photography, beach",20.536976,75.677119
+ajanta_ellora_caves,ajantaelloracaves,Panchakki,"trekking, nature",20.623493,75.670775
+ajanta_ellora_caves,ajantaelloracaves,Salim Ali Lake,"adventure, nature",20.535613,75.688397
+ajanta_ellora_caves,ajantaelloracaves,Prozone Mall Aurangabad,"cultural, beach",20.615884,75.741715
+ajanta_ellora_caves,ajantaelloracaves,Lonar Crater Lake,"adventure, cultural, beach",20.574619,75.712616
+ajanta_ellora_caves,ajantaelloracaves,Shirdi Sai Baba Temple,"adventure, family",20.560503,75.706346
+ajanta_ellora_caves,ajantaelloracaves,Shani Shingnapur,"adventure, heritage, photography",20.634112,75.652617
+andaman_islands,andamanislands,Radhanagar Beach,"scenic, trekking, beach",11.804115,92.719818
+andaman_islands,andamanislands,Cellular Jail,"photography, scenic",11.707343,92.758584
+andaman_islands,andamanislands,Ross Island,"adventure, family, nature",11.766427,92.60154
+andaman_islands,andamanislands,Neil Island,"scenic, nature, cultural",11.757593,92.66778
+andaman_islands,andamanislands,Havelock Island,"photography, nature",11.735436,92.650466
+andaman_islands,andamanislands,Elephant Beach,"scenic, family",11.768188,92.686845
+andaman_islands,andamanislands,Barren Island,"scenic, nature",11.716633,92.637166
+andaman_islands,andamanislands,Baratang Island,"adventure, nature, cultural",11.7171,92.651609
+andaman_islands,andamanislands,Mount Harriet,"photography, family",11.775558,92.706702
+andaman_islands,andamanislands,Chidiya Tapu,"scenic, photography, cultural",11.731528,92.702557
+andaman_islands,andamanislands,North Bay Island,"adventure, nature",11.757768,92.663922
+andaman_islands,andamanislands,Jolly Buoy Island,"scenic, cultural, heritage",11.814801,92.671765
+andaman_islands,andamanislands,Red Skin Island,"cultural, trekking, beach",11.734684,92.692028
+andaman_islands,andamanislands,Mahatma Gandhi Marine NP,"family, cultural",11.690866,92.649826
+andaman_islands,andamanislands,Wandoor Beach,"photography, beach",11.750571,92.687375
+bangalore,bangalore,Lalbagh Garden,"lake, wildlife",16.076931,83.373224
+bangalore,bangalore,Cubbon Park,trekking,24.600594,83.256649
+bangalore,bangalore,Mysore Road,"temple, scenic, trekking",20.541372,69.053612
+bangalore,bangalore,Vidhana Soudha,"heritage, amusement, waterfall",24.006252,70.78135
+bangalore,bangalore,Lalbagh Garden (View 2),"nature, mountain",16.511801,79.9396
+bangalore,bangalore,Cubbon Park (View 2),temple,17.934512,85.528248
+bangalore,bangalore,Mysore Road (View 2),temple,21.57695,76.896526
+bangalore,bangalore,Vidhana Soudha (View 2),heritage,17.328486,84.608166
+bangalore,bangalore,Lalbagh Garden (View 3),valley,19.865051,72.747532
+bangalore,bangalore,Cubbon Park (View 3),"historical, fort",18.680147,70.956473
+bangalore,bangalore,Mysore Road (View 3),adventure,21.468617,86.659171
+bangalore,bangalore,Vidhana Soudha (View 3),"cultural, mountain",24.947196,75.849165
+bangalore,bangalore,Lalbagh Garden (View 4),cultural,22.043954,77.274008
+bangalore,bangalore,Cubbon Park (View 4),"wildlife, cultural, lake",18.663158,84.778104
+bangalore,bangalore,Mysore Road (View 4),photography,16.213966,86.889821
+bangalore,bangalore,Vidhana Soudha (View 4),"historical, adventure, amusement",16.537738,85.071993
+bangalore,bangalore,Lalbagh Garden (View 5),"lake, nature",18.040436,74.823428
+bangalore,bangalore,Cubbon Park (View 5),scenic,24.139736,83.229054
+bangalore,bangalore,Mysore Road (View 5),wildlife,15.30628,72.602525
+bangalore,bangalore,Vidhana Soudha (View 5),"wildlife, photography, valley",24.436866,73.780476
+chandigarh,chandigarh,Rock Garden,"historical, fort, wildlife",18.832556,84.379412
+chandigarh,chandigarh,Sukhna Lake,"historical, wildlife",18.109079,84.45025
+chandigarh,chandigarh,Rose Garden,"waterfall, heritage, mountain",20.532552,86.743632
+chandigarh,chandigarh,Capitol Complex,amusement,22.539281,85.593039
+chandigarh,chandigarh,Rock Garden (View 2),historical,22.913108,78.692477
+chandigarh,chandigarh,Sukhna Lake (View 2),fort,24.884501,75.956761
+chandigarh,chandigarh,Rose Garden (View 2),"heritage, historical",21.683948,71.672427
+chandigarh,chandigarh,Capitol Complex (View 2),fort,22.138833,69.435727
+chandigarh,chandigarh,Rock Garden (View 3),"cultural, historical",18.588748,76.593162
+chandigarh,chandigarh,Sukhna Lake (View 3),photography,19.496957,77.758895
+chandigarh,chandigarh,Rose Garden (View 3),beach,20.247824,77.515913
+chandigarh,chandigarh,Capitol Complex (View 3),"historical, wildlife",18.805777,78.039049
+chandigarh,chandigarh,Rock Garden (View 4),"amusement, mountain",24.277008,87.380734
+chandigarh,chandigarh,Sukhna Lake (View 4),"valley, photography, trekking",24.649728,74.358296
+chandigarh,chandigarh,Rose Garden (View 4),"historical, valley",17.924265,85.922586
+chandigarh,chandigarh,Capitol Complex (View 4),"adventure, heritage, beach",19.696949,79.469849
+chandigarh,chandigarh,Rock Garden (View 5),"fort, amusement",15.03328,86.50565
+chandigarh,chandigarh,Sukhna Lake (View 5),fort,24.70249,82.499647
+chandigarh,chandigarh,Rose Garden (View 5),"temple, wildlife, amusement",22.421721,77.746652
+chandigarh,chandigarh,Capitol Complex (View 5),"photography, historical",15.214906,73.412251
+chennai,chennai,Marina Beach,"fort, heritage, valley",20.182642,69.237934
+chennai,chennai,Kapaleeshwarar Temple,"historical, temple",19.043023,87.277374
+chennai,chennai,Fort St. George,"heritage, historical, adventure",22.806077,74.848367
+chennai,chennai,Elliot's Beach,"valley, beach, family",17.840278,80.788798
+chennai,chennai,Marina Beach (View 2),"nature, beach",24.860582,71.928521
+chennai,chennai,Kapaleeshwarar Temple (View 2),valley,20.790108,75.699582
+chennai,chennai,Fort St. George (View 2),"temple, fort, heritage",19.124708,86.30947
+chennai,chennai,Elliot's Beach (View 2),"beach, temple, mountain",19.671939,74.478103
+chennai,chennai,Marina Beach (View 3),"family, amusement, adventure",20.153852,81.789556
+chennai,chennai,Kapaleeshwarar Temple (View 3),trekking,18.112249,73.504422
+chennai,chennai,Fort St. George (View 3),"historical, temple",21.063782,87.797431
+chennai,chennai,Elliot's Beach (View 3),"photography, amusement, nature",15.264407,83.408067
+chennai,chennai,Marina Beach (View 4),"amusement, nature",17.262532,85.984111
+chennai,chennai,Kapaleeshwarar Temple (View 4),"valley, amusement, wildlife",18.178659,71.184562
+chennai,chennai,Fort St. George (View 4),"wildlife, trekking, mountain",21.014659,78.91754
+chennai,chennai,Elliot's Beach (View 4),"beach, mountain, nature",19.186341,69.727074
+chennai,chennai,Marina Beach (View 5),"heritage, trekking",23.157417,83.781344
+chennai,chennai,Kapaleeshwarar Temple (View 5),heritage,22.951093,85.548064
+chennai,chennai,Fort St. George (View 5),"scenic, nature",23.778778,75.639952
+chennai,chennai,Elliot's Beach (View 5),"temple, historical, beach",24.327901,77.688173
+coimbatore,coimbatore,Marudamalai Temple,adventure,16.066788,85.49101
+coimbatore,coimbatore,VOC Park,trekking,22.315725,71.063368
+coimbatore,coimbatore,Gedee Car Museum,"amusement, temple",19.308653,80.009862
+coimbatore,coimbatore,Black Thunder,"trekking, photography",17.654044,79.838304
+coimbatore,coimbatore,Marudamalai Temple (View 2),"scenic, adventure, nature",15.314678,86.428089
+coimbatore,coimbatore,VOC Park (View 2),trekking,15.190311,78.70494
+coimbatore,coimbatore,Gedee Car Museum (View 2),mountain,15.066507,84.883822
+coimbatore,coimbatore,Black Thunder (View 2),"photography, heritage, temple",19.77341,87.709945
+coimbatore,coimbatore,Marudamalai Temple (View 3),temple,16.557537,86.325855
+coimbatore,coimbatore,VOC Park (View 3),historical,20.559,74.07841
+coimbatore,coimbatore,Gedee Car Museum (View 3),scenic,24.402474,83.875572
+coimbatore,coimbatore,Black Thunder (View 3),cultural,20.607824,72.994165
+coimbatore,coimbatore,Marudamalai Temple (View 4),nature,20.677962,68.892143
+coimbatore,coimbatore,VOC Park (View 4),"scenic, amusement, trekking",16.96213,70.136161
+coimbatore,coimbatore,Gedee Car Museum (View 4),"wildlife, scenic, heritage",21.211715,79.745623
+coimbatore,coimbatore,Black Thunder (View 4),"trekking, photography",17.033245,69.951265
+coimbatore,coimbatore,Marudamalai Temple (View 5),"lake, valley, mountain",22.534979,81.47327
+coimbatore,coimbatore,VOC Park (View 5),"waterfall, scenic",19.158769,74.785018
+coimbatore,coimbatore,Gedee Car Museum (View 5),"amusement, fort, mountain",17.311573,87.122552
+coimbatore,coimbatore,Black Thunder (View 5),"fort, cultural",19.084164,73.638552
+coorg,coorg,Abbey Falls,"family, trekking, nature",12.339501,75.760132
+coorg,coorg,Nagarhole National Park,"cultural, scenic",12.330172,75.857742
+coorg,coorg,Raja's Seat,"nature, trekking, scenic",12.356396,75.770059
+coorg,coorg,Iruppu Falls,"heritage, cultural, beach",12.316617,75.791721
+coorg,coorg,Talakaveri,"trekking, heritage",12.304128,75.817804
+coorg,coorg,Bhagamandala,"heritage, nature",12.424853,75.784523
+coorg,coorg,Omkareshwar Temple,"scenic, adventure, heritage",12.414693,75.806755
+coorg,coorg,Dubare Elephant Camp,"photography, cultural",12.350387,75.817335
+coorg,coorg,Madikeri Fort,"photography, trekking",12.269646,75.825088
+coorg,coorg,Golden Temple Bylakuppe,"scenic, beach",12.240218,75.815269
+coorg,coorg,Pushpagiri Wildlife Sanctuary,"heritage, trekking, adventure",12.344011,75.745503
+coorg,coorg,Chelavara Falls,"trekking, scenic, nature",12.340091,75.795185
+coorg,coorg,Cauvery River,"family, heritage, scenic",12.331353,75.801157
+coorg,coorg,Mandalpatti Peak,"nature, trekking, adventure",12.313938,75.809928
+coorg,coorg,Nisargadhama Forest Camp,"family, adventure",12.372127,75.797342
+delhi,delhi,Red Fort,fort,20.613935,76.125062
+delhi,delhi,Qutub Minar,"waterfall, valley, adventure",20.89596,73.086041
+delhi,delhi,India Gate,"amusement, photography, beach",19.561593,80.259098
+delhi,delhi,Lotus Temple,"fort, heritage, wildlife",21.133938,85.114563
+delhi,delhi,Red Fort (View 2),cultural,20.701692,81.924624
+delhi,delhi,Qutub Minar (View 2),"mountain, beach, wildlife",24.749176,68.045271
+delhi,delhi,India Gate (View 2),"temple, photography, family",24.411019,86.435708
+delhi,delhi,Lotus Temple (View 2),"photography, beach, wildlife",22.649927,69.084238
+delhi,delhi,Red Fort (View 3),waterfall,21.234264,79.151673
+delhi,delhi,Qutub Minar (View 3),family,23.141144,72.194706
+delhi,delhi,India Gate (View 3),"beach, scenic",20.520186,85.508124
+delhi,delhi,Lotus Temple (View 3),historical,20.119474,69.84644
+delhi,delhi,Red Fort (View 4),"historical, amusement",16.75635,74.11605
+delhi,delhi,Qutub Minar (View 4),"lake, photography",20.93112,73.369823
+delhi,delhi,India Gate (View 4),temple,19.575123,69.690469
+delhi,delhi,Lotus Temple (View 4),"lake, trekking",18.626096,82.662463
+delhi,delhi,Red Fort (View 5),"photography, scenic, historical",22.354237,72.763559
+delhi,delhi,Qutub Minar (View 5),valley,18.622154,86.363488
+delhi,delhi,India Gate (View 5),valley,24.950191,82.706775
+delhi,delhi,Lotus Temple (View 5),wildlife,20.06223,68.64798
+goa_beaches,goabeaches,Baga Beach,"heritage, nature, scenic",15.287631,74.150923
+goa_beaches,goabeaches,Calangute Beach,"scenic, trekking",15.358342,74.136542
+goa_beaches,goabeaches,Anjuna Beach,"trekking, heritage, beach",15.306949,74.057602
+goa_beaches,goabeaches,Vagator Beach,"photography, nature, family",15.244828,74.064407
+goa_beaches,goabeaches,Chapora Fort,"beach, family",15.291649,74.090649
+goa_beaches,goabeaches,Dudhsagar Falls,"scenic, nature, photography",15.279458,74.090141
+goa_beaches,goabeaches,Basilica of Bom Jesus,"heritage, family",15.268973,74.049835
+goa_beaches,goabeaches,Se Cathedral,"family, scenic",15.3081,74.152006
+goa_beaches,goabeaches,Fort Aguada,"nature, beach",15.302089,74.138595
+goa_beaches,goabeaches,Palolem Beach,"nature, heritage, photography",15.317903,74.141008
+goa_beaches,goabeaches,Colva Beach,"beach, heritage",15.33316,74.171628
+goa_beaches,goabeaches,Miramar Beach,"heritage, family",15.362433,74.04697
+goa_beaches,goabeaches,Dona Paula,"adventure, scenic",15.317987,74.075597
+goa_beaches,goabeaches,Fontainhas Latin Quarter,"beach, scenic, trekking",15.355546,74.126642
+goa_beaches,goabeaches,Mangeshi Temple,"heritage, scenic, beach",15.310353,74.128689
+guwahati,guwahati,Kamakhya Temple,"adventure, mountain, nature",22.946602,77.554016
+guwahati,guwahati,Umananda Island,"nature, scenic",18.204647,86.999397
+guwahati,guwahati,Assam State Museum,"family, beach",19.931523,76.03281
+guwahati,guwahati,Dipor Bil,"fort, wildlife",21.35652,80.73943
+guwahati,guwahati,Kamakhya Temple (View 2),"valley, heritage, amusement",21.459474,84.578005
+guwahati,guwahati,Umananda Island (View 2),"trekking, fort, valley",24.313405,76.154409
+guwahati,guwahati,Assam State Museum (View 2),amusement,20.806787,72.140796
+guwahati,guwahati,Dipor Bil (View 2),amusement,16.870804,70.507558
+guwahati,guwahati,Kamakhya Temple (View 3),"fort, heritage",15.218276,77.363035
+guwahati,guwahati,Umananda Island (View 3),"scenic, adventure, heritage",21.934302,69.65089
+guwahati,guwahati,Assam State Museum (View 3),"historical, waterfall",22.054094,86.517035
+guwahati,guwahati,Dipor Bil (View 3),"heritage, family, scenic",18.245676,76.820182
+guwahati,guwahati,Kamakhya Temple (View 4),"heritage, temple, trekking",17.269255,76.614133
+guwahati,guwahati,Umananda Island (View 4),"waterfall, scenic, temple",15.6262,82.282054
+guwahati,guwahati,Assam State Museum (View 4),"cultural, valley",15.334113,87.558879
+guwahati,guwahati,Dipor Bil (View 4),beach,16.29472,71.714139
+guwahati,guwahati,Kamakhya Temple (View 5),wildlife,21.263,80.827722
+guwahati,guwahati,Umananda Island (View 5),"heritage, lake",21.323758,71.260046
+guwahati,guwahati,Assam State Museum (View 5),"lake, family",22.293533,73.906723
+guwahati,guwahati,Dipor Bil (View 5),"nature, beach",24.604817,71.554107
+hampi_ruins,hampiruins,Virupaksha Temple,"trekking, beach, family",15.327698,76.430113
+hampi_ruins,hampiruins,Vittala Temple,"trekking, photography",15.294835,76.406227
+hampi_ruins,hampiruins,Hampi Bazaar,"beach, nature",15.306266,76.402537
+hampi_ruins,hampiruins,Lotus Mahal,"trekking, family, adventure",15.317615,76.431687
+hampi_ruins,hampiruins,Elephant Stables,"family, nature, photography",15.303831,76.509529
+hampi_ruins,hampiruins,Zanana Enclosure,"cultural, beach",15.325239,76.452717
+hampi_ruins,hampiruins,Hazara Rama Temple,"family, heritage",15.386279,76.40565
+hampi_ruins,hampiruins,Achyutaraya Temple,"nature, cultural",15.315519,76.398031
+hampi_ruins,hampiruins,Tungabhadra Dam,"beach, nature, photography",15.337811,76.484286
+hampi_ruins,hampiruins,Hemakuta Hill,"heritage, nature, scenic",15.238004,76.4944
+hampi_ruins,hampiruins,Matanga Hill,"photography, cultural",15.347442,76.461459
+hampi_ruins,hampiruins,Anegundi,"photography, beach",15.285326,76.490878
+hampi_ruins,hampiruins,Queen's Bath,"trekking, adventure",15.402316,76.4437
+hampi_ruins,hampiruins,Underground Temple,"trekking, cultural, photography",15.322302,76.46091
+hampi_ruins,hampiruins,Mahanavami Dibba,"adventure, trekking",15.319022,76.452873
+hyderabad,hyderabad,Charminar,waterfall,24.966031,85.983657
+hyderabad,hyderabad,Golconda Fort,wildlife,18.740996,79.452018
+hyderabad,hyderabad,Hussain Sagar,"family, valley, wildlife",19.417595,70.070783
+hyderabad,hyderabad,Ramoji Film City,scenic,16.73124,72.055166
+hyderabad,hyderabad,Charminar (View 2),valley,20.493081,75.478476
+hyderabad,hyderabad,Golconda Fort (View 2),"trekking, nature",20.35882,76.20588
+hyderabad,hyderabad,Hussain Sagar (View 2),"heritage, valley, family",22.731789,85.825251
+hyderabad,hyderabad,Ramoji Film City (View 2),nature,20.265224,70.028202
+hyderabad,hyderabad,Charminar (View 3),"heritage, cultural, amusement",22.562971,83.708287
+hyderabad,hyderabad,Golconda Fort (View 3),valley,19.738815,81.945246
+hyderabad,hyderabad,Hussain Sagar (View 3),beach,23.921614,87.831935
+hyderabad,hyderabad,Ramoji Film City (View 3),cultural,18.486387,72.447258
+hyderabad,hyderabad,Charminar (View 4),"scenic, wildlife, valley",23.189019,80.068299
+hyderabad,hyderabad,Golconda Fort (View 4),"fort, cultural",23.332027,80.397122
+hyderabad,hyderabad,Hussain Sagar (View 4),"trekking, lake, waterfall",15.809665,78.372211
+hyderabad,hyderabad,Ramoji Film City (View 4),"amusement, family, heritage",21.928492,71.777897
+hyderabad,hyderabad,Charminar (View 5),"trekking, scenic, beach",19.415262,69.006021
+hyderabad,hyderabad,Golconda Fort (View 5),"amusement, wildlife, temple",23.397908,84.481538
+hyderabad,hyderabad,Hussain Sagar (View 5),temple,19.210994,75.904131
+hyderabad,hyderabad,Ramoji Film City (View 5),valley,22.822008,70.217273
+jaipur_city,jaipurcity,Amber Fort,"beach, heritage, cultural",26.92895,75.764547
+jaipur_city,jaipurcity,City Palace,"photography, cultural",26.901529,75.753928
+jaipur_city,jaipurcity,Hawa Mahal,"scenic, trekking",26.908116,75.759551
+jaipur_city,jaipurcity,Jantar Mantar,"cultural, adventure",26.977872,75.840214
+jaipur_city,jaipurcity,Nahargarh Fort,"photography, cultural, adventure",26.941352,75.78855
+jaipur_city,jaipurcity,Jaigarh Fort,"family, nature",26.957968,75.79125
+jaipur_city,jaipurcity,Birla Mandir,"heritage, trekking",26.918847,75.718181
+jaipur_city,jaipurcity,Albert Hall Museum,"beach, scenic, trekking",26.922827,75.735653
+jaipur_city,jaipurcity,Jal Mahal,"photography, trekking, heritage",26.896287,75.794059
+jaipur_city,jaipurcity,Chokhi Dhani,"scenic, heritage",26.876452,75.806449
+jaipur_city,jaipurcity,Elefantastic,"beach, adventure, trekking",26.954469,75.751948
+jaipur_city,jaipurcity,Sanganer Village,"photography, trekking",26.917096,75.737442
+jaipur_city,jaipurcity,Gaitore Ki Chhatriyan,"family, scenic",26.865723,75.799701
+jaipur_city,jaipurcity,Panna Meena Ka Kund,"heritage, cultural, adventure",26.940937,75.726931
+jaipur_city,jaipurcity,Sisodia Rani Garden,"cultural, beach, scenic",26.994346,75.767425
+kaziranga,kaziranga,Kohora Range,"photography, adventure, trekking",26.648253,93.356746
+kaziranga,kaziranga,Bagori Range,"cultural, adventure, family",26.63689,93.323221
+kaziranga,kaziranga,Agoratoli Range,"cultural, nature, photography",26.645801,93.390288
+kaziranga,kaziranga,Rhino Safaris,"adventure, trekking, family",26.657166,93.359989
+kaziranga,kaziranga,Elephant Safaris,"beach, photography",26.696767,93.398089
+kaziranga,kaziranga,Kaziranga Orchid Park,"photography, family, scenic",26.600828,93.300067
+kaziranga,kaziranga,Burapahar Range,"adventure, scenic, photography",26.662559,93.324407
+kaziranga,kaziranga,Orang National Park,"trekking, heritage, scenic",26.712181,93.350446
+kaziranga,kaziranga,Gibbon Wildlife Sanctuary,"trekking, adventure",26.749904,93.349483
+kaziranga,kaziranga,Pobitora Wildlife Sanctuary,"family, scenic",26.690345,93.342318
+kaziranga,kaziranga,Manas National Park,"cultural, trekking",26.697504,93.389384
+kaziranga,kaziranga,Nameri National Park,"adventure, photography",26.71351,93.363629
+kaziranga,kaziranga,Teok Tea Garden,"adventure, beach, nature",26.728814,93.380985
+kaziranga,kaziranga,Karbi Anglong Hills,"scenic, adventure, family",26.652274,93.34356
+kaziranga,kaziranga,Bokakhat,"beach, family, cultural",26.707153,93.41957
+kerala_backwaters,keralabackwaters,Alleppey Backwaters,"nature, cultural",9.503456,76.367422
+kerala_backwaters,keralabackwaters,Vembanad Lake,"beach, trekking",9.464389,76.372397
+kerala_backwaters,keralabackwaters,Kumarakom,"photography, cultural, family",9.492932,76.394838
+kerala_backwaters,keralabackwaters,Kuttanad Rice Bowl,"family, adventure, cultural",9.485915,76.357512
+kerala_backwaters,keralabackwaters,Pathiramanal Island,"nature, photography, heritage",9.523599,76.375007
+kerala_backwaters,keralabackwaters,Punnamada Lake,"scenic, nature",9.499595,76.327339
+kerala_backwaters,keralabackwaters,Marari Beach,"trekking, adventure",9.4671,76.358247
+kerala_backwaters,keralabackwaters,Krishnapuram Palace,"adventure, scenic",9.422207,76.351156
+kerala_backwaters,keralabackwaters,Mullakkal Temple,"scenic, cultural, adventure",9.513432,76.413761
+kerala_backwaters,keralabackwaters,St Andrew's Basilica,"adventure, family, heritage",9.471674,76.346309
+kerala_backwaters,keralabackwaters,Champakulam,"adventure, beach, nature",9.504463,76.294558
+kerala_backwaters,keralabackwaters,Ambalappuzha Temple,"cultural, scenic",9.49788,76.285138
+kerala_backwaters,keralabackwaters,Kainakary,"photography, scenic",9.536619,76.362429
+kerala_backwaters,keralabackwaters,Thalavady,"beach, family",9.515363,76.313322
+kerala_backwaters,keralabackwaters,Karumadi Kuttan,"scenic, heritage",9.554851,76.295408
+khajuraho_temples,khajurahotemples,Western Group Temples,"photography, family",24.721182,79.937621
+khajuraho_temples,khajurahotemples,Eastern Group Temples,"beach, adventure",24.887909,79.927322
+khajuraho_temples,khajurahotemples,Kandariya Mahadeva Temple,"nature, scenic",24.752597,79.949733
+khajuraho_temples,khajurahotemples,Lakshmana Temple,"scenic, photography, heritage",24.789205,79.868555
+khajuraho_temples,khajurahotemples,Chaturbhuja Temple,"cultural, family, scenic",24.792689,79.855554
+khajuraho_temples,khajurahotemples,Duladeo Temple,"trekking, scenic",24.839934,79.893986
+khajuraho_temples,khajurahotemples,Archaeological Museum,"photography, scenic, adventure",24.77858,80.015095
+khajuraho_temples,khajurahotemples,Raneh Falls,"trekking, scenic, photography",24.810545,79.921969
+khajuraho_temples,khajurahotemples,Panna National Park,"trekking, nature, cultural",24.893961,79.947
+khajuraho_temples,khajurahotemples,Ken River Lodge,"trekking, nature, scenic",24.908138,79.892055
+khajuraho_temples,khajurahotemples,Jain Temples Khajuraho,"trekking, nature",24.873697,79.939522
+khajuraho_temples,khajurahotemples,Ghantai Temple,"beach, family, cultural",24.871601,79.953675
+khajuraho_temples,khajurahotemples,Vamana Temple,"photography, trekking",24.800921,80.032837
+khajuraho_temples,khajurahotemples,Matangeshwar Temple,"photography, family, nature",24.741374,79.885331
+khajuraho_temples,khajurahotemples,Adinath Temple,"cultural, beach",24.859045,79.931526
+kolkata,kolkata,Victoria Memorial,"adventure, heritage",22.515779,88.419876
+kolkata,kolkata,Howrah Bridge,"scenic, family",22.538174,88.378232
+kolkata,kolkata,Dakshineswar Kali Temple,"adventure, scenic",22.68194,88.347165
+kolkata,kolkata,Belur Math,"photography, scenic, beach",22.579301,88.341548
+kolkata,kolkata,Indian Museum,"adventure, photography, beach",22.57961,88.420905
+kolkata,kolkata,College Street,"cultural, adventure, heritage",22.564818,88.352128
+kolkata,kolkata,Park Street,"heritage, photography",22.616742,88.313371
+kolkata,kolkata,Princep Ghat,"scenic, adventure, beach",22.575925,88.334792
+kolkata,kolkata,Eden Gardens,"photography, beach",22.563081,88.328406
+kolkata,kolkata,Science City,"family, cultural",22.515448,88.27556
+kolkata,kolkata,Marble Palace,"heritage, beach",22.554491,88.373018
+kolkata,kolkata,Kumartuli,"beach, adventure, nature",22.60513,88.310481
+kolkata,kolkata,Jorasanko Thakur Bari,"adventure, trekking",22.578692,88.38627
+kolkata,kolkata,Kalighat Temple,"nature, adventure",22.587008,88.37421
+kolkata,kolkata,Alipore Zoo,"beach, heritage",22.486107,88.359116
+kovalam_beach,kovalambeach,Lighthouse Beach,"photography, cultural",8.408815,77.044594
+kovalam_beach,kovalambeach,Hawa Beach,"trekking, photography",8.449986,77.042879
+kovalam_beach,kovalambeach,Samudra Beach,"nature, trekking",8.392612,76.893711
+kovalam_beach,kovalambeach,Vizhinjam Lighthouse,"photography, beach",8.430292,76.934041
+kovalam_beach,kovalambeach,Halcyon Castle,"cultural, family",8.385918,76.976215
+kovalam_beach,kovalambeach,Kovalam Ayurveda Resorts,"photography, cultural, family",8.400481,77.004451
+kovalam_beach,kovalambeach,Poovar Island,"heritage, photography, scenic",8.363464,77.003761
+kovalam_beach,kovalambeach,Neyyar Dam,"cultural, adventure, trekking",8.392789,77.082785
+kovalam_beach,kovalambeach,Agasthyarkoodam,"cultural, family, nature",8.336793,76.9838
+kovalam_beach,kovalambeach,Padmanabhapuram Palace,"trekking, beach, scenic",8.424994,76.962252
+kovalam_beach,kovalambeach,Sree Padmanabhaswamy Temple,"cultural, nature, family",8.377447,77.031682
+kovalam_beach,kovalambeach,Cape Comorin,"nature, heritage",8.434039,76.946749
+kovalam_beach,kovalambeach,Kanyakumari Rock Memorial,"heritage, adventure",8.341083,77.002237
+kovalam_beach,kovalambeach,Veli Tourist Village,"trekking, beach",8.413311,77.001537
+kovalam_beach,kovalambeach,Shangumugham Beach,"trekking, adventure, heritage",8.395152,77.013051
+leh_ladakh,lehladakh,Pangong Lake,"family, adventure",34.107718,77.607139
+leh_ladakh,lehladakh,Nubra Valley,"cultural, nature, photography",34.093146,77.552401
+leh_ladakh,lehladakh,Khardung La Pass,"scenic, heritage",34.172189,77.543199
+leh_ladakh,lehladakh,Magnetic Hill,"adventure, family, scenic",34.21123,77.601443
+leh_ladakh,lehladakh,Shanti Stupa,"scenic, adventure",34.105339,77.603319
+leh_ladakh,lehladakh,Leh Palace,"nature, family, photography",34.099785,77.577248
+leh_ladakh,lehladakh,Hemis Monastery,"heritage, photography, family",34.187693,77.605472
+leh_ladakh,lehladakh,Thiksey Monastery,"nature, family",34.149146,77.563328
+leh_ladakh,lehladakh,Diskit Monastery,"beach, adventure, family",34.106288,77.584404
+leh_ladakh,lehladakh,Alchi Monastery,"adventure, heritage",34.18478,77.659689
+leh_ladakh,lehladakh,Zanskar Valley,"beach, nature, heritage",34.134355,77.610967
+leh_ladakh,lehladakh,Sham Valley,"scenic, adventure",34.183179,77.55804
+leh_ladakh,lehladakh,Tso Moriri,"scenic, beach, heritage",34.181439,77.544446
+leh_ladakh,lehladakh,Changthang Plateau,"photography, adventure",34.162881,77.568648
+leh_ladakh,lehladakh,Wari La Pass,"cultural, scenic",34.170342,77.598027
+manali,manali,Rohtang Pass,"beach, family",32.217088,77.218878
+manali,manali,Solang Valley,"trekking, nature",32.227198,77.197412
+manali,manali,Hadimba Temple,"nature, adventure, trekking",32.264627,77.195776
+manali,manali,Old Manali,"beach, photography, heritage",32.151555,77.141723
+manali,manali,Beas River Rafting,"family, adventure",32.313837,77.202242
+manali,manali,Kullu Valley,"heritage, scenic",32.135213,77.191989
+manali,manali,Bijli Mahadev Temple,"scenic, trekking, cultural",32.315305,77.200152
+manali,manali,Jana Waterfall,"scenic, trekking, family",32.244976,77.116066
+manali,manali,Naggar Castle,"cultural, scenic",32.232365,77.123471
+manali,manali,Great Himalayan National Park,"nature, scenic",32.194302,77.131153
+manali,manali,Manikaran Gurudwara,"nature, adventure, scenic",32.312778,77.218321
+manali,manali,Malana Village,"family, nature, adventure",32.299239,77.136261
+manali,manali,Chandrakhani Pass,"scenic, heritage, cultural",32.250831,77.148876
+manali,manali,Hampta Pass,"nature, cultural",32.207155,77.207978
+manali,manali,Bhrigu Lake,"family, adventure",32.250352,77.200649
+mumbai,mumbai,Gateway of India,"fort, beach",19.389461,84.299566
+mumbai,mumbai,Marine Drive,"nature, waterfall",18.124475,74.555091
+mumbai,mumbai,Elephanta Caves,"photography, trekking",23.655818,80.990803
+mumbai,mumbai,Juhu Beach,"nature, amusement, family",19.086519,71.630986
+mumbai,mumbai,Gateway of India (View 2),heritage,17.607523,82.205124
+mumbai,mumbai,Marine Drive (View 2),"wildlife, temple",18.400185,82.42323
+mumbai,mumbai,Elephanta Caves (View 2),adventure,16.359252,75.506127
+mumbai,mumbai,Juhu Beach (View 2),"temple, trekking, fort",22.113431,76.721007
+mumbai,mumbai,Gateway of India (View 3),"beach, family",23.961404,68.302733
+mumbai,mumbai,Marine Drive (View 3),"scenic, waterfall",22.031274,86.421595
+mumbai,mumbai,Elephanta Caves (View 3),"lake, valley, fort",22.115258,79.401216
+mumbai,mumbai,Juhu Beach (View 3),cultural,23.856926,83.786205
+mumbai,mumbai,Gateway of India (View 4),"temple, photography",15.290872,87.335534
+mumbai,mumbai,Marine Drive (View 4),"cultural, amusement",22.851953,80.052763
+mumbai,mumbai,Elephanta Caves (View 4),"cultural, fort",17.991319,73.449308
+mumbai,mumbai,Juhu Beach (View 4),"trekking, cultural",21.388387,87.169693
+mumbai,mumbai,Gateway of India (View 5),cultural,15.514952,85.342286
+mumbai,mumbai,Marine Drive (View 5),wildlife,15.705012,79.469045
+mumbai,mumbai,Elephanta Caves (View 5),"nature, lake",19.500249,82.913963
+mumbai,mumbai,Juhu Beach (View 5),"cultural, adventure, valley",15.571044,86.844921
+munnar,munnar,Eravikulam National Park,"adventure, beach, scenic",10.08689,77.085466
+munnar,munnar,Mattupetty Dam,"photography, heritage, trekking",10.179684,77.051788
+munnar,munnar,Echo Point,"family, nature, scenic",10.020809,77.023632
+munnar,munnar,Top Station,"trekking, adventure, beach",10.112998,77.120005
+munnar,munnar,Anamudi Peak,"cultural, photography, beach",10.051072,77.057763
+munnar,munnar,Chinnar Wildlife Sanctuary,"nature, family",10.089671,77.028747
+munnar,munnar,Attukal Waterfalls,"scenic, family",10.150309,77.106063
+munnar,munnar,Photo Point,"cultural, family",10.102666,77.042704
+munnar,munnar,Tea Museum,"heritage, photography, adventure",10.127149,77.080057
+munnar,munnar,Rajamala,"beach, trekking",10.071418,77.098359
+munnar,munnar,Lakkam Waterfalls,"adventure, trekking",10.103669,76.993072
+munnar,munnar,Pothamedu Viewpoint,"beach, nature, adventure",10.049211,77.006324
+munnar,munnar,Marayoor Sandalwood Forest,"scenic, beach, adventure",10.130148,77.031414
+munnar,munnar,Pallivasal Falls,"family, cultural, scenic",10.113987,77.146375
+munnar,munnar,Kundala Lake,"photography, trekking, scenic",10.120665,77.042741
+mysore,mysore,Mysore Palace,"trekking, photography",12.29469,76.627647
+mysore,mysore,Chamundeshwari Temple,"heritage, beach, trekking",12.241814,76.57974
+mysore,mysore,Brindavan Gardens,"family, cultural, trekking",12.350176,76.606471
+mysore,mysore,St Philomena's Cathedral,"trekking, photography, heritage",12.286178,76.686998
+mysore,mysore,Mysore Zoo,"cultural, trekking",12.285015,76.674499
+mysore,mysore,Karanji Lake,"adventure, beach",12.260279,76.701615
+mysore,mysore,Jaganmohan Palace,"adventure, scenic, trekking",12.304881,76.638326
+mysore,mysore,Lalitha Mahal Palace,"adventure, photography",12.289207,76.670002
+mysore,mysore,Devaraja Market,"heritage, scenic, photography",12.305249,76.511506
+mysore,mysore,Railway Museum,"beach, nature",12.277878,76.652279
+mysore,mysore,Srirangapatna,"beach, adventure, heritage",12.257072,76.619246
+mysore,mysore,Ranganathittu Bird Sanctuary,"adventure, cultural",12.28028,76.703199
+mysore,mysore,Shivanasamudra Falls,"trekking, heritage, family",12.319712,76.652562
+mysore,mysore,Nagarhole National Park,"photography, scenic, nature",12.249169,76.612012
+mysore,mysore,Bylakuppe Tibetan Settlement,"nature, adventure",12.32981,76.665804
+palakkad,palakkad,Palakkad Fort,trekking,16.804523,71.873451
+palakkad,palakkad,Silent Valley,"fort, scenic, waterfall",17.676156,75.209037
+palakkad,palakkad,Malampuzha Gardens,amusement,24.361163,77.453503
+palakkad,palakkad,Nelliyampathy Hills,"nature, wildlife",24.155311,75.824207
+palakkad,palakkad,Palakkad Fort (View 2),"adventure, photography, beach",18.057821,86.876951
+palakkad,palakkad,Silent Valley (View 2),beach,19.012071,81.280816
+palakkad,palakkad,Malampuzha Gardens (View 2),"beach, lake",21.556802,87.333909
+palakkad,palakkad,Nelliyampathy Hills (View 2),"fort, trekking",23.506186,70.845103
+palakkad,palakkad,Palakkad Fort (View 3),"fort, historical",18.025627,75.34872
+palakkad,palakkad,Silent Valley (View 3),family,22.234581,74.897814
+palakkad,palakkad,Malampuzha Gardens (View 3),"lake, trekking, valley",24.771595,81.672162
+palakkad,palakkad,Nelliyampathy Hills (View 3),"photography, heritage, scenic",24.981698,73.328405
+palakkad,palakkad,Palakkad Fort (View 4),photography,18.149518,78.772322
+palakkad,palakkad,Silent Valley (View 4),"wildlife, amusement",23.69702,70.807225
+palakkad,palakkad,Malampuzha Gardens (View 4),"mountain, historical, temple",23.871192,78.198774
+palakkad,palakkad,Nelliyampathy Hills (View 4),"scenic, temple, amusement",16.744471,85.213268
+palakkad,palakkad,Palakkad Fort (View 5),"scenic, wildlife, cultural",21.125828,70.596296
+palakkad,palakkad,Silent Valley (View 5),waterfall,20.101837,86.333068
+palakkad,palakkad,Malampuzha Gardens (View 5),"fort, heritage",24.267415,70.246685
+palakkad,palakkad,Nelliyampathy Hills (View 5),"photography, mountain, temple",23.833899,82.952495
+pune,pune,Shaniwar Wada,"photography, amusement, waterfall",16.986702,87.918221
+pune,pune,Aga Khan Palace,fort,21.118412,85.147789
+pune,pune,Sinhagad Fort,scenic,22.930213,82.903219
+pune,pune,Osho Ashram,"adventure, mountain",19.666677,82.454106
+pune,pune,Shaniwar Wada (View 2),"nature, amusement",22.091048,79.281838
+pune,pune,Aga Khan Palace (View 2),"scenic, waterfall",22.525707,80.294986
+pune,pune,Sinhagad Fort (View 2),"photography, scenic, nature",17.147583,80.014221
+pune,pune,Osho Ashram (View 2),"nature, heritage",18.267853,77.793328
+pune,pune,Shaniwar Wada (View 3),heritage,22.890001,69.676198
+pune,pune,Aga Khan Palace (View 3),lake,17.397868,73.37451
+pune,pune,Sinhagad Fort (View 3),"family, waterfall",20.923219,78.193277
+pune,pune,Osho Ashram (View 3),"adventure, fort, lake",24.374954,85.512091
+pune,pune,Shaniwar Wada (View 4),"mountain, temple",22.554165,75.357703
+pune,pune,Aga Khan Palace (View 4),lake,20.230403,77.514996
+pune,pune,Sinhagad Fort (View 4),"cultural, lake",17.397447,83.412226
+pune,pune,Osho Ashram (View 4),"photography, scenic, waterfall",20.789532,73.301552
+pune,pune,Shaniwar Wada (View 5),"mountain, fort, historical",22.130542,68.758477
+pune,pune,Aga Khan Palace (View 5),cultural,22.129043,69.61251
+pune,pune,Sinhagad Fort (View 5),"adventure, valley, scenic",17.219853,82.874948
+pune,pune,Osho Ashram (View 5),valley,24.816517,82.537809
+radhanagar_beach,radhanagarbeach,Radhanagar Beach Viewpoint,"cultural, scenic, family",11.990642,92.918438
+radhanagar_beach,radhanagarbeach,Laxmanpur Beach,"heritage, beach",11.945602,92.95276
+radhanagar_beach,radhanagarbeach,Bharatpur Beach,"cultural, beach, photography",11.990663,92.918123
+radhanagar_beach,radhanagarbeach,Ram Nagar Beach,"scenic, family, nature",12.037364,92.982516
+radhanagar_beach,radhanagarbeach,Kalapathar Beach,"trekking, family, beach",11.992429,92.963073
+radhanagar_beach,radhanagarbeach,Neil Island Coral Reef,"trekking, adventure, nature",11.923267,92.973632
+radhanagar_beach,radhanagarbeach,Howrah Bridge Neil,"photography, nature, cultural",12.010929,92.963869
+radhanagar_beach,radhanagarbeach,Natural Bridge Neil,"scenic, cultural",12.023766,92.967507
+radhanagar_beach,radhanagarbeach,Sitapur Beach,"photography, scenic, trekking",12.008841,92.965571
+radhanagar_beach,radhanagarbeach,Ramnagar Sunset Point,"scenic, cultural",11.996174,93.004725
+rishikesh,rishikesh,Lakshman Jhula,"cultural, photography",30.065751,78.267213
+rishikesh,rishikesh,Ram Jhula,"trekking, scenic, adventure",30.081755,78.224022
+rishikesh,rishikesh,Triveni Ghat,"photography, nature, beach",30.072109,78.244438
+rishikesh,rishikesh,Parmarth Niketan,"adventure, photography",30.041816,78.235447
+rishikesh,rishikesh,Beatles Ashram,"trekking, photography",30.07657,78.269801
+rishikesh,rishikesh,Neelkanth Mahadev Temple,"beach, heritage, nature",30.037153,78.315612
+rishikesh,rishikesh,Rajaji National Park,"family, cultural",30.111434,78.264192
+rishikesh,rishikesh,Neer Garh Waterfall,"adventure, cultural, scenic",30.038143,78.259098
+rishikesh,rishikesh,Kunjapuri Devi Temple,"adventure, beach",30.07597,78.224381
+rishikesh,rishikesh,Swarg Ashram,"nature, photography",30.04043,78.298258
+rishikesh,rishikesh,Haridwar Har Ki Pauri,"photography, trekking",30.07394,78.303023
+rishikesh,rishikesh,Chilla Wildlife Sanctuary,"family, photography, adventure",30.086373,78.297667
+rishikesh,rishikesh,Phool Chatti,"adventure, beach, trekking",30.115633,78.286266
+rishikesh,rishikesh,Vashishtha Cave,"scenic, beach, trekking",30.134205,78.271613
+rishikesh,rishikesh,Jhari Falls,"adventure, beach",30.027111,78.214191
+spiti_valley,spitivalley,Key Monastery,"beach, cultural",32.195855,78.038604
+spiti_valley,spitivalley,Tabo Monastery,"scenic, photography, trekking",32.260008,78.006492
+spiti_valley,spitivalley,Pin Valley National Park,"trekking, beach, adventure",32.235223,77.967688
+spiti_valley,spitivalley,Chandratal Lake,"family, heritage, nature",32.159871,78.113833
+spiti_valley,spitivalley,Dhankar Monastery,"cultural, scenic",32.254293,78.019143
+spiti_valley,spitivalley,Kunzum Pass,"adventure, scenic",32.278029,77.998696
+spiti_valley,spitivalley,Kibber Village,"nature, beach",32.250506,78.07775
+spiti_valley,spitivalley,Kaza Town,"heritage, adventure",32.202017,78.01382
+spiti_valley,spitivalley,Hikkim Village,"adventure, scenic, trekking",32.190869,78.066909
+spiti_valley,spitivalley,Langza Fossil Village,"nature, heritage, beach",32.254315,78.080368
+spiti_valley,spitivalley,Komic Village,"nature, family",32.279813,78.023043
+spiti_valley,spitivalley,Chicham Bridge,"trekking, nature, family",32.262531,78.050359
+spiti_valley,spitivalley,Parachute Camping,"trekking, cultural, heritage",32.275438,78.092157
+spiti_valley,spitivalley,Kye Gompa,"heritage, beach, adventure",32.202481,77.958447
+spiti_valley,spitivalley,Rangrik,"heritage, cultural, scenic",32.204051,78.052411
+taj_mahal,tajmahal,Taj Mahal,"heritage, photography, scenic",27.131883,78.067993
+taj_mahal,tajmahal,Agra Fort,"scenic, nature, family",27.217272,78.129716
+taj_mahal,tajmahal,Fatehpur Sikri,"cultural, adventure",27.177946,77.958132
+taj_mahal,tajmahal,Itmad-ud-Daulah,"beach, nature",27.103867,78.006614
+taj_mahal,tajmahal,Akbar's Tomb,"beach, nature, heritage",27.226397,78.12997
+taj_mahal,tajmahal,Mehtab Bagh,"family, scenic, trekking",27.158842,78.04423
+taj_mahal,tajmahal,Jama Masjid Agra,"photography, trekking, family",27.07185,78.068155
+taj_mahal,tajmahal,Kinari Bazaar,"scenic, family",27.180477,78.032099
+taj_mahal,tajmahal,Chini Ka Rauza,"photography, family",27.136557,78.028004
+taj_mahal,tajmahal,Ram Bagh,"cultural, family, heritage",27.121291,78.00767
+taj_mahal,tajmahal,Soami Bagh,"trekking, adventure, heritage",27.124275,78.001423
+taj_mahal,tajmahal,Guru Ka Tal,"scenic, adventure, nature",27.128894,78.065183
+taj_mahal,tajmahal,Mankameshwar Temple,"adventure, photography, heritage",27.129107,78.040008
+taj_mahal,tajmahal,Wildlife SOS,"nature, beach, cultural",27.131422,77.99999
+taj_mahal,tajmahal,Agra Bear Rescue Facility,"trekking, photography, nature",27.131415,78.081205
+varanasi,varanasi,Dashashwamedh Ghat,"heritage, beach",25.325896,82.952535
+varanasi,varanasi,Assi Ghat,"beach, photography, cultural",25.306224,83.034634
+varanasi,varanasi,Manikarnika Ghat,"family, trekking",25.377819,82.907882
+varanasi,varanasi,Kashi Vishwanath Temple,"nature, photography",25.295053,83.091926
+varanasi,varanasi,Sarnath,"adventure, heritage, photography",25.300279,82.990807
+varanasi,varanasi,Ramnagar Fort,"photography, trekking, heritage",25.363055,83.00803
+varanasi,varanasi,Bharat Mata Temple,"nature, photography, adventure",25.204898,82.987259
+varanasi,varanasi,New Vishwanath Temple BHU,"adventure, scenic",25.387572,82.975076
+varanasi,varanasi,Durga Temple,"adventure, nature",25.275953,82.933015
+varanasi,varanasi,Tulsi Manas Temple,"scenic, nature",25.309637,83.000909
+varanasi,varanasi,Sankat Mochan Hanuman Temple,"heritage, photography, scenic",25.433185,82.962308
+varanasi,varanasi,Alamgir Mosque,"nature, scenic, adventure",25.340079,82.912117
+varanasi,varanasi,Man Mandir Ghat,"family, trekking",25.250202,82.954024
+varanasi,varanasi,Kedar Ghat,"nature, photography, heritage",25.335418,82.970447
+varanasi,varanasi,Panchganga Ghat,"scenic, photography",25.31973,82.96292
